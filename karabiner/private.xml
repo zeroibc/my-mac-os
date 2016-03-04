@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<root>
+
+<inputsourcedef>
+    <name>British</name>
+    <inputsourceid_prefix>com.apple.keylayout.British</inputsourceid_prefi>
+ </inputsourcedef>
+
+
+<item>
+<name>F19 to F19</name>
+<appendix>(F19 to Hyper (ctrl+opt) + F19 Only, send escape)
+</appendix>
+<identifier>private.f192f19_escape</identifier>
+<autogen>
+--KeyOverlaidModifier--
+KeyCode::F19,
+KeyCode::OPTION_L,
+ModifierFlag::CONTROL_L,
+KeyCode::ESCAPE
+</autogen>
+</item> 
+
+<item>
+<name>Right Shift to Command and Shift</name>
+<identifier>private.right_shift_to_command_and_shift</identifier>
+<autogen>
+--KeyOverlaidModifier--
+KeyCode::SHIFT_R,
+KeyCode::SHIFT_L,
+ModifierFlag::COMMAND_L,
+KeyCode::DELETE
+</autogen>
+</item>
+
+<item>
+<name>Right Command to Alfred</name>
+<identifier>private.right_command_to_alfred</identifier>
+<autogen>
+__KeyOverlaidModifier__
+KeyCode::COMMAND_R,
+KeyCode::COMMAND_R,
+KeyCode::SPACE, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
+</autogen>
+</item>
+
+
+<item>
+<name>Left Option to App Specific</name>	
+<identifier>private.left_shift_to_app_specific</identifier>
+<autogen>
+__KeyOverlaidModifier__
+KeyCode::OPTION_L,
+KeyCode::OPTION_L,
+KeyCode::Z, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
+</autogen>	
+</item>
+
+
+<item>
+<name>Put {} to shift 9+0 / Put () and [] in good place</name>	
+<identifier>private.brackets_around</identifier>
+<inputsource_only>British</inputsource_only>
+<autogen>
+__KeyToKey__
+KeyCode::9, ModifierFlag::SHIFT_L,
+KeyCode::BRACKET_LEFT, ModifierFlag::SHIFT_L,
+</autogen>
+<autogen>
+__KeyToKey__
+KeyCode::0, ModifierFlag::SHIFT_L,
+KeyCode::BRACKET_RIGHT, ModifierFlag::SHIFT_L
+</autogen>	
+<autogen>
+__KeyToKey__
+KeyCode::BRACKET_LEFT, ModifierFlag::NONE,
+KeyCode::9, ModifierFlag::SHIFT_L	
+</autogen>	
+<autogen>
+__KeyToKey__
+KeyCode::BRACKET_RIGHT, ModifierFlag::NONE,
+KeyCode::0, ModifierFlag::SHIFT_L	
+</autogen>
+<autogen>
+__KeyToKey__
+KeyCode::BRACKET_LEFT, ModifierFlag::SHIFT_L,
+KeyCode::BRACKET_LEFT, ModifierFlag::NONE	
+</autogen>
+<autogen>
+__KeyToKey__
+KeyCode::BRACKET_RIGHT, ModifierFlag::SHIFT_L,
+KeyCode::BRACKET_RIGHT, ModifierFlag::NONE	
+</autogen>
+</item>
+
+
+
+
+
+<item>
+<name>Change Colon to SemiColon</name>	
+<identifier>private.colon_to_semicolon</identifier>
+<inputsource_only>British</inputsource_only>
+<autogen>
+__KeyToKey__
+KeyCode::SEMICOLON, ModifierFlag::SHIFT_L,
+KeyCode::SEMICOLON
+</autogen>	
+</item>
+
+
+<item>
+<name>Change SemiColon to Colon</name>	
+<identifier>private.semicolon_to_colon</identifier>
+<inputsource_only>British</inputsource_only>
+<autogen>
+__KeyToKey__
+KeyCode::SEMICOLON,
+KeyCode::SEMICOLON, ModifierFlag::SHIFT_L
+</autogen>	
+</item>
+
+
+
+</root>
