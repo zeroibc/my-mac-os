@@ -46,18 +46,6 @@ KeyCode::SPACE, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::C
 
 
 <item>
-<name>Left Option to App Specific</name>	
-<identifier>private.left_shift_to_app_specific</identifier>
-<autogen>
-__KeyOverlaidModifier__
-KeyCode::OPTION_L,
-KeyCode::OPTION_L,
-KeyCode::Z, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
-</autogen>	
-</item>
-
-
-<item>
 <name>Put {} () [] to a better place</name>	
 <identifier>private.brackets_around</identifier>
 <inputsource_only>British</inputsource_only>
@@ -104,7 +92,7 @@ KeyCode::BACKSLASH, ModifierFlag::SHIFT_L
 <autogen>
 __KeyToKey__
 KeyCode::9, ModifierFlag::SHIFT_L,
-KeyCode::BACKQUOTE, ModifierFlag::SHIFT_L	
+KeyCode::BACKQUOTE, ModifierFlag::NONE	
 </autogen>	
 </item>
 
@@ -128,6 +116,24 @@ __KeyToKey__
 KeyCode::SEMICOLON,
 KeyCode::SEMICOLON, ModifierFlag::SHIFT_L
 </autogen>	
+</item>
+
+
+<item>
+<name>fn shift to combination plus fn superkey</name>	
+<identifier>private.fn_shift_to_combination</identifier>
+<modifierdef>MY_FN</modifierdef>
+<autogen>
+__KeyOverlaidModifier__
+KeyCode::SHIFT_L, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L | ModifierFlag::MY_FN,
+KeyCode::SHIFT_L, ModifierFlag::FN | ModifierFlag::MY_FN,
+KeyCode::X, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
+</autogen>
+<autogen>
+__KeyToKey__
+KeyCode::FN,
+KeyCode::COMMAND_L, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L, ModifierFlag::SHIFT_L | ModifierFlag::MY_FN,
+</autogen>
 </item>
 
 </root>
