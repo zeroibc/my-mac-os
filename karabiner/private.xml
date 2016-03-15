@@ -2,9 +2,9 @@
 <root>
 
 <inputsourcedef>
-    <name>British</name>
-    <inputsourceid_prefix>com.apple.keylayout.British</inputsourceid_prefi>
- </inputsourcedef>
+<name>British</name>
+<inputsourceid_prefix>com.apple.keylayout.British</inputsourceid_prefi>
+</inputsourcedef>
 
 
 <item>
@@ -93,7 +93,7 @@ KeyCode::BRACKET_RIGHT, ModifierFlag::NONE
 </autogen>
 <autogen>
 __KeyToKey__
-KeyCode::9, ModifierFlag::SHIFT_L,
+KeyCode::MINUS, ModifierFlag::SHIFT_L,
 KeyCode::BACKSLASH, ModifierFlag::NONE	
 </autogen>	
 <autogen>
@@ -101,8 +101,12 @@ __KeyToKey__
 KeyCode::0, ModifierFlag::SHIFT_L,
 KeyCode::BACKSLASH, ModifierFlag::SHIFT_L	
 </autogen>	
+<autogen>
+__KeyToKey__
+KeyCode::9, ModifierFlag::SHIFT_L,
+KeyCode::BACKQUOTE, ModifierFlag::SHIFT_L	
+</autogen>	
 </item>
-
 
 <item>
 <name>Change Colon to SemiColon</name>	
@@ -115,7 +119,6 @@ KeyCode::SEMICOLON
 </autogen>	
 </item>
 
-
 <item>
 <name>Change SemiColon to Colon</name>	
 <identifier>private.semicolon_to_colon</identifier>
@@ -126,6 +129,5 @@ KeyCode::SEMICOLON,
 KeyCode::SEMICOLON, ModifierFlag::SHIFT_L
 </autogen>	
 </item>
-
 
 </root>
