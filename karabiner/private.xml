@@ -6,7 +6,6 @@
 <inputsourceid_prefix>com.apple.keylayout.British</inputsourceid_prefi>
 </inputsourcedef>
 
-
 <item>
 <name>F19 to F19</name>
 <appendix>(F19 to Hyper (ctrl+opt) + F19 Only, send escape)
@@ -120,19 +119,24 @@ KeyCode::SEMICOLON, ModifierFlag::SHIFT_L
 
 
 <item>
-<name>fn shift to combination plus fn superkey</name>	
+<name>fn shift to combination plus fn superkey</name>
 <identifier>private.fn_shift_to_combination</identifier>
-<modifierdef>MY_FN</modifierdef>
 <autogen>
 __KeyOverlaidModifier__
-KeyCode::SHIFT_L, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L | ModifierFlag::MY_FN,
-KeyCode::SHIFT_L, ModifierFlag::FN | ModifierFlag::MY_FN,
+KeyCode::SHIFT_L, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L,
+KeyCode::SHIFT_L, ModifierFlag::FN,
 KeyCode::X, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
+</autogen>
+<autogen>
+__KeyOverlaidModifier__
+KeyCode::SHIFT_L, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L,
+KeyCode::F19, ModifierFlag::FN,
+KeyCode::Z, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
 </autogen>
 <autogen>
 __KeyToKey__
 KeyCode::FN,
-KeyCode::COMMAND_L, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L, ModifierFlag::SHIFT_L | ModifierFlag::MY_FN,
+KeyCode::COMMAND_L, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L, ModifierFlag::SHIFT_L,
 </autogen>
 </item>
 
