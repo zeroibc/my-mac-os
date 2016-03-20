@@ -25,6 +25,10 @@
 <url type="file">/Applications/Ulysses.app</url>
 </vkopenurldef>
 
+<vkopenurldef>
+<name>KeyCode::VK_OPEN_URL_APP_Day One</name>
+<url type="file">/Applications/Day One.app</url>
+</vkopenurldef>
 
 
 <!-- a big life changer -->
@@ -69,7 +73,7 @@ KeyCode::U, ModifierFlag::CONTROL_L, ModifierFlag::COMMAND_L,
 </item>
 
 <item>
-<name>caps + top delete to open magic number</name>
+<name>caps + right shift to open magic number</name>
 <identifier>private.caps_to_shift_to_magic_number</identifier>
 <autogen>
 __KeyToKey__
@@ -78,6 +82,15 @@ KeyCode::U, ModifierFlag::CONTROL_L, ModifierFlag::COMMAND_L,
 </autogen>
 </item>
 
+<item>
+<name>alt + top delete to open Day One</name>
+<identifier>private.alt_top_delete_to_day_one</identifier>
+<autogen>
+__KeyToKey__
+KeyCode::DELETE, ModifierFlag::OPTION_L,
+KeyCode::VK_OPEN_URL_APP_Day One,
+</autogen>
+</item>
 <item>
 <name>right option key + delete to MindNode</name>
 <identifier>private.right_opt_plus_delete_to_mindnode</identifier>
