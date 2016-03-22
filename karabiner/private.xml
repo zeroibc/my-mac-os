@@ -25,10 +25,6 @@
 <url type="file">/Applications/Ulysses.app</url>
 </vkopenurldef>
 
-<vkopenurldef>
-<name>KeyCode::VK_OPEN_URL_APP_Day One</name>
-<url type="file">/Applications/Day One.app</url>
-</vkopenurldef>
 
 
 <!-- a big life changer -->
@@ -48,6 +44,34 @@ ModifierFlag::CONTROL_L,
 KeyCode::ESCAPE
 </autogen>
 </item> 
+
+<!-- make left shift + right shift cut line before cursor -->
+<item>
+<name>left shift + right shift to delete line before cursor</name>
+<identifier>private.left_shift_and_right_shift_to_cut_before_cursor</identifier>
+<autogen>
+ __KeyToKey__
+KeyCode::SHIFT_R, ModifierFlag::SHIFT_L,
+KeyCode::CURSOR_LEFT, ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L,
+KeyCode::X, ModifierFlag::COMMAND_L,
+Option::NOREPEAT,
+</autogen>
+</item>
+
+
+<!-- make left shift + return cut line after cursor -->
+<item>
+<name>left shift + return to cut line after cursor</name>
+<identifier>private.right_shift_and_return_to_cut_afer_cursor</identifier>
+<autogen>
+ __KeyToKey__
+KeyCode::RETURN, ModifierFlag::SHIFT_L,
+KeyCode::CURSOR_RIGHT, ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L,
+KeyCode::X, ModifierFlag::COMMAND_L,
+Option::NOREPEAT,
+</autogen>
+</item>
+
 
 
 <!-- open applications with karabiner physical key presses -->
@@ -83,15 +107,6 @@ KeyCode::U, ModifierFlag::CONTROL_L, ModifierFlag::COMMAND_L,
 </item>
 
 <item>
-<name>alt + top delete to open Day One</name>
-<identifier>private.alt_top_delete_to_day_one</identifier>
-<autogen>
-__KeyToKey__
-KeyCode::DELETE, ModifierFlag::OPTION_L,
-KeyCode::VK_OPEN_URL_APP_Day One,
-</autogen>
-</item>
-<item>
 <name>right option key + delete to MindNode</name>
 <identifier>private.right_opt_plus_delete_to_mindnode</identifier>
 <autogen>
@@ -106,10 +121,23 @@ KeyCode::VK_OPEN_URL_APP_MindNode,
 <identifier>private.right_opt_plus_shift_to_sublime</identifier>
 <autogen>
 __KeyToKey__
-KeyCode::SHIFT_L, ModifierFlag::CONTROL_L, ModifierFlag::COMMAND_L,
+KeyCode::SHIFT_R, ModifierFlag::CONTROL_L, ModifierFlag::COMMAND_L,
 KeyCode::VK_OPEN_URL_APP_Sublime Text,
 </autogen>
 </item>
+
+<!-- make shift + delete write \  -->
+
+<item>
+<name>left shift + delete to enter backslash</name>
+<identifier>private.left_shift_to_delete_enter_backslash</identifier>
+<autogen>
+ __KeyToKey__
+KeyCode::DELETE, ModifierFlag::SHIFT_L,
+KeyCode::BACKSLASH, ModifierFlag::NONE,
+</autogen>
+</item>
+
 
 
 <!-- another big life changer -->
@@ -180,23 +208,11 @@ KeyCode::BRACKET_LEFT, ModifierFlag::NONE
 __KeyToKey__
 KeyCode::BRACKET_RIGHT, ModifierFlag::SHIFT_L,
 KeyCode::BRACKET_RIGHT, ModifierFlag::NONE	
-</autogen>
-<autogen>
-__KeyToKey__
-KeyCode::MINUS, ModifierFlag::SHIFT_L,
-KeyCode::BACKSLASH, ModifierFlag::NONE	
-</autogen>	
-<autogen>
-__KeyToKey__
-KeyCode::0, ModifierFlag::SHIFT_L,
-KeyCode::BACKSLASH, ModifierFlag::SHIFT_L	
-</autogen>	
-<autogen>
-__KeyToKey__
-KeyCode::9, ModifierFlag::SHIFT_L,
-KeyCode::BACKQUOTE, ModifierFlag::NONE	
 </autogen>	
 </item>
+
+
+
 
 <item>
 <name>Change Colon to SemiColon</name>	
@@ -232,7 +248,7 @@ KeyCode::SEMICOLON, ModifierFlag::SHIFT_L
 __KeyOverlaidModifier__
 KeyCode::SHIFT_L, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L,
 KeyCode::SHIFT_L, ModifierFlag::FN,
-KeyCode::X, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
+KeyCode::1, ModifierFlag::CONTROL_L, ModifierFlag::OPTION_L, ModifierFlag::COMMAND_L, ModifierFlag::SHIFT_L
 </autogen>
 <autogen>
 __KeyOverlaidModifier__
