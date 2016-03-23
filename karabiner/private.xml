@@ -9,6 +9,7 @@
 </inputsourcedef>
 
 
+
 <!-- paths to files, creates constants I can use -->
 <vkopenurldef>
 <name>KeyCode::VK_OPEN_URL_APP_Sublime Text</name>
@@ -25,6 +26,35 @@
 <url type="file">/Applications/Ulysses.app</url>
 </vkopenurldef>
 
+<!-- app definitions -->
+<appdef>
+<appname>XCODE</appname>
+<equal>com.apple.dt.Xcode</equal>
+</appdef>
+
+<item>
+<name>Change Colon to SemiColon</name>	
+<identifier>private.colon_to_semicolon</identifier>
+<not>XCODE</not>
+<inputsource_only>British</inputsource_only>
+<autogen>
+__KeyToKey__
+KeyCode::SEMICOLON, ModifierFlag::SHIFT_L,
+KeyCode::SEMICOLON
+</autogen>	
+</item>
+
+<item>
+<name>Change SemiColon to Colon</name>	
+<identifier>private.semicolon_to_colon</identifier>
+<not>XCODE</not>
+<inputsource_only>British</inputsource_only>
+<autogen>
+__KeyToKey__
+KeyCode::SEMICOLON,
+KeyCode::SEMICOLON, ModifierFlag::SHIFT_L
+</autogen>	
+</item>
 
 
 <!-- a big life changer -->
@@ -45,32 +75,6 @@ KeyCode::ESCAPE
 </autogen>
 </item> 
 
-<!-- make left shift + right shift cut line before cursor -->
-<item>
-<name>left shift + right shift to delete line before cursor</name>
-<identifier>private.left_shift_and_right_shift_to_cut_before_cursor</identifier>
-<autogen>
- __KeyToKey__
-KeyCode::SHIFT_R, ModifierFlag::SHIFT_L,
-KeyCode::CURSOR_LEFT, ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L,
-KeyCode::X, ModifierFlag::COMMAND_L,
-Option::NOREPEAT,
-</autogen>
-</item>
-
-
-<!-- make left shift + return cut line after cursor -->
-<item>
-<name>left shift + return to cut line after cursor</name>
-<identifier>private.right_shift_and_return_to_cut_afer_cursor</identifier>
-<autogen>
- __KeyToKey__
-KeyCode::RETURN, ModifierFlag::SHIFT_L,
-KeyCode::CURSOR_RIGHT, ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L,
-KeyCode::X, ModifierFlag::COMMAND_L,
-Option::NOREPEAT,
-</autogen>
-</item>
 
 
 
@@ -139,6 +143,20 @@ KeyCode::BACKSLASH, ModifierFlag::NONE,
 </item>
 
 
+<!-- make left shift + right shift cut line before cursor -->
+<item>
+<name>left shift + right shift to delete line before cursor</name>
+<identifier>private.left_shift_and_right_shift_to_cut_before_cursor</identifier>
+<autogen>
+__KeyToKey__
+KeyCode::SHIFT_R, ModifierFlag::SHIFT_L,
+KeyCode::CURSOR_LEFT, ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L,
+KeyCode::X, ModifierFlag::COMMAND_L,
+Option::NOREPEAT,
+</autogen>
+</item>
+
+
 
 <!-- another big life changer -->
 <!-- allows me to use right shift as a normal delete button when pressed alone -->
@@ -150,11 +168,24 @@ KeyCode::BACKSLASH, ModifierFlag::NONE,
 <autogen>
 --KeyOverlaidModifier--
 KeyCode::SHIFT_R,
-KeyCode::SHIFT_L,
-ModifierFlag::COMMAND_L,
+KeyCode::SHIFT_R, ModifierFlag::COMMAND_L,
 KeyCode::DELETE
 </autogen>
 </item>
+
+<!-- make left shift + return cut line after cursor -->
+<item>
+<name>left shift + return to cut line after cursor</name>
+<identifier>private.right_shift_and_return_to_cut_afer_cursor</identifier>
+<autogen>
+ __KeyToKey__
+KeyCode::RETURN, ModifierFlag::SHIFT_L,
+KeyCode::CURSOR_RIGHT, ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L,
+KeyCode::X, ModifierFlag::COMMAND_L,
+Option::NOREPEAT,
+</autogen>
+</item>
+
 
 <!-- I use Alfred everyday as a replacement for spotlight -->
 <!-- this allows me to toggle Alfred prompt with one right command key press -->
@@ -214,28 +245,6 @@ KeyCode::BRACKET_RIGHT, ModifierFlag::NONE
 
 
 
-<item>
-<name>Change Colon to SemiColon</name>	
-<identifier>private.colon_to_semicolon</identifier>
-<inputsource_only>British</inputsource_only>
-<autogen>
-__KeyToKey__
-KeyCode::SEMICOLON, ModifierFlag::SHIFT_L,
-KeyCode::SEMICOLON
-</autogen>	
-</item>
-
-<item>
-<name>Change SemiColon to Colon</name>	
-<identifier>private.semicolon_to_colon</identifier>
-<inputsource_only>British</inputsource_only>
-<autogen>
-__KeyToKey__
-KeyCode::SEMICOLON,
-KeyCode::SEMICOLON, ModifierFlag::SHIFT_L
-</autogen>	
-</item>
-
 
 <!-- I haven't found any use for my fn key on os x so I decided to make it useful -->
 <!-- this makes my fn key act as a 'superkey' ie all modifiers pressed together (alt, opt, command, shift) -->
@@ -262,7 +271,5 @@ KeyCode::FN,
 KeyCode::COMMAND_L, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L, ModifierFlag::SHIFT_L,
 </autogen>
 </item>
-
-
 
 </root>
