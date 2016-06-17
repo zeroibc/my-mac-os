@@ -1,5 +1,3 @@
-###Will be updating this repo with new things that I think are truly incredible. 
+##right now this contails all the various alfred wokflows that I use
 
-For now it has the my most used Alfred Workflows that I use very often in my day-to-day work. Check them out see if you like them. I also have a [blog post](https://nikitavoloboev.github.io/nikitavoloboev.github.io/how-i-use-alfred/) coming up to go more in depth on them.
-
-I am also an avid user of [Karabiner](https://pqrs.org/osx/karabiner/) application and I have my XML file with my custom keybindings in this [repo](https://github.com/nikitavoloboev/Karabiner-XML). I've tried adding comments to explain how I use each of the keybindings so I hope you too can perhaps find some uses of it or perhaps get inspired to make your own. I think Karabiner together with [BetterTouchTool](https://www.boastr.net) can really open one up to make some amazing things.
+I want to make this repo essentially a place where I keep all the things that I use and find to be bringing me a lot of value in my day-to-day work and life. My most used application on my laptop is probably [Alfred](https://oncourse.tue.nl/2015/mod/scorm/player.php?a=305&currentorg=ORG-397&scoid=3023) so it is fair to make my first contribution to this repository in the form of all the Alfred Workflows that I personally use and enjoy.
