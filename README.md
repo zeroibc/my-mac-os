@@ -61,7 +61,7 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 15. [noMoreItunes](http://nomoreitunes.einserver.de/) (safari redirects you to iTunes every time you click on some iTunes link or an App Store App, this stops that)
 16. [1Password](https://agilebits.com/onepassword/extensions) ([1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser)
 17. [Reddit Comments](http://safariextendr.com/extension/reddit-comments) (provides a small button in the top toolbar that when clicked will direct you to a reddit thread where the current page you are on was submitted to, if such page exists of course)
-18. [Scroblr](http://scroblr.fm/) (decided to make a [last.fm](http://www.last.fm/user/playfullyExist) account which scrobls all the songs I listen to, I find it quite nice to see my top artists, songs, albums that I listened to over time)
+18. [Scroblr](http://scroblr.fm/) (decided to make a [last.fm](http://www.last.fm/user/playfullyExist) account which scrobbles  all the songs I listen to, I find it quite nice to see my top artists, songs, albums that I listened to over time)
 19. [JSON formatter](https://github.com/rfletcher/safari-json-formatter) (makes JSON documents that you open with the browser 'human readable')
 20. [Shellfish](http://open-bits.com/shellfish/) (removes all the annoying 'share this page' links and buttons, I forgot such things exist after using this)
 
