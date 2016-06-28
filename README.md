@@ -1,5 +1,5 @@
 #my wonderful world of macOS
-
+##Apps
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
@@ -38,9 +38,36 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 33. [Textual](https://www.codeux.com/textual/) (recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC)
 34. [Tweetbot](http://tapbots.com/tweetbot/mac/) (twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app
 35. [Flux](https://justgetflux.com) (a simple utility that makes the screen have nice and warm non blue light emitting colour in the evening)
+36. [Unclutter](http://unclutterapp.com/) (a dropdown menu where I can quickly write some text that I need or open any file that I keep in the buffer there, previously used my Desktop for this sort of thing but I really like to keep my desktop clean of things so this greatly helps me with it)
+37. [Dropzone](https://aptonic.com) (a quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant) (a great little utility)
+38. [Popclip](https://pilotmoon.com/popclip/) (another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching Google, Youtube, Wiki, Reddit, Images or translate it, copy it or say it aloud, here is [it looks](http://i.imgur.com/IZwIYlB.png) for me.)
+39. [Paste](https://itunes.apple.com/us/app/paste-smart-clipboard-history/id967805235?mt=12) (the most well designed clipboard manager that I found to exist on macOS. By pressing caps lock + V, I can quickly see and search through my entire clipboard and paste whatever I need.) (a really powerful tool that is made so well that it feels as a native part of the OS)
+40. [DaisyDisk](https://daisydiskapp.com) (a great tool to quickly get a visual glance over what is taking up your disk space and where)
+41. [Gemini](http://macpaw.com/gemini) (a great little utility to find duplicate files in the system, didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk)
+42. [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) (a great menu bar tool that shows me how much time is left until the next event in my calendar. It has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts.) (really reccomend it)
+43. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) (a really great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week.)
+44. [iStat Menus](https://bjango.com/mac/istatmenus/) (great system monitoring tools of which I use CPU and storage tracking, I find it very valuable to know if my CPU is being abused by some application and if so by which)
+45. [Unarchiver](https://itunes.apple.com/en/app/the-unarchiver/id425424353?mt=12) (a program that simply unarchives any zip file that I need, very simple and just works)
+46. [Spotifree](http://spotifree.gordinskiy.com) (dislike ads and Spotify doesn't give any discount to students from Netherlands for some reason so I just use this to get around that)
+47. [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) (best annotation tool I found to exist. After you make a screenshot, it allows for quick edits (arrows, adding some text, blurring parts of the image) as well as ability to quickly save it or drag it to upload to Imgur to share quickly and send the link to anyone I want) 
+48. [BeardedSpice](https://github.com/beardedspice/beardedspice) (enchance play/pause as well as previous/next playback keys to not only work in iTunes and Spotify but work for [Soundcloud](https://soundcloud.com/stream), [Youtube](https://www.youtube.com) and many other services.)
+49. [HemingBoard](https://hemingboard.com/) (got for free on [product hunt](https://www.producthunt.com) during its release but I quite like it, it allows to spice up your writing with various synonyms and saves you some trips to [thesauras](http://www.thesaurus.com) for synonyms)
+50. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) (an amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing. Takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that. This is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data.)
+51. [Texpad](https://www.texpadapp.com/osx) (had to write some LaTeX files for some of my university assignments and in search of a great editor for writing LaTeX I found this and have really enjoyed using it for that task. Has phenomenal suggestions, a great UI interface and live previewing the LaTeX code that you write.)
+52. [Slack](https://slack.com) (find it to be quite a slow application, given the fact that it is essentially a chrome web application wrapped up with [electron](http://electron.atom.io), it is not much surprise but still it does have some really great features for working and communicating within a team)
+53. [Telegram](https://desktop.telegram.org/) (really dislike [whatsapp](https://www.whatsapp.com) and I quite like Telegram. It has a very clean interface, a native client for macOS and stickers, privacy is questionable as data is still being sent through Telegram servers but it is still a great chat application)
+54. [Chatty](http://getchatty.me) (only use Facebook for its chat as it has an enormous amount of users and nearly that has used the internet once probably has a Facebook account)
+55. [Anki](http://ankisrs.net) (still not fully utilising the full power of [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) but it was one of my goals this year to really start to use this to my advantage. Essentially all this software does is provide you the means to write your own digital flashcards that you can then test yourself on. It also has a lot of [amazing addons](https://ankiweb.net/shared/addons/) that you can get to add more functionality to the app.
+56. [ImageOptim](https://imageoptim.com/mac) (quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog)
+57. [Dragand](http://dragand.watch) (quickly get subtitles that I want by dragging the file with the movie/series I want to watch to the app)
+58. [GIF Brewery](http://gifbrewery.com) (allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be) (a great little utility)
+59. [Quickcast](http://quickcast.io) (what I use when I want to make a screencast of my screen to send to someone)
+60. [Noizio](http://noiz.io/) (rain, whale, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus)
+61. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) (a really great colour picker that is quite often getting updated)
+62. [Patina](https://itunes.apple.com/us/app/patina-paint-draw-sketch-ease/id942568098?mt=12) (the closest thing to [Microsoft Paint](http://www.wikiwand.com/en/Microsoft_Paint) that exists on Mac.)
 
 
-
+##Browser
 
 My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. Here are the ones that I use (in order of importance for me) : 
 
@@ -64,4 +91,9 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 18. [Scroblr](http://scroblr.fm/) (decided to make a [last.fm](http://www.last.fm/user/playfullyExist) account which scrobbles  all the songs I listen to, I find it quite nice to see my top artists, songs, albums that I listened to over time)
 19. [JSON formatter](https://github.com/rfletcher/safari-json-formatter) (makes JSON documents that you open with the browser 'human readable')
 20. [Shellfish](http://open-bits.com/shellfish/) (removes all the annoying 'share this page' links and buttons, I forgot such things exist after using this)
+
+
+
+
+
 
