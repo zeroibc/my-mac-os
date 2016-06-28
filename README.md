@@ -62,7 +62,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 57. [Dragand](http://dragand.watch) (quickly get subtitles that I want by dragging the file with the movie/series I want to watch to the app)
 58. [GIF Brewery](http://gifbrewery.com) (allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be) (a great little utility)
 59. [Quickcast](http://quickcast.io) (what I use when I want to make a screencast of my screen to send to someone)
-60. [Noizio](http://noiz.io/) (rain, whale, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus)
+60. [Noizio](http://noiz.io/) (rain, whale noises, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus)
 61. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) (a really great colour picker that is quite often getting updated)
 62. [Patina](https://itunes.apple.com/us/app/patina-paint-draw-sketch-ease/id942568098?mt=12) (the closest thing to [Microsoft Paint](http://www.wikiwand.com/en/Microsoft_Paint) that exists on Mac.)
 
