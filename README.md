@@ -12,7 +12,7 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 6. [Octotree](https://github.com/buunguyen/octotree) (gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase)
 7. [refined github](https://github.com/fantattitude/refined-github-safari) (some small ui and usability improvements on the Github website
 8. [Reddit Enchancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) (a ton of amazing additions to the reddit website)
-9. [hckr news](https://hckrnews.com/about.html#extensions) (I use hacker news as one of my main sources of news and it was really in need of a nicer interface with night mode so here it is, plus I have to show only the top posts from the day)
+9. [hckr news](https://hckrnews.com/about.html#extensions) (I use hacker news as one of my main sources of news and it was really in need of a nicer interface with night mode so here it is, plus I have it show only the top posts from the day)
 10. [minimal status bar](https://github.com/visnup/Minimal-Status-Bar) (shows a small unobtrusive bar on the bottom of the page when I hover over some link)
 11. [Sessions](https://sessions-extension.github.io/Sessions/) (allows me to quickly save and retrive sessions that I had made, very useful if you have a lot of tabs open and you don't want to quit them all but still start a new session to work from)
 12. [Social Fixer](http://socialfixer.com/download.html) (really cleaned up my facebook page, no ads, no live updated notifications of what people have done on the right and a lot more, don't use facebook anyway and have it blocked for entire day but the times I do, it makes a nice difference
