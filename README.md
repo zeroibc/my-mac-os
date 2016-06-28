@@ -1,6 +1,5 @@
 #applications and utilities I use that bring me a great deal of value in my life
 
-The application that probably gave me the most amount of value and saved me the most amount of time is [Alfred](https://www.alfredapp.com/). I have added the workflows that I most often use to this repository so you can just download them and use as you like. 
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
