@@ -96,7 +96,7 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 
 ##Alfred Workflows
 
-As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflwos for it to bring me the most value. Here is a list of workflows that I personally love to use again sorted by their importance to me : 
+As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. Here is a list of workflows that I personally love to use again sorted by their importance to me : 
 
 1. [Searchio](http://www.packal.org/workflow/searchio) (allows me to quickly search Google, Youtube, Wikipedia, Google Images and Maps quickly and with autosuggestions being provided with every query I type. I can quickly press command + caps lock and type anything I want and use the wonderful power of [Google](https://google.com) to answer any question that I have.
 2. [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) (as mentioned before, it allows me to very quickly search through any docset that I have downloaded for anything I want, it allows me to also scope my search for any specific docset that I want to search. I have it binded to left option and caps lock.
@@ -107,5 +107,4 @@ As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability 
 7. [Units](http://www.packal.org/workflow/units) (if I even am in need to do any kind of conversion, I do it here)
 8. [Safari Search](https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow) (use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.)
 9. [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player) (mentioned it briefly above, but this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt) (very powerful workflow)
-
 
