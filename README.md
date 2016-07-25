@@ -7,7 +7,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 2. [iTerm](https://www.iterm2.com/) (recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to caps + tab and can open it on demand at any time that I want) (really powerful and great tool)
 3. [2Do](http://www.2doapp.com/mac) (I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise my tasks and things I want to do and achieve, has global quick add with a hotkey, lists, priorities, powerful search and a lot more) (really reccomend it)
 4. [SnippetsLab](https://www.renfei.org/snippets-lab/) (a very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, retrieving the snippets that you need it staggeringly fast. Use it as my own personal programmer's notepad with code and lots and lots of comments
-5. [Day One](http://dayoneapp.com/) (probably the best journal writing application there is, use it every day to write my Day Evaluation and many other small little tidbits of text with thoughts, plans and experiences that I have had) (if you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life)
+5. [Day One](http://dayoneapp.com/) (probably the best journal writing application there is, use it every day to write my [Day Evaluations](http://www.nikitavoloboev.xyz/post/day-evaluations/) and many other small little tidbits of text with thoughts, plans and experiences that I have had) (if you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life)
 6. [Mindnode](https://mindnode.com) (make all of my weekly plans in there, found it to be a very powerful tool for that, however planning to expand its use to have it be used for almost every planning and structuring work I need to do before starting any project of mine) (wonderful application that is a real joy to use)
 7. [Ulysses](http://www.ulyssesapp.com/) (all your writing in one place is the motto and the underlying design of the app. Very powerful search, freedom of structure, great themes and export to markdown / PDF. Really promotes you to write with its great design and features) (moved to it from [Byword](https://bywordapp.com/) and [iaWriter](https://ia.net/writer) that I used before, having a one place database for all my writing for me was the selling point of the app)
 8. [Pixave](http://www.littlehj.com/) (always wanted to organise the mess that my media files were, moving all of my photographs, gifs that I have saved over the years to one place that is easiliy searchabe and is again just a joy to use was very valuable for me) (probably the best application there exists for storing and organising all of your photographic media content)
@@ -108,3 +108,65 @@ As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability 
 8. [Safari Search](https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow) (use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.)
 9. [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player) (mentioned it briefly above, but this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt) (very powerful workflow)
 
+##My Keyboard Bindings
+
+Here are the keyboard bindings that I use on my system to globally access any application, workflow or macro that I need. Take a look [my dotfiles](https://github.com/nikitavoloboev/dotfiles) to get an understanding how I have set up my keys to work for me. 
+
+###Global Hotkeys
+
+| Keyboard Binding       | Action                                         | Mapping Name            |
+| ---                    | ---                                            | ---                     |
+| **Movement**           |                                                |                         |
+| "j"                    | scroll down                                    | scrollDown              |
+| "k"                    | scroll up                                      | scrollUp                |
+| "h"                    | scroll left                                    | scrollLeft              |
+| "l"                    | scroll right                                   | scrollRight             |
+| "d"                    | scroll half-page down                          | scrollPageDown          |
+| "e", "u"               | scroll half-page up                            | scrollPageUp            |
+| "shift+d"              | scroll full-page down                          | scrollFullPageDown      |
+| "shift+e"              | scroll full-page up                            | scrollFullPageUp        |
+| "shift+g"              | scroll to bottom of the page                   | scrollToBottom          |
+| "g g"                  | scroll to top of the page                      | scrollToTop             |
+| "0"                    | scroll to the left of the page                 | scrollToLeft            |
+| "$"                    | scroll to the right of the page                | scrollToRight           |
+| "g i"                  | go to the first input box                      | goToInput               |
+| **Miscellaneous**      |                                                |                         |
+| "r"                    | reload the current tab                         | reloadTab               |
+| "z i"                  | zoom page in                                   | zoomPageIn              |
+| "z o"                  | zoom page out                                  | zoomPageOut             |
+| "z 0"                  | zoom page to original size                     | zoomOrig                |
+| "g r"                  | open Safari reader if possible                 | openReader              |
+| "g v"                  | show sVimrc page                               | showsVimrc              |
+| "g ?"                  | open help page in new tab                      | help                    |
+| **Tab Navigation**     |                                                |                         |
+| "g t", "shift+k"       | navigate to the next tab                       | nextTab                 |
+| "g shift+t", "shift+j" | navigate to the previous tab                   | previousTab             |
+| "g 0"                  | go to the first tab                            | firstTab                |
+| "g $"                  | go to the last tab                             | lastTab                 |
+| "g l"                  | go to the last active tab that's still open    | lastActiveTab           |
+| "x"                    | close the current tab                          | quit                    |
+| "g x shift+t"          | close the tab to the left of the current tab   | closeTabLeft            |
+| "g x t"                | close the tab to the right of the current tab  | closeTabRight           |
+| "g x 0"                | close all tabs to the left of the current tab  | closeTabsToLeft         |
+| "g x $"                | close all tabs to the right of the current tab | closeTabsToRight        |
+| "shift+x"              | open the last closed tab                       | lastClosedTab           |
+| "ctrl+shift+x"         | open the last closed tab in background         | lastClosedTabBackground |
+| "t"                    | open new tab                                   | newTab                  |
+| "shift+h"              | go back in history                             | goBack                  |
+| "shift+l"              | go forward in history                          | goForward               |
+| "shift+,"              | move current tab left                          | moveTabLeft             |
+| "shift+."              | move current tab right                         | moveTabRight            |
+| "g u"                  | navigate to parent directory                   | parentDirectory         |
+| "g shift+u"            | navigate to top directory                      | topDirectory            |
+| "g d"                  | navigate to parent domain                      | parentDomain            |
+| "g h"                  | navigate to home page                          | homePage                |
+| **Window Navigation**  |                                                |                         |
+| "w"                    | open new window                                | newWindow               |
+| "g w"                  | navigate to the next window                    | nextWindow              |
+| "g shift+w"            | navigate to the previous window                | previousWindow          |
+| **Modes**              |                                                |                         |
+| "escape", "ctrl+\["    | enter normal mode                              | normalMode              |
+| "i"                    | enter insert mode                              | insertMode              |
+| **Link Hints**         |                                                |                         |
+| "f"                    | open link in current tab                       | createHint              |
+| "shift+f"              | open link in new background tab                | createTabbedHint        |
