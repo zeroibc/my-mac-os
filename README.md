@@ -136,7 +136,7 @@ As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability 
 
 7. [Units](http://www.packal.org/workflow/units) (if I even am in need to do any kind of conversion, I do it here)
 
-<img width="720" alt="img" src="<img width="320" alt="img" src="http://i.imgur.com/ZqnrCMt.gif">">
+<img width="720" alt="img" src="http://i.imgur.com/ZqnrCMt.gif">
 
 
 8. [Safari Search](https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow) (use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.)
