@@ -108,17 +108,17 @@ As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability 
 
 1. [Searchio](http://www.packal.org/workflow/searchio) (allows me to quickly search Google, Youtube, Wikipedia, Google Images and Maps quickly and with autosuggestions being provided with every query I type. I can quickly press command + caps lock and type anything I want and use the wonderful power of [Google](https://google.com) to answer any question that I have.)
 
-<img width="320" alt="img" src="http://i.imgur.com/gFrvSOr.gif">
+<img width="720" alt="img" src="http://i.imgur.com/gFrvSOr.gif">
 
 
 2. [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) (as mentioned before, it allows me to very quickly search through any docset that I have downloaded for anything I want, it allows me to also scope my search for any specific docset that I want to search. I have it binded to left option and caps lock.
 
-<img width="320" alt="img" src="http://i.imgur.com/SPidjcH.gif">
+<img width="720" alt="img" src="http://i.imgur.com/SPidjcH.gif">
 
 
 3. [Github Command Bar](http://www.packal.org/workflow/github-command-bar) (allows me to quickly find any repository that I want, search through Github, go to my current issues, my dashboard and a lot lot more)
 
-<img width="320" alt="img" src="http://i.imgur.com/w6W9n4w.gif">
+<img width="720" alt="img" src="http://i.imgur.com/w6W9n4w.gif">
 
 
 4. [Stack Overflow](http://www.packal.org/workflow/stackoverflow-search) (Stack Overflow search from Alfred with autosuggestions, very often I still just use Google to do my search queries but this allows me to more specifically target Stack Overflow and also see the results from the Alfred prompt itself.
