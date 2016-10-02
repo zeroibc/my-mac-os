@@ -153,6 +153,6 @@ ds
 ##Desktop Screenshot
 ![](http://i.imgur.com/usPqGcM.jpg)
 ##Launchpad
-![](http://i.imgur.com/V6AA93R.png)
+![](http://i.imgur.com/N1Hbbix.png)
 
 
