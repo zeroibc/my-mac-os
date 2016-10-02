@@ -123,7 +123,7 @@ As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability 
 
 4. [Stack Overflow](http://www.packal.org/workflow/stackoverflow-search) (Stack Overflow search from Alfred with autosuggestions, very often I still just use Google to do my search queries but this allows me to more specifically target Stack Overflow and also see the results from the Alfred prompt itself.
 
-<img width="320" alt="img" src="http://i.imgur.com/WKqQT6j.gif">
+<img width="720" alt="img" src="http://i.imgur.com/WKqQT6j.gif">
 
 
 5. [currentURL](http://www.packal.org/workflow/currenturl) (a very simple workflow that simply gets the url of currently active Safari tab and puts it into system clipboard, I use it a lot as I often want to add a link to some list in 2Do or have it be pasted to some text I am writing)
@@ -131,24 +131,24 @@ As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability 
 
 6. [Pocket](http://www.packal.org/workflow/pocket-alfred) (allows me to quickly save an article I am reading to Pocket for later reading, I can also go through and search any article that I want to read, archive an article that I have read already in the browser but still want to keep in Pocket)
  
-<img width="320" alt="img" src="http://i.imgur.com/m7k4M7H.gif">
+<img width="720" alt="img" src="http://i.imgur.com/m7k4M7H.gif">
 
 
 7. [Units](http://www.packal.org/workflow/units) (if I even am in need to do any kind of conversion, I do it here)
 
-<img width="320" alt="img" src="<img width="320" alt="img" src="http://i.imgur.com/ZqnrCMt.gif">">
+<img width="720" alt="img" src="<img width="320" alt="img" src="http://i.imgur.com/ZqnrCMt.gif">">
 
 
 8. [Safari Search](https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow) (use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.)
 
-<img width="320" alt="img" src="http://i.imgur.com/dSLzBuk.gif">
+<img width="720" alt="img" src="http://i.imgur.com/dSLzBuk.gif">
 
 
 9. [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player) (mentioned it briefly above, but this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt) (very powerful workflow)
 ds
 
 
-<img width="320" alt="img" src="http://i.imgur.com/OpczvFS.gif">
+<img width="720" alt="img" src="http://i.imgur.com/OpczvFS.gif">
 
 ##Desktop Screenshot
 ![](http://i.imgur.com/usPqGcM.jpg)
