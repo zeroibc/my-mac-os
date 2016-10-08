@@ -73,6 +73,10 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 67. [Typinator](http://www.ergonis.com/products/typinator/) (moved to it from [textexpander](https://smilesoftware.com/textexpander) as I am not fond of subscription models for software but also because typinator is really just better) (it expands text and moves the pointer caret faster and has a really powerful [quick search](http://i.imgur.com/A6kzKRE.png) available globally right at my fingertips)
 68. [hammerspoon](http://www.hammerspoon.org) (really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant) (right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment) (can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua))
 69. [hazel](https://www.noodlesoft.com) (use it to fully automate my filing process) (I use prefixes for everything, bookmarks, notes, ulysses entries and even files) (this allows me to write some great rules for my Downloads folder that will file the files where I want them to be) ([here](http://i.imgur.com/7oiSYV3.png) is one example of such rule) (I also recursively lowercase files and hide extensions for all files on my system)
+70. [Tower](https://www.git-tower.com/mac/) (started using it only recently and
+    need to take my commit messages seriously and learn git well, not just the
+    basic commands) (this seems like a good app to help organise all the git
+    activity across different repositories I have on my machine)
 
 
 ##Browser
