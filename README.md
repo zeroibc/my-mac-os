@@ -151,12 +151,14 @@ As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability 
 - [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player) (mentioned it briefly above, but this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt) (very powerful workflow)
 ds
 
+- 
+
 
 <img width="720" alt="img" src="http://i.imgur.com/OpczvFS.gif">
 
 ##Desktop Screenshot
-![](http://i.imgur.com/usPqGcM.jpg)
+![](http://i.imgur.com/JV3NdUz.jpg)
 ##Launchpad
-![](http://i.imgur.com/N1Hbbix.png)
+![](http://i.imgur.com/iAYxKxe.jpg)
 
 
