@@ -1,8 +1,7 @@
 #my wonderful world of macOS
-##Apps
+##[Applications](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC)
 
-![](http://i.imgur.com/qqHWT3p.jpg) 
-
+![](http://i.imgur.com/l4jD7mK.jpg) 
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
@@ -109,9 +108,9 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 
 
 
-##Alfred Workflows
+##[Alfred Workflows](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
 
-![](http://i.imgur.com/2ppBHmO.png) 
+![](http://i.imgur.com/WFoTKF9.png) 
 
 
 As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. Here is a list of workflows that I personally love to use again sorted by their importance to me : 
