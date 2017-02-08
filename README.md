@@ -128,7 +128,7 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) 
 	- saves [all my starred repositories](https://github.com/nikitavoloboev?tab=stars) to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
-<img width="720" alt="img" src="https://i.imgur.com/8480gDF.gif">
+![](https://i.imgur.com/8480gDF.gif)
 
 
 - [Github Command Bar](http://www.packal.org/workflow/github-command-bar) 
@@ -165,8 +165,8 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred)
 	- a very fast way to search and get autosuggestions for various swift and objc pods
 
-<img width="720" alt="img" src="http://i.imgur.com/RNJhi34.gif">
 
+![](http://i.imgur.com/RNJhi34.gif)
 
 
 
