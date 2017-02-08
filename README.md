@@ -128,9 +128,8 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 - [GitHub Jump](https://github.com/lox/alfred-github-jump) 
 	- saves [all my starred repositories](https://github.com/nikitavoloboev?tab=stars) to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
-<img width="720" alt="img" src="https://i.imgur.com/8480gDF.gifv">
-
 <img width="720" alt="img" src="https://i.imgur.com/8480gDF.gif">
+
 
 - [Github Command Bar](http://www.packal.org/workflow/github-command-bar) 
 	- allows me to quickly find any repository that I want, search through Github, go to my current issues, my dashboard and a lot lot more
