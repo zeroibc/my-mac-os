@@ -3,6 +3,7 @@
 
 ![](http://i.imgur.com/qqHWT3p.jpg) 
 
+
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
 1. [Alfred](https://www.alfredapp.com/) (this is by far my favourite application that I have. It saved me [a lot of time](http://i.imgur.com/lm0uvL2.png) in my life and has a really great [community](http://www.alfredforum.com/) and [very powerful workflows](http://www.packal.org/) that you can use. I have attached the ones I use the most to [this repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/alfred-workflows). Feel free to use any that you like) (here is a [full list](https://imgur.com/a/8Q2HW) of workflows I use)
