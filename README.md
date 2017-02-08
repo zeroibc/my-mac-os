@@ -113,58 +113,65 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 
 ![](http://i.imgur.com/WFoTKF9.png) 
 
+I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. Here is a list of workflows that I personally love to use again sorted by their importance to me : 
 
-As mentioned before I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. Here is a list of workflows that I personally love to use again sorted by their importance to me : 
-
-- [Searchio](http://www.packal.org/workflow/searchio) (allows me to quickly search Google, Youtube, Wikipedia, Google Images and Maps quickly and with autosuggestions being provided with every query I type. I can quickly press command + caps lock and type anything I want and use the wonderful power of [Google](https://google.com) to answer any question that I have.)
+- [Searchio](http://www.packal.org/workflow/searchio) 
+	- allows me to quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query I type. I can quickly [press jk](https://github.com/nikitavoloboev/dotfiles/tree/master/karabiner#karabiner-set-up) and type anything I want and use the wonderful power of [Google](https://google.com) and [DuckDuckGo](https://duckduckgo.com/) to answer any question that I have.
 
 <img width="720" alt="img" src="http://i.imgur.com/gFrvSOr.gif">
 
-
-- [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) (as mentioned before, it allows me to very quickly search through any docset that I have downloaded for anything I want, it allows me to also scope my search for any specific docset that I want to search. I have it binded to left option and caps lock.
+- [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow) 
+	- it allows me to very quickly search through any docset that I have downloaded for anything I want, it allows me to also scope my search for any specific docset that I want to search. I activate it by simply pressing ln together.
 
 <img width="720" alt="img" src="http://i.imgur.com/SPidjcH.gif">
 
+- [GitHub Jump](https://github.com/lox/alfred-github-jump) 
+	- saves [all my starred repositories](https://github.com/nikitavoloboev?tab=stars) to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
-- [Github Command Bar](http://www.packal.org/workflow/github-command-bar) (allows me to quickly find any repository that I want, search through Github, go to my current issues, my dashboard and a lot lot more)
+<img width="720" alt="img" src="https://i.imgur.com/8480gDF.gifv">
+
+![](https://i.imgur.com/8480gDF.gifv)
+
+- [Github Command Bar](http://www.packal.org/workflow/github-command-bar) 
+	- allows me to quickly find any repository that I want, search through Github, go to my current issues, my dashboard and a lot lot more
+	- use it less now due to speed of GitHub Jump
 
 <img width="720" alt="img" src="http://i.imgur.com/w6W9n4w.gif">
 
-
-- [Stack Overflow](http://www.packal.org/workflow/stackoverflow-search) (Stack Overflow search from Alfred with autosuggestions, very often I still just use Google to do my search queries but this allows me to more specifically target Stack Overflow and also see the results from the Alfred prompt itself.
+- [Stack Overflow](http://www.packal.org/workflow/stackoverflow-search) 
+	- Stack Overflow search from Alfred with autosuggestions, nearly always I still just use Google to do my search queries but this allows me to more specifically target Stack Overflow and also see the results from the Alfred prompt itself.
 
 <img width="720" alt="img" src="http://i.imgur.com/WKqQT6j.gif">
 
-
-- [currentURL](http://www.packal.org/workflow/currenturl) (a very simple workflow that simply gets the url of currently active Safari tab and puts it into system clipboard, I use it a lot as I often want to add a link to some list in 2Do or have it be pasted to some text I am writing)
-
-
-- [Pocket](http://www.packal.org/workflow/pocket-alfred) (allows me to quickly save an article I am reading to Pocket for later reading, I can also go through and search any article that I want to read, archive an article that I have read already in the browser but still want to keep in Pocket)
+- [Pocket](http://www.packal.org/workflow/pocket-alfred) 
+	- allows me to quickly save an article I am reading to Pocket for later reading. I can then also go and search any article that I want to read from my reading list quickly.
  
 <img width="720" alt="img" src="http://i.imgur.com/m7k4M7H.gif">
 
-
-- [Units](http://www.packal.org/workflow/units) (if I even am in need to do any kind of conversion, I do it here)
+- [Units](http://www.packal.org/workflow/units) 
+	- if I am ever in need to do any kind of conversion, I do it here
 
 <img width="720" alt="img" src="http://i.imgur.com/ZqnrCMt.gif">
 
-
-- [Safari Search](https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow) (use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.)
+- [Safari Search](https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow) 
+	- use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.
 
 <img width="720" alt="img" src="http://i.imgur.com/dSLzBuk.gif">
 
-
-- [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player) (mentioned it briefly above, but this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt) (very powerful workflow)
-ds
-
-- 
-
-
+- [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player)
+	- this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt 
+ 
 <img width="720" alt="img" src="http://i.imgur.com/OpczvFS.gif">
+
+- [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred)
+	- a very fast way to search and get autosuggestions for various swift and objc pods
+
+
+
+
 
 ##Desktop Screenshot
 ![](http://i.imgur.com/JV3NdUz.jpg)
+
 ##Launchpad
 ![](http://i.imgur.com/iAYxKxe.jpg)
-
-
