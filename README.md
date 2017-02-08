@@ -130,7 +130,7 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 
 <img width="720" alt="img" src="https://i.imgur.com/8480gDF.gifv">
 
-![](https://i.imgur.com/8480gDF.gifv)
+<img width="720" alt="img" src="https://i.imgur.com/8480gDF.gif">
 
 - [Github Command Bar](http://www.packal.org/workflow/github-command-bar) 
 	- allows me to quickly find any repository that I want, search through Github, go to my current issues, my dashboard and a lot lot more
@@ -166,6 +166,7 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 - [Pod Search](https://github.com/BenchR267/Pod-Search-Alfred)
 	- a very fast way to search and get autosuggestions for various swift and objc pods
 
+<img width="720" alt="img" src="http://i.imgur.com/RNJhi34.gif">
 
 
 
