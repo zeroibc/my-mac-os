@@ -1,5 +1,5 @@
-#[my wonderful world of macOS](https://my.mindnode.com/H1ejGz58APafNWf3s9MiD9E3CSpkxPTKapJSiNkA)
-##[Applications](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC)
+# [my wonderful world of macOS](https://my.mindnode.com/H1ejGz58APafNWf3s9MiD9E3CSpkxPTKapJSiNkA)
+## [Applications](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC)
 
 ![](http://i.imgur.com/l4jD7mK.jpg) 
 
@@ -82,7 +82,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
     activity across different repositories I have on my machine)
 
 
-##Browser
+## Browser
 
 My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. Here are the ones that I use (in order of importance for me) : 
 
@@ -109,7 +109,7 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 
 
 
-##[Alfred Workflows](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
+## [Alfred Workflows](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
 
 ![](http://i.imgur.com/WFoTKF9.png) 
 
