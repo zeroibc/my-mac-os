@@ -9,45 +9,45 @@
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
-####1. [Alfred](https://www.alfredapp.com/) 
+#### 1. [Alfred](https://www.alfredapp.com/) 
 
 - this is by far my favourite application that I have. It saved me [a lot of time](http://i.imgur.com/eavekiX.png) in my life and has a really great [community](http://www.alfredforum.com/) and [very powerful workflows](http://www.packal.org/) that you can use. I have attached the ones I use the most to [this repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/alfred-workflows). Feel free to use any that you like) 
 		- here is a [full list](https://imgur.com/a/8Q2HW) of workflows I use
 
-####2. [MindNode](https://mindnode.com)
+#### 2. [MindNode](https://mindnode.com)
 
 - an application which allowed me to create all of the mind maps from [Learn Anything](https://learn-anything.xyz/)
 - it is an incredible joy to really make mind maps in this app and I use it to viusalise everything : 
 	- my notes, my projects, my plans, my thoughts
 	
-####3. [iTerm](https://www.iterm2.com/) 
+#### 3. [iTerm](https://www.iterm2.com/) 
 - recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
 - [here](http://i.imgur.com/vbJehoQ.png) are some [homebrew](http://brew.sh/index.html) packages I like and use 
 
-####4. [2Do](http://www.2doapp.com/mac)
+#### 4. [2Do](http://www.2doapp.com/mac)
 - I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise [my tasks](http://i.imgur.com/IyVj3HT.png) and things I want to do and achieve
 - it has [global quick add](http://i.imgur.com/Fh60Lb4.png) with a hotkey, lists, priorities, powerful search and a lot more
 
-####5. [Vs Code](https://github.com/Microsoft/vscode)
+#### 5. [Vs Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in
 - most notably I really its [vim plugin](https://github.com/VSCodeVim/Vim) 
 
-####6. [SnippetsLab](https://www.renfei.org/snippets-lab/) 
+#### 6. [SnippetsLab](https://www.renfei.org/snippets-lab/) 
 - a very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, [retrieving the snippets](http://i.imgur.com/A4dJbgV.png) that you need it staggeringly fast
 - I use it as my [own personal programmer's notepad](http://i.imgur.com/gRsSBmx.png) with code and lots and lots of comments
 
-####5. [Day One](http://dayoneapp.com/) 
+#### 5. [Day One](http://dayoneapp.com/) 
 - probably the best journal writing application there is, use it [every day](http://i.imgur.com/V82Em5D.png) to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l) and many other small little tidbits of text with thoughts, plans and experiences that I have had
 - if you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life
 
 
-####6. [Ulysses](http://www.ulyssesapp.com/) 
+#### 6. [Ulysses](http://www.ulyssesapp.com/) 
 - all your writing in one place is the motto and the underlying design of the app. 
 - very [powerful search](http://i.imgur.com/Aa17RCQ.png), freedom of structure, great themes and export to markdown / PDF
 - really promotes you to write with its great design and features
 - moved to it from [Byword](https://bywordapp.com/) and [iaWriter](https://ia.net/writer) that I used before, having a one place database for all my writing for me was the selling point of the app)
 
-####7. [Pixave](http://www.littlehj.com/) 
+#### 7. [Pixave](http://www.littlehj.com/) 
 - always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png), gifs that I have saved over the years to one place that is easiliy searchabe and is again just a joy to use was very valuable for me
 - probably the best application there exists for storing and organising all of your photographic media content
 
@@ -143,7 +143,7 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 8. [Reddit Enchancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) (a ton of amazing additions to the reddit website)
 9. [hckr news](https://hckrnews.com/about.html#extensions) (I use hacker news as one of my main sources of news and it was really in need of a nicer interface with night mode so here it is, plus I have it show only the top posts from the day)
 10. [minimal status bar](https://github.com/visnup/Minimal-Status-Bar) (shows a small unobtrusive bar on the bottom of the page when I hover over some link)
-11. [Sessions](https://sessions-extension.github.io/Sessions/) (allows me to quickly save and retrieve sessions that I had made, very useful if you have a lot of tabs open and you don't want to quit them all but still start a new session to work from)
+11. [Sessions](https://sessions-extension.github.io/Sessions/) (allows me to quickly save and retrive sessions that I had made, very useful if you have a lot of tabs open and you don't want to quit them all but still start a new session to work from)
 12. [Social Fixer](http://socialfixer.com/download.html) (really cleaned up my facebook page, no ads, no live updated notifications of what people have done on the right and a lot more, don't use facebook anyway and have it blocked for entire day but the times I do, it makes a nice difference
 13. [Disconnect](https://disconnect.me/) (perhaps overdoing it as I already have Adguard as my blocker, but maybe it is nice to have too, doesn't impact browser performance in any way)
 14. [betterttv](http://nightdev.com/betterttv/) (don't use Twitch as it is quite a huge waste of time but night mode is essential for me in the rare occasions that I do want to visit it)
