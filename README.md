@@ -11,8 +11,9 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 1. [Alfred](https://www.alfredapp.com/) 
 
-- this is by far my favourite application that I have. It saved me [a lot of time](http://i.imgur.com/eavekiX.png) in my life and has a really great [community](http://www.alfredforum.com/) and [very powerful workflows](http://www.packal.org/) that you can use. I have attached the ones I use the most to [this repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/alfred-workflows). Feel free to use any that you like) 
-
+- this is by far my favourite application that I have. It saved me [a lot of time](http://i.imgur.com/eavekiX.png) in my life and has a really great [community](http://www.alfredforum.com/) and [very powerful workflows](http://www.packal.org/) that you can use
+- I have attached the ones I use the most to [this repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/alfred-workflows) 
+	- feel free to use any that you like
 - here is a [full list](https://imgur.com/a/8Q2HW) of workflows I use
 
 #### 2. [MindNode](https://mindnode.com)
@@ -211,11 +212,13 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 - saves [all my starred repositories](https://github.com/nikitavoloboev?tab=stars) to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
 
 <h2 align="center"><a href="http://www.packal.org/workflow/pocket-alfred"> Pocket </a></h2>
+
 - allows me to quickly save an article I am reading to Pocket for later reading. I can then also go and search any article that I want to read from my reading list quickly.
  
 <img width="720" alt="img" src="http://i.imgur.com/m7k4M7H.gif">
 
 <h2 align="center"><a href="http://www.packal.org/workflow/units"> Units </a></h2>
+
 - if I am ever in need to do any kind of conversion, I do it here
 
 <img width="720" alt="img" src="http://i.imgur.com/ZqnrCMt.gif">
@@ -237,7 +240,9 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 - a very fast way to search and get autosuggestions for various swift and objc pods
 
 <h1 align="center"> Desktop Screenshot 🍎</h1>
+
 ![](http://i.imgur.com/JV3NdUz.jpg)
 
 <h1 align="center"> Launchpad </h1>
+
 ![](http://i.imgur.com/G9IBCqH.png)
