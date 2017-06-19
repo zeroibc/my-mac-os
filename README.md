@@ -1,23 +1,71 @@
-# [my wonderful world of macOS 🍏](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC#-438.0,-116.9,2)
-# [Applications](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC)
+<h1 align="center">My wonderful world of macOS 🍏 </h1>
 
-![](http://i.imgur.com/l4jD7mK.jpg) 
+
+
+<h1 align="center"><a href="https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC"> Applications </a></h1>
+
+![](http://i.imgur.com/uvvgCYy.png) 
 
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
-1. [Alfred](https://www.alfredapp.com/) (this is by far my favourite application that I have. It saved me [a lot of time](http://i.imgur.com/lm0uvL2.png) in my life and has a really great [community](http://www.alfredforum.com/) and [very powerful workflows](http://www.packal.org/) that you can use. I have attached the ones I use the most to [this repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/alfred-workflows). Feel free to use any that you like) (here is a [full list](https://imgur.com/a/8Q2HW) of workflows I use)
-2. [iTerm](https://www.iterm2.com/) (recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://github.com/nikitavoloboev/dotfiles/tree/master/karabiner) and can open it on demand at any time that I want) ([here](http://i.imgur.com/8oK6olc.png) are some [homebrew](http://brew.sh/index.html) packages I like and use) (really powerful and great tool)
-3. [2Do](http://www.2doapp.com/mac) (I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise [my tasks](http://i.imgur.com/nDGuNUM.png) and things I want to do and achieve, has [global quick add](http://i.imgur.com/4kLeOIc.png) with a hotkey, lists, priorities, powerful search and a lot more) (really reccomend it)
-4. [SnippetsLab](https://www.renfei.org/snippets-lab/) (a very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, [retrieving the snippets](http://i.imgur.com/XsHfmTO.png) that you need it staggeringly fast. Use it as my [own personal programmer's notepad](http://i.imgur.com/vbm8ea7.png) with code and lots and lots of comments.)
-5. [Day One](http://dayoneapp.com/) (probably the best journal writing application there is, use it [every day](http://i.imgur.com/V82Em5D.png) to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l) and many other small little tidbits of text with thoughts, plans and experiences that I have had) (if you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life)
-6. [Mindnode](https://mindnode.com) (make all of my [weekly plans](http://i.imgur.com/YyqGQHR.png) in there, found it to be a very powerful tool for that, however planning to expand its use to have it be used for almost every planning and structuring work I need to do before starting any project of mine) (wonderful application that is a real joy to use)
-7. [Ulysses](http://www.ulyssesapp.com/) (all your writing in one place is the motto and the underlying design of the app. Very [powerful search](http://i.imgur.com/2K7IuqL.png), freedom of structure, great themes and export to markdown / PDF. Really promotes you to write with its great design and features) (moved to it from [Byword](https://bywordapp.com/) and [iaWriter](https://ia.net/writer) that I used before, having a one place database for all my writing for me was the selling point of the app)
-8. [Pixave](http://www.littlehj.com/) (always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png
-), gifs that I have saved over the years to one place that is easiliy searchabe and is again just a joy to use was very valuable for me) (probably the best application there exists for storing and organising all of your photographic media content)
-9. [PDF Expert](https://pdfexpert.com/) (I read a lot of PDFs like books, uni assignments and the like. This app is a huge upgrade over [Preview](http://www.wikiwand.com/en/Preview_(Mac_OS)) app that I used before. Multiple tabs, sepia mode, very nice annotation tools, great search, performance)
-10. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) (a staggeringly powerful mac automation tool that I am only beggining to scratch the surface of. Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve. Currently use it for [quick app switching](http://i.imgur.com/6JdMMvT.png) and running a small [BitBar](https://github.com/matryer/bitbar) script that I wrote to display my current 2Do task in the menu bar.)
-11. [BetterTouchTool](https://www.boastr.net/) (another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/kZowWj3.png) and [app specific](http://i.imgur.com/1GqBPOR.png). What more it allows me to also customise [my trackpad gestures](http://i.imgur.com/FxeXTpY.png) to do any actions that I want, this is very powerful. I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.)
+####1. [Alfred](https://www.alfredapp.com/) 
+
+- this is by far my favourite application that I have. It saved me [a lot of time](http://i.imgur.com/eavekiX.png) in my life and has a really great [community](http://www.alfredforum.com/) and [very powerful workflows](http://www.packal.org/) that you can use. I have attached the ones I use the most to [this repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/alfred-workflows). Feel free to use any that you like) 
+		- here is a [full list](https://imgur.com/a/8Q2HW) of workflows I use
+
+####2. [MindNode](https://mindnode.com)
+
+- an application which allowed me to create all of the mind maps from [Learn Anything](https://learn-anything.xyz/)
+- it is an incredible joy to really make mind maps in this app and I use it to viusalise everything : 
+	- my notes, my projects, my plans, my thoughts
+	
+####3. [iTerm](https://www.iterm2.com/) 
+- recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
+- [here](http://i.imgur.com/vbJehoQ.png) are some [homebrew](http://brew.sh/index.html) packages I like and use 
+
+####4. [2Do](http://www.2doapp.com/mac)
+- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise [my tasks](http://i.imgur.com/IyVj3HT.png) and things I want to do and achieve
+- it has [global quick add](http://i.imgur.com/Fh60Lb4.png) with a hotkey, lists, priorities, powerful search and a lot more
+
+####5. [Vs Code](https://github.com/Microsoft/vscode)
+- My favourite editor that I use to write code in
+- most notably I really its [vim plugin](https://github.com/VSCodeVim/Vim) 
+
+####6. [SnippetsLab](https://www.renfei.org/snippets-lab/) 
+- a very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, [retrieving the snippets](http://i.imgur.com/A4dJbgV.png) that you need it staggeringly fast
+- I use it as my [own personal programmer's notepad](http://i.imgur.com/gRsSBmx.png) with code and lots and lots of comments
+
+####5. [Day One](http://dayoneapp.com/) 
+- probably the best journal writing application there is, use it [every day](http://i.imgur.com/V82Em5D.png) to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l) and many other small little tidbits of text with thoughts, plans and experiences that I have had
+- if you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life
+
+
+####6. [Ulysses](http://www.ulyssesapp.com/) 
+- all your writing in one place is the motto and the underlying design of the app. 
+- very [powerful search](http://i.imgur.com/Aa17RCQ.png), freedom of structure, great themes and export to markdown / PDF
+- really promotes you to write with its great design and features
+- moved to it from [Byword](https://bywordapp.com/) and [iaWriter](https://ia.net/writer) that I used before, having a one place database for all my writing for me was the selling point of the app)
+
+####7. [Pixave](http://www.littlehj.com/) 
+- always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png), gifs that I have saved over the years to one place that is easiliy searchabe and is again just a joy to use was very valuable for me
+- probably the best application there exists for storing and organising all of your photographic media content
+
+9. [PDF Expert](https://pdfexpert.com/) 
+- I read a lot of PDFs like books, uni assignments and the like
+- this app is a huge upgrade over [Preview](http://www.wikiwand.com/en/Preview_(Mac_OS)) app that I used before
+- multiple tabs, sepia mode, very nice annotation tools, great search, performance
+
+10. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
+- a staggeringly powerful mac automation tool that I am only beggining to scratch the surface of
+- has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
+- currently use it for [quick app switching](http://i.imgur.com/6JdMMvT.png) and running a small [BitBar](https://github.com/matryer/bitbar) script that I wrote to display my current 2Do task in the menu bar
+
+11. [BetterTouchTool](https://www.boastr.net/) 
+- another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/kZowWj3.png) and [app specific](http://i.imgur.com/1GqBPOR.png)
+- what more it allows me to also customise [my trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to do any actions that I want, this is very powerful
+- I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
+
 12. [Airmail](http://airmailapp.com/) (by far the most well designed and feature rich mail application that I have used so far, really love all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use)
 13. [Spotify](https://www.spotify.com/us/) (found a [lot of great music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy) (quickly finding artists, songs I want to listen, instantly adding the song playing to my 'likes' playlist or any other playlist I want, [seeing what other songs the artist has](http://i.imgur.com/mXUQ51a.png) and more)
 14. [Fantastical](https://flexibits.com/fantastical) (just a straight up best application there is for organising and creating events in your life) (global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS) (I also added some of my own [text expansions](http://i.imgur.com/Vir23Pk.png) to help with natural text input)
@@ -81,8 +129,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
     basic commands) (this seems like a good app to help organise all the git
     activity across different repositories I have on my machine)
 
-
-# Browser
+<h1 align="center">Browser </h1>
 
 My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. Here are the ones that I use (in order of importance for me) : 
 
@@ -108,10 +155,9 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 20. [Shellfish](http://open-bits.com/shellfish/) (removes all the annoying 'share this page' links and buttons, I forgot such things exist after using this)
 
 
+<h1 align="center"><a href="https://my.mindnode.com/kEAiWswNbTNP5zmXpHz3EgwAbxFtsga9N86zqEet"> Alfred Workflows 🎩</a></h1>
 
-# [Alfred Workflows](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
-
-![](http://i.imgur.com/WFoTKF9.png) 
+![](http://i.imgur.com/r3dFm0W.png) 
 
 I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. Here is a list of workflows that I personally love to use again sorted by their importance to me : 
 
