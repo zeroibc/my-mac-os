@@ -46,50 +46,57 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - probably the best journal writing application there is, use it [every day](http://i.imgur.com/V82Em5D.png) to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l) and many other small little tidbits of text with thoughts, plans and experiences that I have had
 - if you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life
 
+#### 9. [Typinator](http://www.ergonis.com/products/typinator/) 
+- moved to it from [Textexpander](https://smilesoftware.com/textexpander) as I am not fond of subscription models for software but also because typinator is really just better
+- it expands text and moves the pointer caret faster and has a really powerful [quick search](http://i.imgur.com/A6kzKRE.png) available globally right at my fingertips
 
-#### 9. [Ulysses](http://www.ulyssesapp.com/) 
+#### 10. [Ulysses](http://www.ulyssesapp.com/) 
 - all your writing in one place is the motto and the underlying design of the app. 
 - very [powerful search](http://i.imgur.com/Aa17RCQ.png), freedom of structure, great themes and export to markdown / PDF
 - really promotes you to write with its great design and features
 - moved to it from [Byword](https://bywordapp.com/) and [iaWriter](https://ia.net/writer) that I used before, having a one place database for all my writing for me was the selling point of the app)
 
-#### 10. [Pixave](http://www.littlehj.com/) 
+#### 11. [Pixave](http://www.littlehj.com/) 
 - always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png), gifs that I have saved over the years to one place that is easiliy searchabe and is again just a joy to use was very valuable for me
 - probably the best application there exists for storing and organising all of your photographic media content
 
-#### 10. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
+#### 12. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
 - a staggeringly powerful mac automation tool that I am only beggining to scratch the surface of
 - has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
 - currently use it for [quick app switching](http://i.imgur.com/6JdMMvT.png) and running a small [BitBar](https://github.com/matryer/bitbar) script that I wrote to display my current 2Do task in the menu bar
 
-#### 11. [BetterTouchTool](https://www.boastr.net/) 
+#### 13. [BetterTouchTool](https://www.boastr.net/) 
 - another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/kZowWj3.png) and [app specific](http://i.imgur.com/1GqBPOR.png)
 - what more it allows me to also customise [my trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to do any actions that I want, this is very powerful
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
 
 
-#### 12. [PDF Expert](https://pdfexpert.com/) 
+#### 14. [PDF Expert](https://pdfexpert.com/) 
 - I read a lot of PDFs like books, uni assignments and the like
 - this app is a huge upgrade over [Preview](http://www.wikiwand.com/en/Preview_(Mac_OS)) app that I used before
 - multiple tabs, sepia mode, very nice annotation tools, great search, performance
 
-#### 13. [Dash](https://kapeli.com/dash) 
+#### 15. [Dash](https://kapeli.com/dash) 
 - very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of [searching for the right things](http://i.imgur.com/tBEkKtL.png)
 
-#### 14. [Airmail](http://airmailapp.com/) 
+#### 16. [Airmail](http://airmailapp.com/) 
 
 - by far the most well designed and feature rich mail application that I have used so far, really love all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use
 
-#### 15. [Spotify](https://www.spotify.com/us/) 
+#### 17. [Spotify](https://www.spotify.com/us/) 
 - found a [lot of great music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy
-- quickly finding artists, songs I want to listen, instantly adding the song playing to my 'likes' playlist or any other playlist I want, [seeing what other songs the artist has](http://i.imgur.com/mXUQ51a.png) and more)
+- quickly finding artists, songs I want to listen, instantly adding the song playing to my 'likes' playlist or any other playlist I want, [seeing what other songs the artist has](http://i.imgur.com/mXUQ51a.png) and more
 
-#### 16. [Fantastical](https://flexibits.com/fantastical) 
+#### 18. [MacDown](http://macdown.uranusjr.com) 
+- the tool I use to write this readme
+- a really great tool that I use to quickly edit any single markdown file that I have on the system
+
+#### 19. [Fantastical](https://flexibits.com/fantastical) 
 - just a straight up best application there is for organising and creating events in your life
 - global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS) (I also added some of my own [text expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to help with natural text input
 
 
-#### 17. [IntelliJ](https://www.jetbrains.com/idea/)
+#### 20. [IntelliJ](https://www.jetbrains.com/idea/)
 - Java is the main language used in my university and I started to quite like the language, this is by far the best IDE out there for java, powerful IntelliSense, vim emulation plugin, great support for debugging and a lot more
 
 #### 18. [Focus](https://heyfocus.com)
@@ -154,8 +161,6 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 63. [Paw](https://paw.cloud) (a really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great)
 64. [Timing](https://timingapp.com/?lang=en) (aside from tracking my time actively with Toggl, I also have a passive tracker, that records the amount of time I spend in all applications, websites that I access on my mac) (I can then use the information to reflect on how and where I am spending my time and what I should change)
 65. [Airtable](https://airtable.com) (started using it recently as my own personal database of things) (even had the idea of moving and keeping lists of apps I use [there](https://airtable.com/shrBkKtBPB6F2EqoG) as it is much easier for me to update and keep up with)
-66. [MacDown](http://macdown.uranusjr.com) (the tool I use to write this readme) (a really great tool that I use to quickly edit any single markdown file that I have on the system)
-67. [Typinator](http://www.ergonis.com/products/typinator/) (moved to it from [textexpander](https://smilesoftware.com/textexpander) as I am not fond of subscription models for software but also because typinator is really just better) (it expands text and moves the pointer caret faster and has a really powerful [quick search](http://i.imgur.com/A6kzKRE.png) available globally right at my fingertips)
 68. [hammerspoon](http://www.hammerspoon.org) (really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant) (right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment) (can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua))
 69. [hazel](https://www.noodlesoft.com) (use it to fully automate my filing process) (I use prefixes for everything, bookmarks, notes, ulysses entries and even files) (this allows me to write some great rules for my Downloads folder that will file the files where I want them to be) ([here](http://i.imgur.com/7oiSYV3.png) is one example of such rule) (I also recursively lowercase files and hide extensions for all files on my system)
 70. [Tower](https://www.git-tower.com/mac/) (started using it only recently and
