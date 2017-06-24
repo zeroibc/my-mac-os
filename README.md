@@ -81,6 +81,10 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 16. [Dash](https://kapeli.com/dash) 
 - very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of [searching for the right things](http://i.imgur.com/tBEkKtL.png)
 
+#### 17. [Timing 2](https://timingapp.com/whats-new) 
+- I am moving completely to Timing 2 from Toggl for both passive and active tracking
+- the fact that I can combine active and passive tracking together is quite powerful and allows me to be more aware of where I spend my time 
+
 #### 17. [Airmail](http://airmailapp.com/) 
 
 - by far the most well designed and feature rich mail application that I have used so far, really love all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use
@@ -96,9 +100,6 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 20. [Fantastical](https://flexibits.com/fantastical) 
 - just a straight up best application there is for organising and creating events in your life
 - global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS) (I also added some of my own [text expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to help with natural text input
-
-#### 21. [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/) 
-- I [track all the time](https://medium.com/@NikitaVoloboev/project-based-learning-e511641869ca#.z6wr7ncu5) I am working with Toggl, seperated by different projects. This gives me a clear view of how much time I have spent working and on what over the week / month. Fan of [quantified self movement](http://www.wikiwand.com/en/Quantified_Self), I can then use this information I get and analyse and reflect on it)
 
 #### 22. [Bartender](https://www.macbartender.com/) 
 - a great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the [most important information](http://i.imgur.com/0vaBfnU.png) that I need in it
@@ -220,9 +221,6 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 63. [Paw](https://paw.cloud) 
 - a really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great
 
-#### 64. [Timing](https://timingapp.com/?lang=en) 
-- aside from tracking my time actively with Toggl, I also have a passive tracker, that records the amount of time I spend in all applications, websites that I access on my mac
-- I can then use the information to reflect on how and where I am spending my time and what I should change
 
 #### 68. [Hammerspoon](http://www.hammerspoon.org) 
 - really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
