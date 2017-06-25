@@ -354,4 +354,4 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 
 <h1 align="center"> Launchpad </h1>
 
-![](http://i.imgur.com/G9IBCqH.png)
+![](http://i.imgur.com/iJ7TyhA.png)
