@@ -362,3 +362,10 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 <h1 align="center"> Launchpad </h1>
 
 ![](http://i.imgur.com/iJ7TyhA.png)
+
+
+<h1 align="center"> Thanks 🍀</h1>
+
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev). Thank you. 💛 
+
+
