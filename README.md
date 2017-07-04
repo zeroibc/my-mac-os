@@ -246,7 +246,7 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 
 #### 1. [sVim](https://github.com/flipxfx/sVim) 
 - allows me to navigate through pages with h,j,k,l and a lot more
-- here are the custom [sVimrc settings](https://gist.github.com/nikitavoloboev/ba7fe2b3424db340dbcf012722f6915f) that I use
+- here are the custom [sVimrc settings](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) that I use
 
 #### 2. [Adguard](https://adguard.com/en/adblock-adguard-safari.html) 
 - content blocker which is akin to adblock but uses less resources and really just works
