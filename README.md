@@ -321,7 +321,7 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 
 - it allows me to very quickly search through any docset that I have downloaded for anything I want, it allows me to also scope my search for any specific docset that I want to search. I activate it by simply pressing ln together.
 
-<img width="720" alt="img" src="http://i.imgur.com/SPidjcH.gif">
+<p align="center"><img src="http://i.imgur.com/SPidjcH.gif" alt="img" width="600"></p>
 
 <h2 align="center"><a href="https://github.com/lox/alfred-github-jump"> GitHub Jump </a></h2>
 
@@ -330,26 +330,27 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 <h2 align="center"><a href="http://www.packal.org/workflow/pocket-alfred"> Pocket </a></h2>
 
 - allows me to quickly save an article I am reading to Pocket for later reading. I can then also go and search any article that I want to read from my reading list quickly.
- 
-<img width="720" alt="img" src="http://i.imgur.com/m7k4M7H.gif">
+
+
+<p align="center"><img src="http://i.imgur.com/m7k4M7H.gif" alt="img" width="600"></p>
 
 <h2 align="center"><a href="http://www.packal.org/workflow/units"> Units </a></h2>
 
 - if I am ever in need to do any kind of conversion, I do it here
 
-<img width="720" alt="img" src="http://i.imgur.com/ZqnrCMt.gif">
+<p align="center"><img src="http://i.imgur.com/ZqnrCMt.gif" alt="img" width="600"></p>
 
 <h2 align="center"><a href="https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow"> Safari Search </a></h2>
 
 - use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.
 
-<img width="720" alt="img" src="http://i.imgur.com/dSLzBuk.gif">
+<p align="center"><img src="http://i.imgur.com/dSLzBuk.gif" alt="img" width="600"></p>
 
 <h2 align="center"><a href="http://www.packal.org/workflow/spotify-mini-player"> Spotify Mini Player </a></h2>
 
 - this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt 
- 
-<img width="720" alt="img" src="http://i.imgur.com/OpczvFS.gif">
+
+<p align="center"><img src="http://i.imgur.com/OpczvFS.gif" alt="img" width="600"></p>
 
 <h2 align="center"><a href="https://github.com/BenchR267/Pod-Search-Alfred"> Pod Search </a></h2>
 
