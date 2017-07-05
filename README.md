@@ -315,7 +315,7 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 
 - allows me to quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query I type. I can quickly [press jk](https://github.com/nikitavoloboev/dotfiles/tree/master/karabiner#karabiner-set-up) and type anything I want and use the wonderful power of [Google](https://google.com) and [DuckDuckGo](https://duckduckgo.com/) to answer any question that I have.
 
-<img width="720" alt="img" src="http://i.imgur.com/gFrvSOr.gif">
+<p align="center"><img src="http://i.imgur.com/gFrvSOr.gif" alt="img" width="600"></p>
 
 <h2 align="center"><a href="https://github.com/Kapeli/Dash-Alfred-Workflow"> Dash </a></h2>
 
