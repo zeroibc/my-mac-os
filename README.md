@@ -244,9 +244,6 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. 
 
-I keep a list of my favourite Safari extensions Here are the ones that I use (in order of importance for me) : 
-
-
 I keep a list of my favourite Safari extensions and why I love them in a GitHub repository [here](https://github.com/learn-anything/safari-extensions). Feel free to contribute to it if you wish.
 
 
