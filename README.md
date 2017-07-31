@@ -305,56 +305,14 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 #### 20. [Shellfish](http://open-bits.com/shellfish/) 
 - removes all the annoying 'share this page' links and buttons, I forgot such things exist after using this
 
-<h1 align="center"><a href="https://my.mindnode.com/kEAiWswNbTNP5zmXpHz3EgwAbxFtsga9N86zqEet"> Alfred Workflows 🎩</a></h1>
+<h1 align="center"><a href="https://github.com/learn-anything/alfred-workflows"> Alfred Workflows 🎩</a></h1>
 
-![](http://i.imgur.com/r3dFm0W.png) 
-
-I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. Here is a list of workflows that I personally love to use again sorted by their importance to me : 
-
-<h2 align="center"><a href="http://www.packal.org/workflow/searchio"> Searchio </a></h2>
-
-- allows me to quickly search Google, Youtube, Wikipedia, Amazon, Google Images and Maps quickly and with autosuggestions being provided with every query I type. I can quickly [press jk](https://github.com/nikitavoloboev/dotfiles/tree/master/karabiner#karabiner-set-up) and type anything I want and use the wonderful power of [Google](https://google.com) and [DuckDuckGo](https://duckduckgo.com/) to answer any question that I have.
-
-<p align="center"><img src="http://i.imgur.com/gFrvSOr.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="https://github.com/Kapeli/Dash-Alfred-Workflow"> Dash </a></h2>
-
-- it allows me to very quickly search through any docset that I have downloaded for anything I want, it allows me to also scope my search for any specific docset that I want to search. I activate it by simply pressing ln together.
-
-<p align="center"><img src="http://i.imgur.com/SPidjcH.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="https://github.com/lox/alfred-github-jump"> GitHub Jump </a></h2>
-
-- saves [all my starred repositories](https://github.com/nikitavoloboev?tab=stars) to a local database and then allows to fuzzy search on the contents of it. Incredibly fast.
-
-<h2 align="center"><a href="http://www.packal.org/workflow/pocket-alfred"> Pocket </a></h2>
-
-- allows me to quickly save an article I am reading to Pocket for later reading. I can then also go and search any article that I want to read from my reading list quickly.
+<p align="center"><img src="http://i.imgur.com/r3dFm0W.png" alt="img" width="600"></p> 
 
 
-<p align="center"><img src="http://i.imgur.com/m7k4M7H.gif" alt="img" width="600"></p>
+I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. 
 
-<h2 align="center"><a href="http://www.packal.org/workflow/units"> Units </a></h2>
-
-- if I am ever in need to do any kind of conversion, I do it here
-
-<p align="center"><img src="http://i.imgur.com/ZqnrCMt.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="https://dl.dropboxusercontent.com/u/6749767/Alfred/Workflows/Search%20Safari.alfredworkflow"> Safari Search </a></h2>
-
-- use it all the time now, can instantly search through any bookmarks that I have saved in Safari as well as go through my history. The search is instant and very accurate, it also learns from what you usually choose.
-
-<p align="center"><img src="http://i.imgur.com/dSLzBuk.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="http://www.packal.org/workflow/spotify-mini-player"> Spotify Mini Player </a></h2>
-
-- this is an absolutely phenomenal tool that allows me to essentially control through the entirety of Spotify client through a quick Alfred prompt 
-
-<p align="center"><img src="http://i.imgur.com/OpczvFS.gif" alt="img" width="600"></p>
-
-<h2 align="center"><a href="https://github.com/BenchR267/Pod-Search-Alfred"> Pod Search </a></h2>
-
-- a very fast way to search and get autosuggestions for various swift and objc pods
+I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows). Feel free to contribute to it if you wish.
 
 <h1 align="center"> Desktop Screenshot 🍎</h1>
 
