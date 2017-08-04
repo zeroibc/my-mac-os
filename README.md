@@ -1,4 +1,4 @@
-<h1 align="center">My wonderful world of macOS 🍏 </h1>
+<h1 align="center">My wonderful world of macOS 💻 </h1>
 
 <div align="center">
 <a href="https://www.patreon.com/nikitavoloboev">
