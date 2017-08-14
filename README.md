@@ -9,7 +9,7 @@
 	</a>
 </div>
 
-<h1 align="center"><a href="https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC"> Applications </a></h1>
+<h1 align="center"><a href="https://github.com/learn-anything/macos-apps"> Applications </a></h1>
 
 ![](http://i.imgur.com/uvvgCYy.png) 
 
