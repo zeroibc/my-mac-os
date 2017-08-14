@@ -37,11 +37,12 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 5. [iTerm](https://www.iterm2.com/) 
 - recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
-- [here](http://i.imgur.com/WSV8Ll6.png) are some [homebrew](http://brew.sh/index.html) packages I like and use 
+- [here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use 
 
 #### 6. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in
-- most notably I really its [vim plugin](https://github.com/VSCodeVim/Vim) 
+- most notably I really like its [vim plugin](https://github.com/VSCodeVim/Vim) 
+	- my config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json) 
 
 #### 7. [SnippetsLab](https://www.renfei.org/snippets-lab/) 
 - a very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, [retrieving the snippets](http://i.imgur.com/A4dJbgV.png) that you need it staggeringly fast
