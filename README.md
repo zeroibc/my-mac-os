@@ -37,9 +37,9 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 5. [iTerm](https://www.iterm2.com/) 
 - recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
-- [here](http://i.imgur.com/vbJehoQ.png) are some [homebrew](http://brew.sh/index.html) packages I like and use 
+- [here](http://i.imgur.com/WSV8Ll6.png) are some [homebrew](http://brew.sh/index.html) packages I like and use 
 
-#### 6. [Vs Code](https://github.com/Microsoft/vscode)
+#### 6. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in
 - most notably I really its [vim plugin](https://github.com/VSCodeVim/Vim) 
 
@@ -73,6 +73,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - a staggeringly powerful mac automation tool that I am only beggining to scratch the surface of
 - has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
 - currently use it for [quick app switching](http://i.imgur.com/6JdMMvT.png) and running a small [BitBar](https://github.com/matryer/bitbar) script that I wrote to display my current 2Do task in the menu bar
+- I attach my favourite KM macros to this repo [here](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros)
+	- feel free to download any use them as you like
 
 #### 14. [BetterTouchTool](https://www.boastr.net/) 
 - another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/kZowWj3.png) and [app specific](http://i.imgur.com/1GqBPOR.png)
