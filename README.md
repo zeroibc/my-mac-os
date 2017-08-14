@@ -19,9 +19,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 1. [Alfred](https://www.alfredapp.com/) 
 
 - this is by far my favourite application that I have. It saved me [a lot of time](http://i.imgur.com/eavekiX.png) in my life and has a really great [community](http://www.alfredforum.com/) and [very powerful workflows](http://www.packal.org/) that you can use
-- I have attached the ones I use the most to [this repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/alfred-workflows) 
+- I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows) 
 	- feel free to use any that you like
-- here is a [full list](https://imgur.com/a/8Q2HW) of workflows I use
 
 #### 2. [MindNode](https://mindnode.com)
 
