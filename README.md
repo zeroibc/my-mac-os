@@ -247,7 +247,7 @@ I keep a list of my favourite Safari extensions and why I love them in a GitHub 
 
 <h1 align="center">Command Line Apps 🐚</h1>
 
-[Homerew](https://brew.sh) is a really wonderful and user friendly package manager for macOS. 
+[Homebrew](https://brew.sh) is a really wonderful and user friendly package manager for macOS. 
 
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I use from it. 
 
