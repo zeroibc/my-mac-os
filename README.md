@@ -239,13 +239,43 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
 	- [here](http://i.imgur.com/7oiSYV3.png) is one example of such rule) (I also recursively lowercase files and hide extensions for all files on my system
 
-
-
 <h1 align="center">Browser 🌐</h1>
 
 My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. 
 
 I keep a list of my favourite Safari extensions and why I love them in a GitHub repository [here](https://github.com/learn-anything/safari-extensions). Feel free to contribute to it if you wish.
+
+<h1 align="center">Command Line Apps 🐚</h1>
+
+[Homerew](https://brew.sh) is a really wonderful and user friendly package manager for macOS. 
+
+[Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I use from it. 
+
+And here are some more command line tools I use and love : 
+
+- [thefuck](https://github.com/nvbn/thefuck) : corrects your previous console command
+- [ccat](https://github.com/jingweno/ccat) : [cat](http://www.linfo.org/cat.html) command with colours
+- [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) : various useful GNU utils that don’t come with macOS
+- [ripgrep](https://github.com/BurntSushi/ripgrep) : search text for patterns really fast
+- [m-cli](https://github.com/rgcr/m-cli) : useful utils for macOS
+- [mas](https://github.com/mas-cli/mas) : cli for mac app store
+- [youtube-dl](https://github.com/rg3/youtube-dl) : download videos from youtube and other video sites
+- [tmux](https://github.com/tmux/tmux) : terminal multiplexer
+- [pandoc](https://github.com/jgm/pandoc) : universal markup converter
+- [trash](https://github.com/sindresorhus/trash) : move files and folders to the trash
+- [vtop](https://github.com/MrRio/vtop) : graphical activity monitor
+- [curl](https://github.com/curl/curl) : transfer data, supports various protocols
+- [howdoi](https://github.com/gleitz/howdoi) : instant coding answers
+- [asciinema](https://github.com/asciinema/asciinema) : terminal session recorder
+- [tldr](https://github.com/tldr-pages/tldr) : simplified and community-driven man pages 
+- [imgcat](https://github.com/eddieantonio/imgcat) : like [cat](http://www.linfo.org/cat.html) but for images
+- [screenfetch](https://github.com/KittyKatt/screenFetch) : fetches system/theme information in terminal
+- [hugo](https://github.com/gohugoio/hugo) : fast and flexible static site generator
+- [coala](https://github.com/coala/coala) : linting and fixing of code
+- [reflex](https://github.com/cespare/reflex) : run a command when files change
+- [create-react-app](https://github.com/facebookincubator/create-react-app) : create React apps with no build configuration
+- [now](https://github.com/zeit/now-cli) : realtime global deployments served over HTTP/2
+- [yarn](https://github.com/yarnpkg/yarn) : fast, reliable, and secure dependency management
 
 
 <h1 align="center"><a href="https://github.com/learn-anything/alfred-workflows"> Alfred Workflows 🎩</a></h1>
