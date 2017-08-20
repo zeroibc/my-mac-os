@@ -9,10 +9,11 @@
 	</a>
 </div>
 
-<h1 align="center"><a href="https://github.com/learn-anything/macos-apps"> Applications </a></h1>
+<h1 align="center"><a href="https://github.com/learn-anything/macos-apps"> Applications</a></h1>
 
-![](http://i.imgur.com/uvvgCYy.png) 
-
+<a align="center" href="https://github.com/learn-anything/macos-apps">
+    <img width="900" heigth="900" src="http://i.imgur.com/uvvgCYy.png">
+    
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
@@ -73,9 +74,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 13. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
 - a staggeringly powerful mac automation tool that I am only beggining to scratch the surface of
 - has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
-- currently use it for [quick app switching](http://i.imgur.com/6JdMMvT.png) and running a small [BitBar](https://github.com/matryer/bitbar) script that I wrote to display my current 2Do task in the menu bar
-- I attach my favourite KM macros to this repo [here](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros)
-	- feel free to download any use them as you like
+- I go over all my favourite macros I use and how I use them in [this GitHub repo](https://github.com/nikitavoloboev/km-macros)
 
 #### 14. [BetterTouchTool](https://www.boastr.net/) 
 - another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/kZowWj3.png) and [app specific](http://i.imgur.com/1GqBPOR.png)
@@ -265,6 +264,11 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 <h1 align="center"> Launchpad </h1>
 
 ![](http://i.imgur.com/iJ7TyhA.png)
+
+
+<h1 align="center"> Timing Screenshot 🕞 </h1>
+
+<p align="center"><img src="media/timing.png" alt="img" width="600"></p>
 
 
 <h1 align="center"> Thanks 🍀</h1>
