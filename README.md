@@ -12,7 +12,7 @@
 <h1 align="center"><a href="https://github.com/learn-anything/macos-apps"> Applications</a></h1>
 
 <a align="center" href="https://github.com/learn-anything/macos-apps">
-    <img width="900" heigth="900" src="http://i.imgur.com/uvvgCYy.png">
+    <img width="900" heigth="900" src="http://i.imgur.com/uvvgCYy.png"></a>
     
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
@@ -35,7 +35,6 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 4. [2Do](http://www.2doapp.com/mac)
 - I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise [my tasks](http://i.imgur.com/IyVj3HT.png) and things I want to do and achieve
 - it has [global quick add](http://i.imgur.com/Fh60Lb4.png) with a hotkey, lists, priorities, powerful search and a lot more	
-
 #### 5. [iTerm](https://www.iterm2.com/) 
 - recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
 - [here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use 
@@ -241,7 +240,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 	- [here](http://i.imgur.com/7oiSYV3.png) is one example of such rule) (I also recursively lowercase files and hide extensions for all files on my system
 
 
-<h1 align="center">Browser </h1>
+
+<h1 align="center">Browser 🌐</h1>
 
 My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. 
 
