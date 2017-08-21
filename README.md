@@ -301,6 +301,11 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 <p align="center"><img src="media/timing.png" alt="img" width="600"></p>
 
 
+<h1 align="center"> <a href="https://github.com/nikitavoloboev/my-ios">My wonderful world of iOS 📱</a> </h1>
+
+If you found this interesting, I also have [similar reposiory](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
+
+
 <h1 align="center"> Thanks 🍀</h1>
 
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-191.2,-905.2,2) I shared. Thank you. 💛 
