@@ -303,10 +303,14 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 <h1 align="center"> <a href="https://github.com/nikitavoloboev/my-ios">My wonderful world of iOS 📱</a> </h1>
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="300" heigth="300" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/master/media/screen1.jpg"></a>
-
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+    <img width="200" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/master/media/screen1.jpg"></a>
+    
+<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+    <img width="200" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/master/media/screen2.jpg"></a>
+
 
 
 <h1 align="center"> Thanks 🍀</h1>
