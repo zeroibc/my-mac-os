@@ -216,24 +216,21 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 58. [GIF Brewery](http://gifbrewery.com) 
 - allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be
 
-#### 59. [Quickcast](http://quickcast.io) 
-- what I use when I want to make a screencast of my screen to send to someone
-
-#### 60. [Noizio](http://noiz.io/) 
+#### 59. [Noizio](http://noiz.io/) 
 - rain, whale noises, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus
 
-#### 61. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
+#### 60. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
 - a really great colour picker that is quite often getting updated
 
-#### 63. [Paw](https://paw.cloud) 
+#### 61. [Paw](https://paw.cloud) 
 - a really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great
 
 
-#### 68. [Hammerspoon](http://www.hammerspoon.org) 
+#### 62. [Hammerspoon](http://www.hammerspoon.org) 
 - really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
 - right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment) (can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
 
-#### 69. [Hazel](https://www.noodlesoft.com) 
+#### 63. [Hazel](https://www.noodlesoft.com) 
 - use it to fully automate my filing process 
 - I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
@@ -293,7 +290,7 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 <h1 align="center"> Launchpad </h1>
 
-![](http://i.imgur.com/iJ7TyhA.png)
+<p align="center"><img src="media/launchpad.png" alt="img"></p>
 
 
 <h1 align="center"> Timing Screenshot 🕞 </h1>
