@@ -26,7 +26,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 2. [MindNode](https://mindnode.com)
 
 - an application which allowed me to create all of the mind maps from [Learn Anything](https://learn-anything.xyz/)
-- it is an incredible joy to make mind maps in this app and I use it to viusalise everything : 
+- it is an incredible joy to make mind maps in this app and I use it to visualize everything : 
 	- [my notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
 	
 #### 3. [Karabiner](https://pqrs.org/osx/karabiner/) 
