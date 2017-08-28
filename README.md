@@ -239,7 +239,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 58. [Hammerspoon](http://www.hammerspoon.org) 
 - really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
-- right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment) (can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
+- right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment
+	- can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
 
 #### 59. [Kap](https://github.com/wulkano/kap)
 
