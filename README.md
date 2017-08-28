@@ -241,7 +241,15 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
 - right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment) (can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
 
-#### 59. [Hazel](https://www.noodlesoft.com) 
+#### 59. [Kap](https://github.com/wulkano/kap)
+
+- an open source screen recorder I use to record GIFs 
+- has keyboard support so I can quickly start and end recording of the GIF in one hotkey
+
+#### 60. [PodcastMenu](https://github.com/insidegui/PodcastMenu)
+- allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar
+
+#### 61. [Hazel](https://www.noodlesoft.com) 
 - use it to fully automate my filing process 
 - I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
