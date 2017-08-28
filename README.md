@@ -9,11 +9,11 @@
 	</a>
 </div>
 
-<h1 align="center"><a href="https://github.com/learn-anything/macos-apps"> Applications</a></h1>
+<h1 align="center">Applications</h1>
 
 <a align="center" href="https://github.com/learn-anything/macos-apps">
     <img width="900" heigth="900" src="http://i.imgur.com/uvvgCYy.png"></a>
-    
+
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
@@ -113,7 +113,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - allows me to fuzzy search through [all the currenly active windows](http://i.imgur.com/Z8p8eyn.png) that I have
 - makes jumping to the right window I need effortless as I often may have many VS Code instances with different projects
 
-#### 22.[Dictionary](http://www.wikiwand.com/en/Dictionary_(software))
+#### 22. [Dictionary](http://www.wikiwand.com/en/Dictionary_(software))
 - comes natively with macOS and I started to love using it for exploring and searching through wikipedia
 - it is incredibly fast to make the searches and it also gives [quick autosuggestions](http://i.imgur.com/BPOmjkZ.png) for any query I type that I can then select with up and down arrows
 
