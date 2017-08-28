@@ -33,7 +33,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - one of the applications I cannot live without, allows me to bind any key that I want. You can take a look at the config files I use for it [here](https://github.com/nikitavoloboev/dotfiles) alongside more information of how I use it in the description
 
 #### 4. [2Do](http://www.2doapp.com/mac)
-- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise [my tasks](http://i.imgur.com/IyVj3HT.png) and things I want to do and achieve
+- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise [my tasks](http://i.imgur.com/ZR47YoR.png) and things I want to do and achieve
 - it has [global quick add](http://i.imgur.com/Fh60Lb4.png) with a hotkey, lists, priorities, powerful search and a lot more	
 #### 5. [iTerm](https://www.iterm2.com/) 
 - recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
@@ -76,7 +76,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I go over all my favourite macros I use and how I use them in [this GitHub repo](https://github.com/nikitavoloboev/km-macros)
 
 #### 14. [BetterTouchTool](https://www.boastr.net/) 
-- another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/kZowWj3.png) and [app specific](http://i.imgur.com/1GqBPOR.png)
+- another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/PrDPLki.png) and [app specific](http://i.imgur.com/zyhAaSS.png)
 - what more it allows me to also customise [my trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to do any actions that I want, this is very powerful
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
 
@@ -89,7 +89,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of [searching for the right things](http://i.imgur.com/tBEkKtL.png)
 
 #### 17. [Timing 2](https://timingapp.com/whats-new) 
-- I am moving completely to Timing 2 from Toggl for both passive and active tracking
+- I moved completely to Timing 2 from Toggl for both passive and active tracking
 - the fact that I can combine active and passive tracking together is quite powerful and allows me to be more aware of where I spend my time 
 
 #### 17. [Airmail](http://airmailapp.com/) 
@@ -106,62 +106,78 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 20. [Fantastical](https://flexibits.com/fantastical) 
 - just a straight up best application there is for organising and creating events in your life
-- global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS) (I also added some of my own [text expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to help with natural text input
+- global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS 
+	- I also added some of my own [text expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to help with natural text input
 
-#### 22. [Bartender](https://www.macbartender.com/) 
-- a great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the [most important information](http://i.imgur.com/0vaBfnU.png) that I need in it
+#### 21. [Contexts](https://contexts.co)
+- allows me to fuzzy search through [all the currenly active windows](http://i.imgur.com/Z8p8eyn.png) that I have
+- makes jumping to the right window I need effortless as I often may have many VS Code instances with different projects
 
-#### 23. [Gitify](https://github.com/manosim/gitify)
-- a really simple menu bar app that just notifies me if there is a GitHub notification
+#### 22.[Dictionary](http://www.wikiwand.com/en/Dictionary_(software))
+- comes natively with macOS and I started to love using it for exploring and searching through wikipedia
+- it is incredibly fast to make the searches and it also gives [quick autosuggestions](http://i.imgur.com/BPOmjkZ.png) for any query I type that I can then select with up and down arrows
 
-#### 24. [Textual](https://www.codeux.com/textual/) 
+#### 23. [Bartender](https://www.macbartender.com/) 
+- a great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the [most important information](http://i.imgur.com/2SEANOJ.png) that I need to show in it
+	- I can then activate Bartender and [start searching](http://i.imgur.com/K2LbGQv.png) for the menu bar item I need all from the keyboard
+
+#### 24. [Ship](https://www.realartists.com/index.html)
+- a really awesome native app that lets me manage my GitHub issues
+- can schedule certain issues [as 'up next'](http://i.imgur.com/sQxx9lj.png) and complete them one by one  
+
+#### 25. [Textual](https://www.codeux.com/textual/) 
 - recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC
 - it also has an awesome [channel search](http://i.imgur.com/jwVCcMb.png) feature that I use a lot
 
-#### 25. [Focus](https://heyfocus.com)
-- I have facebook, hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](http://lifehacker.com/5872436/how-to-start-your-information-diet). Really does make a difference and [helps me focus](http://i.imgur.com/nhLiXOs.png) on what I need to be working on.
+#### 26. [Focus](https://heyfocus.com)
+- I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](http://lifehacker.com/5872436/how-to-start-your-information-diet). Really does make a difference and [helps me focus](http://i.imgur.com/cnVvp3m.png) on what I need to be working on.
 
-
-#### 26. [Tweetbot](http://tapbots.com/tweetbot/mac/)
+#### 27. [Tweetbot](http://tapbots.com/tweetbot/mac/)
 - twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app
 
-
-#### 27. [YNAB](https://www.youneedabudget.com/) 
+#### 28. [YNAB](https://www.youneedabudget.com/) 
 - use it to track and overview all of my finances, the most important part of this app is the [ideology](http://classic.youneedabudget.com/method) behind it. The whole app is built around this methodology and I really reccomend you take a look at it even if you are not planning to use the app, I find it really freeing and powerful
 
-#### 27. [Reeder](http://reederapp.com/mac/)
+#### 29. [Reeder](http://reederapp.com/mac/)
 - wasn't a big user of RSS but with me finding a lot of great blogs out there, I needed a place to keep myself updated on the great content that they will be posting. 
 - Reeder is the best RSS reeder out there that I found
 
-#### 28. [Marked](http://marked2app.com) 
-- if I ever need to preview a readme or any other markdown file that I wrote or just want to read, this app is the best application for that I found) (it also features live updating and quite a lot of very powerful customisation features
+#### 30. [Transmit](https://www.panic.com/transmit/)
+- I often use this app to quickly send files from my local file system to the cloud (either S3 or dropbox) and get a shareable link I can send to people
+- I use [this alfred workflow](https://www.dropbox.com/s/6y1lwy7lq9njdv6/Transmit.alfredworkflow?dl=1) to [quickly open](http://i.imgur.com/RkkcdvA.png) the cloud storage I need
 
-#### 29. [Xcello](http://lingsdesigns.com/xccello/) 
-
-- big fan of [Trello](https://trello.com) as a tool for managing tasks within a team, this app is essentially a web wrapper over online Trello boards
-
-#### 29. [Transmission](https://www.transmissionbt.com/) 
+#### 31. [Transmission](https://www.transmissionbt.com/) 
 - a torrent client that I use, very minimal in its UI but is very powerful and has all the features that I need without the bloat that [uTorrent](http://www.utorrent.com/intl/en/) and other clients have
 - have all my torrents downloaded into their specific folders
 - I also want to set up a seedbox with my raspberry pie in the future as I have a bad tendency of not seeding the torrents that I downloaded
 
-#### 30. [Sketch](https://www.sketchapp.com/) 
+#### 32. [Sketch](https://www.sketchapp.com/) 
 - not very fond of subscription based business models but this app is probably the de facto standard in doing any kind of design work on Mac
 
-#### 32. [Pixelmator](http://www.pixelmator.com/mac/) 
+#### 33. [Pixelmator](http://www.pixelmator.com/mac/) 
 - probably the best image editor out there on Mac, is packed with very powerful features and is very simple in its UI
 
-
-#### 33. [Flux](https://justgetflux.com) 
+#### 34. [Flux](https://justgetflux.com) 
 - a simple utility that makes the screen have nice and warm non blue light emitting colour in the evening
-
-#### 34. [Unclutter](http://unclutterapp.com/) 
-- a dropdown menu where I can quickly write some text that I need or open any file that I keep in the buffer there, previously used my Desktop for this sort of thing but I really like to keep my desktop clean of things so this greatly helps me with it
 
 #### 35. [Dropzone](https://aptonic.com) 
 - a quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a [preset number of folders](http://i.imgur.com/3nWK4b5.png) that I made quickly as well as going to them in an instant) (a great little utility)
+
 #### 36. [Popclip](https://pilotmoon.com/popclip/) 
-- another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching Google, Youtube, Wiki, Reddit, Images or translate text selected, copy it or say it aloud, here is how [it looks](http://i.imgur.com/IZwIYlB.png) for me
+- another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on DuckDuckGo, Youtube, Dictionary, Reddit, Images or it can translate text selected, copy it or say it aloud, here is how [it looks](http://i.imgur.com/6YNy4Uw.png) for me
+
+#### 37. [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) 
+- a great menu bar tool that shows me how much time is left until the next event in my calendar
+- it has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts
+
+
+#### 38. [Marked](http://marked2app.com) 
+- if I ever need to preview a readme or any other markdown file that I wrote or just want to read, this app is the best application for that I found 
+	- it also features live updating and quite a lot of very powerful customisation features
+
+#### 39. [Xcello](http://lingsdesigns.com/xccello/) 
+
+- big fan of [Trello](https://trello.com) as a tool for managing tasks within a team, this app is essentially a web wrapper over online Trello boards
 
 #### 40. [DaisyDisk](https://daisydiskapp.com) 
 - a great tool to quickly get a visual glance over what is taking up your disk space and where)
@@ -169,68 +185,63 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 41. [Gemini](http://macpaw.com/gemini) 
 - a great little utility to find duplicate files in the system, didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk
 
-#### 43. [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) 
-- a great menu bar tool that shows me how much time is left until the next event in my calendar
-- it has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts
-
-#### 44. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) 
+#### 42. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) 
 - a really great [visual representation of my month](http://i.imgur.com/O1UD90S.png) in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week
 
-#### 44. [iStat Menus](https://bjango.com/mac/istatmenus/) 
+#### 43. [iStat Menus](https://bjango.com/mac/istatmenus/) 
 - great system monitoring tools of which I use CPU and storage tracking, I find it very valuable to know if my CPU is being abused by some application and if so by which
 
-#### 46. [Spotifree](http://spotifree.gordinskiy.com) 
-- dislike ads and Spotify doesn't give any discount to students from Netherlands for some reason so I just use this to get around that
+#### 44. [Spotifree](http://spotifree.gordinskiy.com) 
+- dislike ads and Spotify Membership although very useful does not give me a reason to switch from free version
 
-#### 47. [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) 
+#### 45. [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) 
 - best annotation tool I found to exist. After you make a screenshot, it allows for quick edits (arrows, adding some text, blurring parts of the image) as well as ability to quickly save it or drag it to upload to Imgur to share quickly and send the link to anyone I want
 
-#### 48. [BeardedSpice](https://github.com/beardedspice/beardedspice) 
+#### 46. [BeardedSpice](https://github.com/beardedspice/beardedspice) 
 - enhance play/pause as well as previous/next playback keys to not only work in iTunes and Spotify but work for [Soundcloud](https://soundcloud.com/stream), [Youtube](https://www.youtube.com) and many other services
 
-#### 50. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) 
+#### 47. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) 
 - an amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing
 - takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that
 - this is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data
 
-#### 51. [Texpad](https://www.texpadapp.com/osx) 
+#### 48. [Texpad](https://www.texpadapp.com/osx) 
 - had to write some LaTeX files for some of my university assignments and in search of a great editor for writing LaTeX I found this and have really enjoyed using it for that task
 - has phenomenal suggestions, a great UI interface and live previewing the LaTeX code that you write.)
 
-#### 52. [Slack](https://slack.com) 
+#### 49. [Slack](https://slack.com) 
 - find it to be quite a slow application, given the fact that it is essentially a chrome web application wrapped up with [electron](http://electron.atom.io), it is not much surprise but still it does have some really great features for working and communicating within a team
 
-#### 53. [Telegram](https://desktop.telegram.org/) 
+#### 50. [Telegram](https://desktop.telegram.org/) 
 - really dislike [whatsapp](https://www.whatsapp.com) and I quite like Telegram
 - it has a very clean interface, a native client for macOS and stickers, privacy is questionable as data is still being sent through Telegram servers but it is still a great chat application)
 
-#### 54. [Anki](http://ankisrs.net) 
+#### 51. [Anki](http://ankisrs.net) 
 - still not fully utilising the full power of [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) but it was one of my goals this year to really start to use this to my advantage. Essentially all this software does is provide you the means to write your own digital flashcards that you can then test yourself on. It also has a lot of [amazing addons](https://ankiweb.net/shared/addons/) that you can get to add more functionality to the app.
 
-#### 56. [ImageOptim](https://imageoptim.com/mac) 
+#### 52. [ImageOptim](https://imageoptim.com/mac) 
 - quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog
 
-#### 57. [Dragand](http://dragand.watch) 
+#### 53. [Dragand](http://dragand.watch) 
 - quickly get subtitles that I want by dragging the file with the movie/series I want to watch to the app
 
-#### 58. [GIF Brewery](http://gifbrewery.com) 
+#### 54. [GIF Brewery](http://gifbrewery.com) 
 - allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be
 
-#### 59. [Noizio](http://noiz.io/) 
+#### 55. [Noizio](http://noiz.io/) 
 - rain, whale noises, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus
 
-#### 60. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
+#### 56. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
 - a really great colour picker that is quite often getting updated
 
-#### 61. [Paw](https://paw.cloud) 
+#### 57. [Paw](https://paw.cloud) 
 - a really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great
 
-
-#### 62. [Hammerspoon](http://www.hammerspoon.org) 
+#### 58. [Hammerspoon](http://www.hammerspoon.org) 
 - really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
 - right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment) (can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
 
-#### 63. [Hazel](https://www.noodlesoft.com) 
+#### 59. [Hazel](https://www.noodlesoft.com) 
 - use it to fully automate my filing process 
 - I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
