@@ -26,11 +26,12 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 2. [MindNode](https://mindnode.com)
 
 - an application which allowed me to create all of the mind maps from [Learn Anything](https://learn-anything.xyz/)
-- it is an incredible joy to really make mind maps in this app and I use it to viusalise everything : 
+- it is an incredible joy to make mind maps in this app and I use it to viusalise everything : 
 	- [my notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
 	
 #### 3. [Karabiner](https://pqrs.org/osx/karabiner/) 
 - one of the applications I cannot live without, allows me to bind any key that I want. You can take a look at the config files I use for it [here](https://github.com/nikitavoloboev/dotfiles) alongside more information of how I use it in the description
+- Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need
 
 #### 4. [2Do](http://www.2doapp.com/mac)
 - I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise [my tasks](http://i.imgur.com/ZR47YoR.png) and things I want to do and achieve
@@ -38,6 +39,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 5. [iTerm](https://www.iterm2.com/) 
 - recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
 - [here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use 
+	- I also really love using [this workflow](https://github.com/madvas/alfred-iterm-sessions) to quickly [switch between iTerm tabs](http://i.imgur.com/RNLb5wj.png)
 
 #### 6. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in
@@ -237,20 +239,24 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 57. [Paw](https://paw.cloud) 
 - a really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great
 
-#### 58. [Hammerspoon](http://www.hammerspoon.org) 
+#### 59. [IINA](https://github.com/lhc70000/iina)
+- open source alternative to VLC built specifically for macOS
+- is based on [mpv](https://github.com/mpv-player/mpv) and has a more modern and native look than VLC
+
+#### 60. [Hammerspoon](http://www.hammerspoon.org) 
 - really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
 - right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment
 	- can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
 
-#### 59. [Kap](https://github.com/wulkano/kap)
+#### 61. [Kap](https://github.com/wulkano/kap)
 
 - an open source screen recorder I use to record GIFs 
 - has keyboard support so I can quickly start and end recording of the GIF in one hotkey
 
-#### 60. [PodcastMenu](https://github.com/insidegui/PodcastMenu)
+#### 62. [PodcastMenu](https://github.com/insidegui/PodcastMenu)
 - allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar
 
-#### 61. [Hazel](https://www.noodlesoft.com) 
+#### 63. [Hazel](https://www.noodlesoft.com) 
 - use it to fully automate my filing process 
 - I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
