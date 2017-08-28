@@ -73,7 +73,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - probably the best application there exists for storing and organising all of your photographic media content
 
 #### 13. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
-- a staggeringly powerful mac automation tool that I am only beggining to scratch the surface of
+- a staggeringly powerful mac automation tool that I am only beginning to scratch the surface of
 - has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
 - I go over all my favourite macros I use and how I use them in [this GitHub repo](https://github.com/nikitavoloboev/km-macros)
 
