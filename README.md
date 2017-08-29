@@ -138,7 +138,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app
 
 #### 28. [YNAB](https://www.youneedabudget.com/) 
-- use it to track and overview all of my finances, the most important part of this app is the [ideology](http://classic.youneedabudget.com/method) behind it. The whole app is built around this methodology and I really reccomend you take a look at it even if you are not planning to use the app, I find it really freeing and powerful
+- use it to track and overview all of my finances, the most important part of this app is the [ideology](http://classic.youneedabudget.com/method) behind it. The whole app is built around this methodology and I really recommend you take a look at it even if you are not planning to use the app, I find it really freeing and powerful
 
 #### 29. [Reeder](http://reederapp.com/mac/)
 - wasn't a big user of RSS but with me finding a lot of great blogs out there, I needed a place to keep myself updated on the great content that they will be posting. 
