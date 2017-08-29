@@ -299,6 +299,7 @@ And here are some more command line tools I use and love :
 - [create-react-app](https://github.com/facebookincubator/create-react-app) : create React apps with no build configuration
 - [now](https://github.com/zeit/now-cli) : realtime global deployments served over HTTP/2
 - [yarn](https://github.com/yarnpkg/yarn) : fast, reliable, and secure dependency management
+- [iStats](https://github.com/Chris911/iStats) : system stats from the command-line
 
 
 <h1 align="center"><a href="https://github.com/learn-anything/alfred-workflows"> Alfred Workflows 🎩</a></h1>
