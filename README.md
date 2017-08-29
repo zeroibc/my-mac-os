@@ -185,7 +185,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - a great tool to quickly get a visual glance over what is taking up your disk space and where)
 
 #### 41. [Gemini](http://macpaw.com/gemini) 
-- a great little utility to find duplicate files in the system, didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk
+- a great little utility to find duplicate files in the system. Didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk
 
 #### 42. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) 
 - a really great [visual representation of my month](http://i.imgur.com/O1UD90S.png) in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week
