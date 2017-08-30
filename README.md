@@ -314,9 +314,9 @@ And here are some more command line tools I use and love :
 
 
 <h1 align="center"><a href="https://github.com/learn-anything/alfred-workflows"> Alfred Workflows 🎩</a></h1>
-
+    
 <a align="center" href="https://github.com/learn-anything/alfred-workflows">
-    <img width="600" src="http://i.imgur.com/r3dFm0W.png"></a>
+    <img width="900" heigth="900" src="http://i.imgur.com/r3dFm0W.png"></a>
 
 
 I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. 
