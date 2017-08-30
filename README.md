@@ -256,11 +256,19 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 62. [PodcastMenu](https://github.com/insidegui/PodcastMenu)
 - allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar
 
-#### 63. [Hazel](https://www.noodlesoft.com) 
+#### 63. [TotalSpaces2](https://totalspaces.binaryage.com/)
+- allows me to completely remove the animation of switching between spaces/full screen apps
+- now I [run most applications as full screen](http://i.imgur.com/I8JkIi3.png) and switch between them with [Karabiner](https://github.com/tekezo/Karabiner-Elements)
+
+#### 64. [Default Folder X](http://stclairsoft.com/DefaultFolderX/)
+- neat little utility I mostly use to [quickly go to various folders](http://i.imgur.com/UOrHiRq.png) from file save windows
+
+#### 65. [Hazel](https://www.noodlesoft.com) 
 - use it to fully automate my filing process 
 - I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
-	- [here](http://i.imgur.com/7oiSYV3.png) is one example of such rule) (I also recursively lowercase files and hide extensions for all files on my system
+	- [here](http://i.imgur.com/7oiSYV3.png) is one example of such rule 
+		- I also recursively lowercase files and hide extensions for all files on my system
 
 <h1 align="center">Browser 🌐</h1>
 
