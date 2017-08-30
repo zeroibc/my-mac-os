@@ -308,6 +308,9 @@ And here are some more command line tools I use and love :
 - [now](https://github.com/zeit/now-cli) : realtime global deployments served over HTTP/2
 - [yarn](https://github.com/yarnpkg/yarn) : fast, reliable, and secure dependency management
 - [iStats](https://github.com/Chris911/iStats) : system stats from the command-line
+- [alfred](https://github.com/jason0x43/go-alfred#installation) : symlinks your go project to alfred directory and builds your workflow
+- [fzf](https://github.com/junegunn/fzf) : command-line fuzzy finder
+- [exa](https://github.com/ogham/exa) : replacement for ls written in rust
 
 
 <h1 align="center"><a href="https://github.com/learn-anything/alfred-workflows"> Alfred Workflows 🎩</a></h1>
