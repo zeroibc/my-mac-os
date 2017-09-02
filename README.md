@@ -161,6 +161,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 34. [Flux](https://justgetflux.com) 
 - a simple utility that makes the screen have nice and warm non blue light emitting colour in the evening
+	- as of macOS Sierra, a similar feature was added by Apple so you can instead use the [built-in feature](https://support.apple.com/en-us/HT207513) instead
 
 #### 35. [Dropzone](https://aptonic.com) 
 - a quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a [preset number of folders](http://i.imgur.com/3nWK4b5.png) that I made quickly as well as going to them in an instant) (a great little utility)
