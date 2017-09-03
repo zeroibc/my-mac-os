@@ -194,77 +194,74 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 43. [iStat Menus](https://bjango.com/mac/istatmenus/) 
 - great system monitoring tools of which I use CPU and storage tracking, I find it very valuable to know if my CPU is being abused by some application and if so by which
 
-#### 44. [Spotifree](http://spotifree.gordinskiy.com) 
-- dislike ads and Spotify Membership although very useful does not give me a reason to switch from free version
-
-#### 45. [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) 
+#### 44. [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) 
 - best annotation tool I found to exist. After you make a screenshot, it allows for quick edits (arrows, adding some text, blurring parts of the image) as well as ability to quickly save it or drag it to upload to Imgur to share quickly and send the link to anyone I want
 
-#### 46. [BeardedSpice](https://github.com/beardedspice/beardedspice) 
+#### 45. [BeardedSpice](https://github.com/beardedspice/beardedspice) 
 - enhance play/pause as well as previous/next playback keys to not only work in iTunes and Spotify but work for [Soundcloud](https://soundcloud.com/stream), [Youtube](https://www.youtube.com) and many other services
 
-#### 47. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) 
+#### 46. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) 
 - an amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing
 - takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that
 - this is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data
 
-#### 48. [Texpad](https://www.texpadapp.com/osx) 
+#### 47. [Texpad](https://www.texpadapp.com/osx) 
 - had to write some LaTeX files for some of my university assignments and in search of a great editor for writing LaTeX I found this and have really enjoyed using it for that task
 - has phenomenal suggestions, a great UI interface and live previewing the LaTeX code that you write.)
 
-#### 49. [Slack](https://slack.com) 
+#### 48. [Slack](https://slack.com) 
 - find it to be quite a slow application, given the fact that it is essentially a chrome web application wrapped up with [electron](http://electron.atom.io), it is not much surprise but still it does have some really great features for working and communicating within a team
 
-#### 50. [Telegram](https://desktop.telegram.org/) 
+#### 49. [Telegram](https://desktop.telegram.org/) 
 - really dislike [whatsapp](https://www.whatsapp.com) and I quite like Telegram
 - it has a very clean interface, a native client for macOS and stickers, privacy is questionable as data is still being sent through Telegram servers but it is still a great chat application)
 
-#### 51. [Anki](http://ankisrs.net) 
+#### 50. [Anki](http://ankisrs.net) 
 - still not fully utilising the full power of [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) but it was one of my goals this year to really start to use this to my advantage. Essentially all this software does is provide you the means to write your own digital flashcards that you can then test yourself on. It also has a lot of [amazing addons](https://ankiweb.net/shared/addons/) that you can get to add more functionality to the app.
 
-#### 52. [ImageOptim](https://imageoptim.com/mac) 
+#### 51. [ImageOptim](https://imageoptim.com/mac) 
 - quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog
 
-#### 53. [Dragand](http://dragand.watch) 
+#### 52. [Dragand](http://dragand.watch) 
 - quickly get subtitles that I want by dragging the file with the movie/series I want to watch to the app
 
-#### 54. [GIF Brewery](http://gifbrewery.com) 
+#### 53. [GIF Brewery](http://gifbrewery.com) 
 - allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be
 
-#### 55. [Noizio](http://noiz.io/) 
+#### 54. [Noizio](http://noiz.io/) 
 - rain, whale noises, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus
 
-#### 56. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
+#### 55. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
 - a really great colour picker that is quite often getting updated
 
-#### 57. [Paw](https://paw.cloud) 
+#### 56. [Paw](https://paw.cloud) 
 - a really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great
 
-#### 59. [IINA](https://github.com/lhc70000/iina)
+#### 58. [IINA](https://github.com/lhc70000/iina)
 - open source alternative to VLC built specifically for macOS
 - is based on [mpv](https://github.com/mpv-player/mpv) and has a more modern and native look than VLC
 
-#### 60. [Hammerspoon](http://www.hammerspoon.org) 
+#### 59. [Hammerspoon](http://www.hammerspoon.org) 
 - really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
 - right now I use it show the task I am currenly working on in a little window in the [middle of the screen](http://i.imgur.com/VDjws87.png) for a brief moment
 	- can see my config for it [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
 
-#### 61. [Kap](https://github.com/wulkano/kap)
+#### 60. [Kap](https://github.com/wulkano/kap)
 
 - an open source screen recorder I use to record GIFs 
 - has keyboard support so I can quickly start and end recording of the GIF in one hotkey
 
-#### 62. [PodcastMenu](https://github.com/insidegui/PodcastMenu)
+#### 61. [PodcastMenu](https://github.com/insidegui/PodcastMenu)
 - allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar
 
-#### 63. [TotalSpaces2](https://totalspaces.binaryage.com/)
+#### 62. [TotalSpaces2](https://totalspaces.binaryage.com/)
 - allows me to completely remove the animation of switching between spaces/full screen apps
 - now I [run most applications as full screen](http://i.imgur.com/I8JkIi3.png) and switch between them with [Karabiner](https://github.com/tekezo/Karabiner-Elements)
 
-#### 64. [Default Folder X](http://stclairsoft.com/DefaultFolderX/)
+#### 63. [Default Folder X](http://stclairsoft.com/DefaultFolderX/)
 - neat little utility I mostly use to [quickly go to various folders](http://i.imgur.com/UOrHiRq.png) from file save windows
 
-#### 65. [Hazel](https://www.noodlesoft.com) 
+#### 64. [Hazel](https://www.noodlesoft.com) 
 - use it to fully automate my filing process 
 - I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
