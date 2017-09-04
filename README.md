@@ -132,7 +132,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - it also has an awesome [channel search](http://i.imgur.com/jwVCcMb.png) feature that I use a lot
 
 #### 26. [Focus](https://heyfocus.com)
-- I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](http://lifehacker.com/5872436/how-to-start-your-information-diet). Really does make a difference and [helps me focus](http://i.imgur.com/cnVvp3m.png) on what I need to be working on.
+- I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121). Really does make a difference and [helps me focus](http://i.imgur.com/cnVvp3m.png) on what I need to be working on.
 
 #### 27. [Tweetbot](http://tapbots.com/tweetbot/mac/)
 - twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app
