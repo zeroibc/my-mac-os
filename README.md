@@ -82,6 +82,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/PrDPLki.png) and [app specific](http://i.imgur.com/zyhAaSS.png)
 - what more it allows me to also customise [my trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to do any actions that I want, this is very powerful
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
+	- [here](https://github.com/nikitavoloboev/my-btt) are all the different gestures I have setup to use with the app
 
 #### 15. [PDF Expert](https://pdfexpert.com/) 
 - I read a lot of PDFs like books, uni assignments and the like
