@@ -58,7 +58,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 9. [Typinator](http://www.ergonis.com/products/typinator/) 
 - moved to it from [Textexpander](https://smilesoftware.com/textexpander) as I am not fond of subscription models for software but also because typinator is really just better
-- it expands text and moves the pointer caret faster and has a really powerful [quick search](http://i.imgur.com/A6kzKRE.png) available globally right at my fingertips
+- I wrote about how I use it [here](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8)
 
 #### 10. [1Password](https://1password.com) 
 - my password manager of choice, recently started to generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password
