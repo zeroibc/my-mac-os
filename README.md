@@ -41,7 +41,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 5. [iTerm](https://www.iterm2.com/) 
 - recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh) and can open it on demand at any time that I want
 - [here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use 
-	- I also really love using [this workflow](https://github.com/madvas/alfred-iterm-sessions) to quickly [switch between iTerm tabs](http://i.imgur.com/RNLb5wj.png)
+	- I also really love using [this workflow](https://github.com/isometry/alfred-tty) to quickly [switch between iTerm tabs](http://i.imgur.com/RNLb5wj.png)
 
 #### 6. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in
