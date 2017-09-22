@@ -67,8 +67,9 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 11. [Ulysses](http://www.ulyssesapp.com/) 
 - all your writing in one place is the motto and the underlying design of the app. 
 - very [powerful search](http://i.imgur.com/Aa17RCQ.png), freedom of structure, great themes and export to markdown / PDF
-- really promotes you to write with its great design and features
-- moved to it from [Byword](https://bywordapp.com/) and [iaWriter](https://ia.net/writer) that I used before, having a one place database for all my writing for me was the selling point of the app)
+- I use it to manage all the editing in my [Knowledge repo](https://github.com/nikitavoloboev/my-knowledge)
+	- and write articles that I can then publish to Medium in one click
+
 
 #### 12. [Pixave](http://www.littlehj.com/) 
 - always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png), gifs that I have saved over the years to one place that is easiliy searchabe and is again just a joy to use was very valuable for me
@@ -353,6 +354,6 @@ If you found this interesting, I also have [similar repository](https://github.c
 
 <h1 align="center"> Thanks 🍀</h1>
 
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-191.2,-905.2,2) I shared. Thank you. 💛 
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💛 
 
 
