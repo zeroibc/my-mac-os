@@ -271,6 +271,12 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
 	- [here](http://i.imgur.com/7oiSYV3.png) is one example of such rule 
 		- I also recursively lowercase files and hide extensions for all files on my system
+		
+#### 65. [BitBar](https://github.com/matryer/bitbar)
+- can display various things in your menu bar
+- I use it to show my current task I am working on with a [simple bitbar plugin](https://i.imgur.com/zh1ZnD3.png) that echoes what I put there
+	- I then can [display it with HammerSpoon](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua#L57) briefly on my screen to remind myself of what I need to be doing
+- I also use it to show a [list of brew services](https://getbitbar.com/plugins/Dev/Homebrew/brew-services.10m.rb) running on my system
 
 <h1 align="center">Browser 🌐</h1>
 
