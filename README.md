@@ -360,6 +360,13 @@ If you found this interesting, I also have [similar repository](https://github.c
     <img width="200" heigth="400" src="https://raw.githubusercontent.com/nikitavoloboev/my-ios/master/media/screen2.png"></a>
 
 
+<h1 align="center"> Similar Setups 💻</h1>
+
+Here you can find more setups by other people that you can take ideas and inspiration from. Feel free to add to contribute to this list and add your own.
+
+- [works for me](https://works-for-me.github.io/) : collection of developer toolkits 
+- [Use This Interviews](https://usesthis.com) : what do people use to get stuff done?
+
 
 <h1 align="center"> Thanks 🍀</h1>
 
