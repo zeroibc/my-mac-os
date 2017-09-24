@@ -284,6 +284,8 @@ My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kill
 
 I keep a list of my favourite Safari extensions and why I love them in a GitHub repository [here](https://github.com/learn-anything/safari-extensions). Feel free to contribute to it if you wish.
 
+I do however use Chrome for web devolopment due to its superior Chrome Dev tools. [Here](https://github.com/learn-anything/chrome-extensions) you can find the chrome extensions I like and use for that.
+
 <h1 align="center">Command Line Apps 🐚</h1>
 
 [Homebrew](https://brew.sh) is a really wonderful and user friendly package manager for macOS. 
@@ -331,6 +333,7 @@ And here are some more command line tools I use and love :
 I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. 
 
 I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows). Feel free to contribute to it if you wish.
+
 
 <h1 align="center"> Desktop Screenshot 🍎</h1>
 
