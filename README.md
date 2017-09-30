@@ -67,7 +67,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 11. [Ulysses](http://www.ulyssesapp.com/) 
 - all your writing in one place is the motto and the underlying design of the app. 
 - very [powerful search](http://i.imgur.com/Aa17RCQ.png), freedom of structure, great themes and export to markdown / PDF
-- I use it to manage all the editing in my [Knowledge repo](https://github.com/nikitavoloboev/my-knowledge)
+- I use it to manage all the editing in my [Knowledge repo](https://nikitavoloboev.gitbooks.io/knowledge/content/)
 	- and write articles that I can then publish to Medium in one click
 
 
