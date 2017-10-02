@@ -11,9 +11,6 @@
 
 <h1 align="center">Applications</h1>
 
-<a align="center" href="https://github.com/learn-anything/macos-apps">
-    <img width="900" heigth="900" src="http://i.imgur.com/uvvgCYy.png"></a>
-
 
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
@@ -325,9 +322,6 @@ And here are some more command line tools I use and love :
 
 
 <h1 align="center"><a href="https://github.com/learn-anything/alfred-workflows"> Alfred Workflows 🎩</a></h1>
-    
-<a align="center" href="https://github.com/learn-anything/alfred-workflows">
-    <img width="900" heigth="900" src="http://i.imgur.com/r3dFm0W.png"></a>
 
 
 I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. 
