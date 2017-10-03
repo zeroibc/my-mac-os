@@ -29,7 +29,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I also try to completely bridge the gap between my mind maps and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind)
 	
 #### 3. [Karabiner](https://pqrs.org/osx/karabiner/) 
-- one of the applications I cannot live without, allows me to bind any key that I want. You can take a look at the config files I use for it [here](https://github.com/nikitavoloboev/dotfiles) alongside more information of how I use it in the description
+- one of the applications I cannot live without, allows me to bind any key that I want. You can take a look at the config files I use for it [here](https://github.com/nikitavoloboev/dotfiles) 
+- I go over how I use the app in detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/Karabiner.html) 
 - Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need
 
 #### 4. [2Do](http://www.2doapp.com/mac)
