@@ -70,7 +70,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 
 #### 12. [Pixave](http://www.littlehj.com/) 
-- always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png), gifs that I have saved over the years to one place that is easiliy searchabe and is again just a joy to use was very valuable for me
+- always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png), gifs that I have saved over the years to one place that is easily searchable and is again just a joy to use was very valuable for me
 - probably the best application there exists for storing and organising all of your photographic media content
 
 #### 13. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
