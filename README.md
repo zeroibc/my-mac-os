@@ -27,7 +27,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - it is an incredible joy to make mind maps in this app and I use it to visualize everything : 
 	- [my notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
 - I also try to completely bridge the gap between my mind maps and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind)
-- and I wrote a bit more about how I use this app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Mindnode.html)
+- I wrote a bit more about how I use this app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Mindnode.html)
 	
 #### 3. [Karabiner](https://pqrs.org/osx/karabiner/) 
 - one of the applications I cannot live without, allows me to bind any key that I want. You can take a look at the config files I use for it [here](https://github.com/nikitavoloboev/dotfiles) 
