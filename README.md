@@ -316,15 +316,15 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 ## Desktop Screenshot 🍎
 
-<img src="http://i.imgur.com/JV3NdUz.jpg" width="500" alt="img">
+![](http://i.imgur.com/JV3NdUz.jpg)
 
 ## Launchpad
 
-<img src="media/launchpad.png" width="500" alt="img">
+![](media/launchpad.png)
 
 ## Timing Screenshot 🕞
 
-<img src="media/timing.png" width="500" alt="img">
+<img src="media/timing.png" width="600" alt="img">
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
