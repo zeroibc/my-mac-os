@@ -264,14 +264,14 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 	- I then can [display it with HammerSpoon](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua#L57) briefly on my screen to remind myself of what I need to be doing
 - I also use it to show a [list of brew services](https://getbitbar.com/plugins/Dev/Homebrew/brew-services.10m.rb) running on my system
 
-## Browser 🌐
+## Browser 
 My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari. 
 
 I keep a list of my favourite Safari extensions and why I love them in a GitHub repository [here](https://github.com/learn-anything/safari-extensions). Feel free to contribute to it if you wish.
 
 I do however use Chrome for web devolopment due to its superior Chrome Dev tools. [Here](https://github.com/learn-anything/chrome-extensions) you can find the chrome extensions I like and use for that.
 
-## Command Line Apps 🐚
+## Command Line Apps 
 [Homebrew](https://brew.sh) is a really wonderful and user friendly package manager for macOS. 
 
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I use from it. 
@@ -307,12 +307,12 @@ And here are some more command line tools I use and love :
 - [fzf](https://github.com/junegunn/fzf) : command-line fuzzy finder
 - [exa](https://github.com/ogham/exa) : replacement for ls written in rust
 
-## [Alfred Workflows 🎩](https://github.com/learn-anything/alfred-workflows)
+## [Alfred Workflows](https://github.com/learn-anything/alfred-workflows)
 I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. 
 
 I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows). Feel free to contribute to it if you wish.
 
-## Desktop Screenshot 🍎
+## Desktop Screenshot 
 > sf is alias for [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ![](media/screenfetch.png)
@@ -321,7 +321,7 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 ![](media/launchpad.png)
 
-## Timing Screenshot 🕞
+## Timing Screenshot 
 
 <img src="media/timing.png" width="600" alt="img">
 
@@ -334,11 +334,11 @@ If you found this interesting, I also have [similar repository](https://github.c
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
     <img width="200" heigth="400" src="https://i.imgur.com/b49Evpe.jpg"></a>
 
-## Similar Setups 💻
+## Similar Setups 
 Here you can find more setups by other people that you can take ideas and inspiration from. Feel free to add to contribute to this list and add your own.
 
 - [works for me](https://works-for-me.github.io/) : collection of developer toolkits 
 - [Use This Interviews](https://usesthis.com) : what do people use to get stuff done?
 
-## Thanks 🍀
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💚
+## Thank you 💜
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
