@@ -312,7 +312,7 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 ## Desktop Screenshot 🍎
 
-![](http://i.imgur.com/JV3NdUz.jpg)
+![](media/screenfetch.png)
 
 ## Launchpad
 
