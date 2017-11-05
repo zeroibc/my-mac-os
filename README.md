@@ -1,6 +1,8 @@
 # My wonderful world of macOS 💻 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 <img src="media/mac.png" width="600" alt="img">
 
+> [wallpaper link](https://fotoz.com/wp-content/uploads/2016/10/photo-1414073246499-c5edeb261baa.jpeg)
+
 ## Applications
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
