@@ -31,7 +31,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 4. [2Do](http://www.2doapp.com/mac)
 - I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me [organise my tasks](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/2Do.html) and things I want to do and achieve
-<img src="https://i.imgur.com/rsVWNyR.png" width="400" height="400" alt="img">
+<img src="https://i.imgur.com/rsVWNyR.png" width="500" height="400" alt="img">
 
 - It has global quick add with a hotkey :
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
