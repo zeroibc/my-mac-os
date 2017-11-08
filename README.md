@@ -143,7 +143,6 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="http://i.imgur.com/2SEANOJ.png" width="500" alt="img">
 
 - I can then activate Bartender and start searching for the menu bar item I need all from the keyboard
-<img src="http://i.imgur.com/K2LbGQv.png" width="500" alt="img">
 
 ### 23. [Ship](https://www.realartists.com/index.html)
 - A really awesome native app that lets me manage my GitHub issues
