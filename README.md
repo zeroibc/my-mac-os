@@ -10,7 +10,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 1. [Alfred](https://www.alfredapp.com/) 
 - This is by far my favourite application that I have. It saved me a lot of time in my life : 
-<img src="https://i.imgur.com/L2Y0o44.png" width="400" alt="img">
+<img src="https://i.imgur.com/L2Y0o44.png" width="500" alt="img">
 
 - And it has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
 - I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows) 
