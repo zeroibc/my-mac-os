@@ -141,6 +141,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 22. [Bartender](https://www.macbartender.com/) 
 - A great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the most important information that I need to show in it
 <img src="http://i.imgur.com/2SEANOJ.png" width="500" alt="img">
+
 - I can then activate Bartender and start searching for the menu bar item I need all from the keyboard
 <img src="http://i.imgur.com/K2LbGQv.png" width="500" alt="img">
 
