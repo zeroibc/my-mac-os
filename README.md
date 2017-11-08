@@ -8,13 +8,16 @@
 ## Applications
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
-#### 1. [Alfred](https://www.alfredapp.com/) 
-- this is by far my favourite application that I have. It saved me [a lot of time](https://i.imgur.com/L2Y0o44.png) in my life and has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
+### 1. [Alfred](https://www.alfredapp.com/) 
+- this is by far my favourite application that I have. It saved me a lot of time in my life : 
+<img src="https://i.imgur.com/L2Y0o44.png" width="400" alt="img">
+
+- And it has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
 - I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows) 
 	- feel free to use any that you like
 - I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language
 
-#### 2. [MindNode](https://mindnode.com)
+### 2. [MindNode](https://mindnode.com)
 - an application which allowed me to create all of the mind maps for [Learn Anything](https://learn-anything.xyz/)
 - it is an incredible joy to make mind maps in this app and I use it to visualize everything : 
 	- [my notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
