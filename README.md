@@ -12,14 +12,16 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - This is by far my favourite application that I have. It saved me a lot of time in my life : 
 <img src="https://i.imgur.com/L2Y0o44.png" width="500" alt="img">
 
-- And it has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
+- It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
 - I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows) 
 	- feel free to use any that you like
 - I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language
 
 ### 2. [MindNode](https://mindnode.com)
 - An application which allowed me to create all of the mind maps for [Learn Anything](https://learn-anything.xyz/)
-- Tt is an incredible joy to make mind maps in this app and I use it to visualize everything : 
+<img src="https://i.imgur.com/oBCoCq3.png" width="500" alt="img">
+
+- It is an incredible joy to make mind maps in this app and I use it to visualize everything : 
 	- [my notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
 - I also try to completely bridge the gap between my mind maps and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind)
 - I wrote more about how I use this app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Mindnode.html)
@@ -34,7 +36,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 <!--- ![](https://i.imgur.com/rsVWNyR.png) TODO: make it appear nicely on the side --> 
 
-- It has global quick add with a hotkey :
+- And it has global quick add with a hotkey :
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
 - Together with lists, priorities, powerful search and a lot more	
@@ -42,9 +44,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 5. [iTerm](https://www.iterm2.com/) 
 - Recently moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use 
-	- I also really love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs
+- I also really love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
-
 
 ### 6. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in
@@ -59,86 +60,98 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="https://i.imgur.com/hK25SX1.png" width="500" alt="img">
 
 ### 8. [Day One](http://dayoneapp.com/) 
-- Probably the best journal writing application there is, use it [every day](http://i.imgur.com/V82Em5D.png) to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l)
+- Probably the best journal writing application there is, use it every day to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l) :
 <img src="http://i.imgur.com/V82Em5D.png" width="500" alt="img">
 
-- And [many other small little tidbits of text](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/day-one.html) with thoughts, plans and experiences that I have had
+- As well as [many other small little tidbits of text](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/day-one.html) with thoughts, plans and experiences that I have had
 - If you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life
 
 ### 9. [Typinator](http://www.ergonis.com/products/typinator/) 
 - I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8)
-- I share the Typinator sets I made with the app [here](https://github.com/nikitavoloboev/typinator-sets) and describe the app in more detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Typinator.html)
+- I share the Typinator sets I made with the app [here](./typinator) and describe the app in more detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Typinator.html)
 
-#### 10. [1Password](https://1password.com) 
-- my password manager of choice, recently started to generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password
-- no longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible
+### 10. [1Password](https://1password.com) 
+- My password manager of choice, recently started to generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password
+- No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible
 
-#### 11. [Ulysses](http://www.ulyssesapp.com/) 
-- all your writing in one place is the motto and the underlying design of the app
-- very [powerful search](http://i.imgur.com/Aa17RCQ.png), freedom of structure, great themes and export to markdown / PDF
+### 11. [Ulysses](http://www.ulyssesapp.com/) 
+- All your writing in one place is the motto and the underlying design of the app
+- It has very powerful search :
+<img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
+
+- Freedom of structure, great themes and export to markdown / PDF
 - I use it to manage writing and managing my [personal wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/) as well as writing [my Medium artciles](https://medium.com/@NikitaVoloboev) that I can then publish in one click from Ulysses
 - I write a bit more about how I use the app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Ulysses.html)
 
-#### 12. [Pixave](http://www.littlehj.com/) 
-- always wanted to organise the mess that my media files were, moving [all of my photographs](http://i.imgur.com/dOZF1gs.png), gifs that I have saved over the years to one place that is easily searchable and is again just a joy to use was very valuable for me
-- probably the best application there exists for storing and organising all of your photographic media content
-- I write about the app in more detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Pixave.html)
+### 12. [Pixave](http://www.littlehj.com/) 
+- I always wanted to organise the mess that my media files were, moving all of my photographs, gifs that I have saved over the years to one place that is easily searchable and is again just a joy to use was very valuable for me
+- Probably the best application there exists for storing and organising all of your photographic media content
+- I write about the app in more detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Pixave.html) and here is how my library looks like 
+<img src="https://i.imgur.com/PHNdc3s.jpg" width="500" alt="img">
 
-#### 13. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
-- a staggeringly powerful mac automation tool that I am only beginning to scratch the surface of
-- has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
-- I go over all my favourite macros I use and how I use them in [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/km/km.html) and I share all the macros I use with the app in a [GitHub repo](https://github.com/nikitavoloboev/km-macros)
+### 13. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
+- A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of
+- Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
+- I go over all my favourite macros I use and how I use them in [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/km/km.html) and I share all the macros I use with the app [here](./km)
 
-#### 14. [BetterTouchTool](https://www.boastr.net/) 
-- another amazing application that allows me to quickly map and remap any hotkeys that I use both [globally](http://i.imgur.com/PrDPLki.png) and [app specific](http://i.imgur.com/zyhAaSS.png)
-- what more it allows me to also customise [my trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to do any actions that I want, this is very powerful
+### 14. [BetterTouchTool](https://www.boastr.net/) 
+- Another amazing application that allows me to quickly map and remap any hotkeys that I use both globally and app specific
+- What more it allows me to also customise [my trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to do any actions that I want, this is very powerful
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
-	- [here](https://github.com/nikitavoloboev/my-btt) are all the different gestures I have setup to use with the app
+- [Here](./btt) are all the different gestures I have setup to use with the app
 
-#### 15. [PDF Expert](https://pdfexpert.com/) 
+### 15. [PDF Expert](https://pdfexpert.com/) 
 - I read a lot of PDFs like books, uni assignments and the like
-- this app is a huge upgrade over [Preview](http://www.wikiwand.com/en/Preview_(Mac_OS)) app that I used before
-- multiple tabs, sepia mode, very nice annotation tools, great search, performance
+- This app is a huge upgrade over [Preview](http://www.wikiwand.com/en/Preview_(Mac_OS)) app that I used before
+- Multiple tabs, sepia mode, very nice annotation tools, great search, performance
 
-#### 16. [Dash](https://kapeli.com/dash) 
-- very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of [searching for the right things](http://i.imgur.com/tBEkKtL.png)
+### 16. [Dash](https://kapeli.com/dash) 
+- Very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things
+<img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
-#### 17. [Timing 2](https://timingapp.com/whats-new) 
+### 17. [Timing 2](https://timingapp.com/whats-new) 
 - I moved completely to Timing 2 from Toggl for both passive and active tracking
-- the fact that I can combine active and passive tracking together is quite powerful and allows me to be more aware of where I spend my time 
+- The fact that I can combine active and passive tracking together is quite powerful and allows me to be more aware of where I spend my time 
+<img src="media/timing.png" width="500" alt="img">
 
-#### 17. [Airmail](http://airmailapp.com/) 
-- by far the most well designed and feature rich mail application that I have used so far, really love all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use
+### 17. [Airmail](http://airmailapp.com/) 
+- By far the most well designed and feature rich mail application that I have used so far, really love all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use
 
-#### 18. [Spotify](https://www.spotify.com/us/) 
-- found a [lot of great music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy
-- quickly finding artists, songs I want to listen, instantly adding the song playing to my 'likes' playlist or any other playlist I want, [seeing what other songs the artist has](http://i.imgur.com/mXUQ51a.png) and more
+### 18. [Spotify](https://www.spotify.com/us/) 
+- Found a [lot of great music](https://nikitavoloboev.gitbooks.io/knowledge/content/music/music-plays.html) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy
+- Quickly finding artists, songs I want to listen, instantly adding the song playing to my 'likes' playlist or any other playlist I want, seeing what other songs the artist has and more
+<img src="https://i.imgur.com/UgRLB92.png" width="500" alt="img">
 
-#### 19. [Fantastical](https://flexibits.com/fantastical) 
-- just a straight up best application there is for organising and creating events in your life
-- global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS 
+### 19. [Fantastical](https://flexibits.com/fantastical) 
+- Just a straight up best application there is for organising and creating events in your life
+- Global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS 
 	- I also added some of my own [text expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to help with natural text input
 - I wrote more on how I use the app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Fantastical.html)
 
-#### 20. [Contexts](https://contexts.co)
-- allows me to fuzzy search through [all the currenly active windows](http://i.imgur.com/Z8p8eyn.png) that I have
-- makes jumping to the right window I need effortless as I often may have many VS Code instances with different projects
+### 20. [Contexts](https://contexts.co)
+- Allows me to fuzzy search through all the currenly active windows that I have :
+<img src="http://i.imgur.com/Z8p8eyn.png" width="500" alt="img">
 
-#### 21. [Dictionary](http://www.wikiwand.com/en/Dictionary_(software))
-- comes natively with macOS and I started to love using it for exploring and searching through wikipedia
-- it is incredibly fast to make the searches and it also gives [quick autosuggestions](http://i.imgur.com/BPOmjkZ.png) for any query I type that I can then select with up and down arrows
+- As well as making jumping to the right window I need effortless as I often may have many VS Code instances with different projects
 
-#### 22. [Bartender](https://www.macbartender.com/) 
-- a great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the [most important information](http://i.imgur.com/2SEANOJ.png) that I need to show in it
-	- I can then activate Bartender and [start searching](http://i.imgur.com/K2LbGQv.png) for the menu bar item I need all from the keyboard
+### 21. [Dictionary](http://www.wikiwand.com/en/Dictionary_(software))
+- Comes natively with macOS and I started to love using it for exploring and searching through wikipedia
+- It is incredibly fast to make the searches and it also gives [quick autosuggestions](http://i.imgur.com/BPOmjkZ.png) for any query I type that I can then select with up and down arrows
 
-#### 23. [Ship](https://www.realartists.com/index.html)
-- a really awesome native app that lets me manage my GitHub issues
-- can schedule certain issues [as 'up next'](http://i.imgur.com/sQxx9lj.png) and complete them one by one  
+### 22. [Bartender](https://www.macbartender.com/) 
+- A great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the most important information that I need to show in it
+<img src="http://i.imgur.com/2SEANOJ.png" width="500" alt="img">
+- I can then activate Bartender and start searching for the menu bar item I need all from the keyboard
+<img src="http://i.imgur.com/K2LbGQv.png" width="500" alt="img">
 
-#### 24. [Textual](https://www.codeux.com/textual/) 
-- recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC
-- it also has an awesome [channel search](http://i.imgur.com/jwVCcMb.png) feature that I use a lot
+### 23. [Ship](https://www.realartists.com/index.html)
+- A really awesome native app that lets me manage my GitHub issues
+- Can schedule certain issues as 'Up Next' and complete them one by one  
+<img src="http://i.imgur.com/sQxx9lj.png" width="500" alt="img">
+
+### 24. [Textual](https://www.codeux.com/textual/) 
+- Recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC
+- It also has an awesome [channel search](http://i.imgur.com/jwVCcMb.png) feature that I use a lot
 
 #### 25. [Focus](https://heyfocus.com)
 - I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121). Really does make a difference and [helps me focus](http://i.imgur.com/cnVvp3m.png) on what I need to be working on.
@@ -340,9 +353,6 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 ![](media/launchpad.png)
 
-## Timing Screenshot 
-
-<img src="media/timing.png" width="600" alt="img">
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
@@ -356,7 +366,7 @@ If you found this interesting, I also have [similar repository](https://github.c
 ## Similar Setups 
 Here you can find more setups by other people that you can take ideas and inspiration from. Feel free to contribute to this list and add your own setups.
 
-- [works for me](https://works-for-me.github.io/) : collection of developer toolkits 
+- [Works for me](https://works-for-me.github.io/) : collection of developer toolkits 
 - [Use This Interviews](https://usesthis.com) : what do people use to get stuff done?
 
 ## Thank you 💜
