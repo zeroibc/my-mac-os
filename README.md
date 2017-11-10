@@ -192,7 +192,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 35. [Dropzone](https://aptonic.com) 
 - A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant) (a great little utility)
-<img src="http://i.imgur.com/3nWK4b5.png" width="500" alt="img">
+<img src="http://i.imgur.com/3nWK4b5.png" width="400" alt="img">
 
 #### 36. [Popclip](https://pilotmoon.com/popclip/) 
 - Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on DuckDuckGo, Youtube, Dictionary, Reddit, Images or it can translate text selected, copy it or say it aloud, here is how it looks for me
