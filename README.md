@@ -32,9 +32,9 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need
 
 ### 4. [2Do](http://www.2doapp.com/mac)
-- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me [organise my tasks](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/2Do.html) and things I want to do and achieve
+<img src="https://i.imgur.com/rsVWNyR.png" align="left" width="150">
 
-<!--- ![](https://i.imgur.com/rsVWNyR.png) TODO: make it appear nicely on the side --> 
+- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise my tasks and things I want to do and achieve
 
 - And it has global quick add with a hotkey :
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
