@@ -214,7 +214,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 42. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) 
 - A really great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week
-<img src="http://i.imgur.com/O1UD90S.png" width="500" alt="img">
+<img src="http://i.imgur.com/O1UD90S.png" width="300" alt="img">
 
 #### 43. [iStat Menus](https://bjango.com/mac/istatmenus/) 
 - Great system monitoring tools of which I use CPU and storage tracking, I find it very valuable to know if my CPU is being abused by some application and if so by which
