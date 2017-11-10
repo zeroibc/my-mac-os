@@ -297,8 +297,6 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Can display various things in your menu bar
 - I use it to show my current task I am working on with a simple bitbar plugin that echoes what I put there
 - Which I then can [display it with HammerSpoon](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua#L57) briefly on my screen to remind myself of what I need to be doing
-<img src="https://i.imgur.com/zh1ZnD3.png" width="500" alt="img">
-
 - I also use it to show a [list of brew services](https://getbitbar.com/plugins/Dev/Homebrew/brew-services.10m.rb) running on my system
 
 ## Browser 
