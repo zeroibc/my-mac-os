@@ -271,7 +271,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
 - Right now I use it show the task I am currenly working on in a little window in the middle of the screen for a brief moment
 <img src="http://i.imgur.com/VDjws87.png" width="400" alt="img">
-- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua)
+
+- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua) 
 
 #### 60. [Kap](https://github.com/wulkano/kap)
 - An open source screen recorder I use to record GIFs 
@@ -288,7 +289,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Neat little utility I mostly use to [quickly go to various folders](http://i.imgur.com/UOrHiRq.png) from file save windows
 
 #### 64. [Hazel](https://www.noodlesoft.com) 
-- Use it to fully automate my filing process 
+- Use it to fully automate my filing process and automatically commit changes in my [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) repo
 - I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
 	- here is one example of such rule 
