@@ -193,11 +193,11 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 35. [Dropzone](https://aptonic.com) 
 - A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant) (a great little utility)
-<img src="http://i.imgur.com/3nWK4b5.png" width="400" alt="img">
+<img src="http://i.imgur.com/3nWK4b5.png" width="300" alt="img">
 
 #### 36. [Popclip](https://pilotmoon.com/popclip/) 
 - Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on DuckDuckGo, Youtube, Dictionary, Reddit, Images or it can translate text selected, copy it or say it aloud, here is how it looks for me
-<img src="https://i.imgur.com/jmNmrmx.png" width="500" alt="img">
+<img src="https://i.imgur.com/jmNmrmx.png" width="400" alt="img">
 
 #### 37. [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) 
 - A great menu bar tool that shows me how much time is left until the next event in my calendar
