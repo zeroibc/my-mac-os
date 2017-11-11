@@ -9,7 +9,7 @@
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance : 
 
 ### 1. [Alfred](https://www.alfredapp.com/) 
-- This is by far my favourite application that I have. It saved me a lot of time in my life : 
+- This is by far my favourite application that I have. It saved me a lot of time in my life
 <img src="https://i.imgur.com/L2Y0o44.png" width="500" alt="img">
 
 - It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
@@ -21,7 +21,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - An application which allowed me to create all of the mind maps for [Learn Anything](https://learn-anything.xyz/)
 <img src="https://i.imgur.com/oBCoCq3.png" width="500" alt="img">
 
-- It is an incredible joy to make mind maps in this app and I use it to visualize everything : 
+- It is an incredible joy to make mind maps in this app and I use it to visualize everything 
 	- [my notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
 - I also try to completely bridge the gap between my mind maps and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind)
 - I wrote more about how I use this app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Mindnode.html)
@@ -35,7 +35,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise my tasks and things I want to do and achieve
 <img src="https://i.imgur.com/rsVWNyR.png" width="150">
 
-- And it has global quick add with a hotkey :
+- And it has global quick add with a hotkey 
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
 - Together with lists, priorities, powerful search and a lot more	
@@ -59,7 +59,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="https://i.imgur.com/hK25SX1.png" width="500" alt="img">
 
 ### 8. [Day One](http://dayoneapp.com/) 
-- Probably the best journal writing application there is, use it every day to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l) :
+- Probably the best journal writing application there is, use it every day to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l)
 <img src="http://i.imgur.com/V82Em5D.png" width="300" alt="img">
 
 - As well as [many other small little tidbits of text](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/day-one.html) with thoughts, plans and experiences that I have had
@@ -75,7 +75,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 11. [Ulysses](http://www.ulyssesapp.com/) 
 - All your writing in one place is the motto and the underlying design of the app
-- It has very powerful search :
+- It has very powerful search
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
 - Freedom of structure, great themes and export to markdown / PDF
@@ -130,7 +130,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I wrote more on how I use the app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Fantastical.html)
 
 ### 20. [Contexts](https://contexts.co)
-- Allows me to fuzzy search through all the currenly active windows that I have :
+- Allows me to fuzzy search through all the currenly active windows that I have 
 <img src="https://i.imgur.com/KNuimJv.png" width="500" alt="img">
 
 - As well as making jumping to the right window I need effortless as I often may have many VS Code instances with different projects
