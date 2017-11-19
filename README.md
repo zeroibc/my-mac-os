@@ -371,8 +371,8 @@ If you found this interesting, I also have [similar repository](https://github.c
 ## Similar Setups 
 Here you can find more setups by other people that you can take ideas and inspiration from. Feel free to contribute to this list and add your own setups.
 
-- [Works for me](https://works-for-me.github.io/): collection of developer toolkits 
-- [Use This Interviews](https://usesthis.com): what do people use to get stuff done?
+- [Works for me](https://works-for-me.github.io/) - Collection of developer toolkits 
+- [Use This Interviews](https://usesthis.com) - What do people use to get stuff done?
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
