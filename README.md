@@ -6,7 +6,7 @@
 > [wallpaper link](https://fotoz.com/wp-content/uploads/2016/10/photo-1414073246499-c5edeb261baa.jpeg)
 
 ## Applications
-I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance:
+I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance.
 
 ### 1. [Alfred](https://www.alfredapp.com/) 
 - This is by far my favourite application that I have. It saved me a lot of time in my life
@@ -313,8 +313,7 @@ I do however use Chrome for web devolopment due to its superior Chrome Dev tools
 
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I use from it. 
 
-And here are some more command line tools I use and love: 
-
+And here are some more command line tools I use and love.
 - [thefuck](https://github.com/nvbn/thefuck) - corrects your previous console command
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours
 - [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - various useful GNU utils that don’t come with macOS
