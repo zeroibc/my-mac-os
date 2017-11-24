@@ -257,7 +257,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 54. [Noizio](http://noiz.io/) 
 - Rain, whale noises, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus
 
-#### 55. [Sip](https://itunes.apple.com/us/app/sip/id507257563?mt=12) 
+#### 55. [Sip](https://sipapp.io/) 
 - A really great colour picker that is quite often getting updated
 
 #### 56. [Paw](https://paw.cloud) 
