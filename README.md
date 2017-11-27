@@ -6,7 +6,7 @@
 > [wallpaper link](https://fotoz.com/wp-content/uploads/2016/10/photo-1414073246499-c5edeb261baa.jpeg)
 
 ## Applications
-I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance.
+I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/nikitavoloboev/dotfiles).
 
 ### 1. [Alfred](https://www.alfredapp.com/) 
 - This is by far my favourite application that I have. It saved me a lot of time in my life
