@@ -53,6 +53,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 7. [SnippetsLab](https://www.renfei.org/snippets-lab/) 
 - A very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, retrieving the snippets that you need it staggeringly fast
+- I share my entire library of snippets you can import yourself [here](./snippetslab)
 <img src="https://i.imgur.com/otqc4pO.png" width="500" alt="img">
 
 - I use it as my [own personal programmer's notepad](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/SnippetsLab.html) with code and lots and lots of comments
