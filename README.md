@@ -194,7 +194,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 35. [Dropzone](https://aptonic.com) 
 - A quick utility that pops up when I drag some file into it or open it with a hotkey, use it to upload images to [Imgur](http://imgur.com), dropping files into a preset number of folders that I made quickly as well as going to them in an instant) (a great little utility)
-<img src="http://i.imgur.com/3nWK4b5.png" width="300" alt="img">
+<img src="https://i.imgur.com/UTqei1d.png" width="300" alt="img">
 
 #### 36. [Popclip](https://pilotmoon.com/popclip/) 
 - Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on DuckDuckGo, Youtube, Dictionary, Reddit, Images or it can translate text selected, copy it or say it aloud, here is how it looks for me
@@ -216,7 +216,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 42. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) 
 - A really great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week
-<img src="http://i.imgur.com/O1UD90S.png" width="300" alt="img">
+<img src="https://i.imgur.com/8sXe5aK.png" width="300" alt="img">
 
 #### 43. [iStat Menus](https://bjango.com/mac/istatmenus/) 
 - Great system monitoring tools of which I use CPU and storage tracking, I find it very valuable to know if my CPU is being abused by some application and if so by which
@@ -271,7 +271,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 #### 59. [Hammerspoon](http://www.hammerspoon.org) 
 - Really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant
 - Right now I use it show the task I am currenly working on in a little window in the middle of the screen for a brief moment
-<img src="http://i.imgur.com/VDjws87.png" width="400" alt="img">
+<img src="https://i.imgur.com/UXqwr5a.png" width="400" alt="img">
 
 - My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua) 
 
@@ -291,7 +291,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 #### 64. [Hazel](https://www.noodlesoft.com) 
 - Use it to fully automate my filing process and automatically commit changes in my [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) repo
-- I use prefixes for everything, bookmarks, notes, ulysses entries and even files 
+- I use prefixes for everything, bookmarks, notes, Ulysses entries and even files 
 	- this allows me to write some great rules for my Downloads folder that will file the files where I want them to be
 	- here is one example of such rule 
 <img src="http://i.imgur.com/7oiSYV3.png" width="500" alt="img">
