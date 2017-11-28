@@ -350,7 +350,7 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows). Feel free to contribute to it if you wish.
 
 ## Desktop Screenshot 
-> sf is alias for [screenfetch](https://github.com/KittyKatt/screenFetch)
+> using [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ![](media/screenfetch.png)
 
