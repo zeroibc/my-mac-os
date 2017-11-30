@@ -1,5 +1,5 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
-> A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
+> A list of applications, alfred workflows and various tools that make my macOS experience even more amazing.
 
 <img src="media/mac.png" width="600" alt="img">
 
