@@ -383,7 +383,7 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Use This Interviews](https://usesthis.com) - What do people use to get stuff done?
 
 ## Contributing
-I love finding about new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-mac-os/issues/new).
+I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-mac-os/issues/new).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
