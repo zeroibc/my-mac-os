@@ -323,10 +323,10 @@ I do however use Chrome for web devolopment due to its superior Chrome Dev tools
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I use from it. 
 
 And here are some more command line tools I use and love.
-- [thefuck](https://github.com/nvbn/thefuck) - corrects your previous console command
-- [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours
-- [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - various useful GNU utils that don’t come with macOS
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - search text for patterns really fast
+- [thefuck](https://github.com/nvbn/thefuck) - Corrects your previous console command.
+- [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
+- [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - Various useful GNU utils that don’t come with macOS.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns really fast.
 - [m-cli](https://github.com/rgcr/m-cli) - useful utils for macOS
 - [mas](https://github.com/mas-cli/mas) - cli for mac app store
 - [youtube-dl](https://github.com/rg3/youtube-dl) - download videos from youtube and other video sites
@@ -334,7 +334,7 @@ And here are some more command line tools I use and love.
 - [pandoc](https://github.com/jgm/pandoc) - universal markup converter
 - [trash](https://github.com/sindresorhus/trash) - move files and folders to the trash
 - [vtop](https://github.com/MrRio/vtop) - graphical activity monitor
-- [curl](https://github.com/curl/curl)  transfer data, supports various protocols
+- [curl](https://github.com/curl/curl) - transfer data, supports various protocols
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers
 - [asciinema](https://github.com/asciinema/asciinema) - terminal session recorder
 - [tldr](https://github.com/tldr-pages/tldr) - simplified and community-driven man pages 
