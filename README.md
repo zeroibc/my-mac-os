@@ -9,6 +9,7 @@
 - [Applications](#applications)
 - [Browser](#browser)
 - [Command Line Apps](#command-line-apps)
+- [Alfred Workflows](#alfred-workflows)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
 
