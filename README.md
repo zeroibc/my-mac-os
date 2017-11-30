@@ -9,7 +9,7 @@
 - [Applications](#applications)
 - [Browser](#browser)
 - [Command Line Apps](#command-line-apps)
-- [My wonderful world of iOS](my-wonderful-world-of-ios-)
+- [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
 
 ## Applications
