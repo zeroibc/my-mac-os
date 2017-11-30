@@ -17,79 +17,80 @@
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/nikitavoloboev/dotfiles).
 
 ### 1. [Alfred](https://www.alfredapp.com/) 
-- This is by far my favourite application that I have. It saved me a lot of time in my life:
+- This is by far my favourite application that I have. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/L2Y0o44.png" width="500" alt="img">
 
-- It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
-- I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows) 
-	- feel free to use any that you like
-- I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language
+- It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use.
+- I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows).
+	- Feel free to use any that you like.
+- I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [MindNode](https://mindnode.com)
 - An application which allowed me to create all of the mind maps for [Learn Anything](https://learn-anything.xyz/)
 <img src="https://i.imgur.com/oBCoCq3.png" width="500" alt="img">
 
-- It is an incredible joy to make mind maps in this app and I use it to visualize everything 
-	- [my notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
-- I also try to completely bridge the gap between [my mind maps](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3) and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind)
-- I wrote more about how I use this app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Mindnode.html)
+- It is an incredible joy to make mind maps in this app and I use it to visualize everything.
+	- [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
+- I also try to completely bridge the gap between [my mind maps](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3) and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind).
+- I wrote more about how I use this app [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Mindnode.html).
 	
 ### 3. [Karabiner](https://pqrs.org/osx/karabiner/) 
-- One of the applications I cannot live without, allows me to bind any key that I want. You can take a look at the config files I use for it [here](https://github.com/nikitavoloboev/dotfiles) 
-- I go over how I use the app in detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/Karabiner.html) 
-- Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need
+- One of the applications I cannot live without, allows me to bind any key that I want. You can take a look at the config files I use for it [here](https://github.com/nikitavoloboev/dotfiles).
+- I go over how I use the app in detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/Karabiner.html).
+- Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need.
 
 ### 4. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 
-- A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of
-- Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve
-- I go over all my favourite macros I use and how I use them in [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/km/km.html) and I share all the macros I use with the app [here](./km)
+- A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
+- Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
+- I go over all my favourite macros I use and how I use them in [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/km/km.html) and I share all the macros I use with the app [here](./km).
 
 ### 5. [2Do](http://www.2doapp.com/mac)
-- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise my tasks and things I want to do and achieve
+- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise my tasks and things I want to do and achieve.
 <img src="https://i.imgur.com/ZD5zlxG.png" width="150">
 
-- And it has global quick add with a hotkey 
+- And it has global quick add with a hotkey.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
-- Together with lists, priorities, powerful search and a lot more	
+- Together with lists, priorities, powerful search and a lot more.
 
 ### 6. [iTerm](https://www.iterm2.com/) 
-- I moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want
-- [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use 
-- I also really love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs
+- I moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want.
+- [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use.
+- I also really love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
 
 ### 7. [VS Code](https://github.com/Microsoft/vscode)
-- My favourite editor that I use to write code in
-- Most notably I really like its [vim plugin](https://github.com/VSCodeVim/Vim) 
-	- my config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json) 
+- My favourite editor that I use to write code in.
+- Most notably I really like its [vim plugin](https://github.com/VSCodeVim/Vim).
+	- My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 
 ### 8. [SnippetsLab](https://www.renfei.org/snippets-lab/) 
-- A very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, retrieving the snippets that you need it staggeringly fast
+- A very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, retrieving the snippets that you need it staggeringly fast.
 <img src="https://i.imgur.com/otqc4pO.png" width="500" alt="img">
 
-- I share my entire library of snippets you can import yourself [here](./snippetslab)
-- I use it as my [own personal programmer's notepad](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/SnippetsLab.html) with code and lots and lots of comments
+- I share my entire library of snippets you can import yourself [here](./snippetslab).
+- I use it as my [own personal programmer's notepad](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/SnippetsLab.html) with code and lots and lots of comments.
 <img src="https://i.imgur.com/hK25SX1.png" width="500" alt="img">
 
 ### 9. [Day One](http://dayoneapp.com/) 
-- Probably the best journal writing application there is, use it every day to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l)
+- Probably the best journal writing application there is, use it every day to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l).
 <img src="http://i.imgur.com/V82Em5D.png" width="300" alt="img">
 
-- As well as [many other small little tidbits of text](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/day-one.html) with thoughts, plans and experiences that I have had
-- If you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life
+- As well as [many other small little tidbits of text](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/day-one.html) with thoughts, plans and experiences that I have had.
+- It also has really awesome integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all my tweets and Insgragram posts.
+- If you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
 ### 10. [Typinator](http://www.ergonis.com/products/typinator/) 
-- I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8)
-- I share the Typinator sets I made with the app [here](./typinator) and describe the app in more detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Typinator.html)
+- I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
+- I share the Typinator sets I made with the app [here](./typinator) and describe the app in more detail [here](https://nikitavoloboev.gitbooks.io/knowledge/content/macOS/apps/Typinator.html).
 
 ### 11. [1Password](https://1password.com) 
-- My password manager of choice, recently started to generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password
-- No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible
+- My password manager of choice, recently started to generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
+- No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible.
 
 ### 12. [Ulysses](http://www.ulyssesapp.com/) 
-- All your writing in one place is the motto and the underlying design of the app
-- It has very powerful search
+- All your writing in one place is the motto and the underlying design of the app.
+- It has very powerful search:
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
 - Freedom of structure, great themes and export to markdown / PDF
