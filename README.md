@@ -3,7 +3,7 @@
 
 <img src="media/mac.png" width="600" alt="img">
 
-> [wallpaper link](https://fotoz.com/wp-content/uploads/2016/10/photo-1414073246499-c5edeb261baa.jpeg)
+> [Wallpaper link](https://fotoz.com/wp-content/uploads/2016/10/photo-1414073246499-c5edeb261baa.jpeg)
 
 ## Contents
 - [Applications](#applications)
@@ -327,30 +327,30 @@ And here are some more command line tools I use and love.
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
 - [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - Various useful GNU utils that don’t come with macOS.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns really fast.
-- [m-cli](https://github.com/rgcr/m-cli) - useful utils for macOS
-- [mas](https://github.com/mas-cli/mas) - cli for mac app store
-- [youtube-dl](https://github.com/rg3/youtube-dl) - download videos from youtube and other video sites
-- [tmux](https://github.com/tmux/tmux) - terminal multiplexer
-- [pandoc](https://github.com/jgm/pandoc) - universal markup converter
-- [trash](https://github.com/sindresorhus/trash) - move files and folders to the trash
-- [vtop](https://github.com/MrRio/vtop) - graphical activity monitor
-- [curl](https://github.com/curl/curl) - transfer data, supports various protocols
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers
-- [asciinema](https://github.com/asciinema/asciinema) - terminal session recorder
-- [tldr](https://github.com/tldr-pages/tldr) - simplified and community-driven man pages 
-- [imgcat](https://github.com/eddieantonio/imgcat) - like [cat](http://www.linfo.org/cat.html) but for images
-- [screenfetch](https://github.com/KittyKatt/screenFetch) - fetches system/theme information in terminal
-- [hugo](https://github.com/gohugoio/hugo) - fast and flexible static site generator
-- [coala](https://github.com/coala/coala) - linting and fixing of code
-- [reflex](https://github.com/cespare/reflex) - run a command when files change
-- [create-react-app](https://github.com/facebookincubator/create-react-app) - create React apps with no build configuration
-- [now](https://github.com/zeit/now-cli) - realtime global deployments served over HTTP/2
-- [yarn](https://github.com/yarnpkg/yarn) - fast, reliable, and secure dependency management
-- [iStats](https://github.com/Chris911/iStats) - system stats from the command-line
-- [alfred](https://github.com/jason0x43/go-alfred#installation) - symlinks your go project to alfred directory and builds your workflow
-- [license up](https://github.com/nikitavoloboev/license-up) - create a license quickly for your project
-- [fzf](https://github.com/junegunn/fzf) - command-line fuzzy finder
-- [exa](https://github.com/ogham/exa) - replacement for ls written in rust
+- [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
+- [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
+- [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from youtube and other video sites.
+- [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
+- [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
+- [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
+- [curl](https://github.com/curl/curl) - Transfer data, supports various protocols.
+- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat.html) but for images.
+- [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+- [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
+- [coala](https://github.com/coala/coala) - Linting and fixing of code.
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [now](https://github.com/zeit/now-cli) - Realtime global deployments served over HTTP/2.
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+- [iStats](https://github.com/Chris911/iStats) - System stats from the command-line.
+- [alfred](https://github.com/jason0x43/go-alfred#installation) - Symlinks your go project to alfred directory and builds your workflow.
+- [license up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
+- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 
 ## [Alfred Workflows](https://github.com/learn-anything/alfred-workflows)
 I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value. 
@@ -358,7 +358,7 @@ I find [Alfred](https://www.alfredapp.com) with its ability to create custom wor
 I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows). Feel free to contribute to it if you wish.
 
 ## Desktop Screenshot 
-> using [Screenfetch](https://github.com/KittyKatt/screenFetch)
+> Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ![](media/screenfetch.png)
 
