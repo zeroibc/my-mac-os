@@ -17,7 +17,7 @@
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/nikitavoloboev/dotfiles).
 
 ### 1. [Alfred](https://www.alfredapp.com/) 
-- This is by far my favourite application that I have. It saved me a lot of time in my life
+- This is by far my favourite application that I have. It saved me a lot of time in my life:
 <img src="https://i.imgur.com/L2Y0o44.png" width="500" alt="img">
 
 - It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use
@@ -378,7 +378,7 @@ If you found this interesting, I also have [similar repository](https://github.c
 
 ## Similar Setups 
 Here you can find more setups by other people that you can take ideas and inspiration from. Feel free to contribute to this list and add your own setups.
-- [Works for me](https://works-for-me.github.io/) - Collection of developer toolkits 
+- [Works for me](https://works-for-me.github.io/) - Collection of developer toolkits.
 - [Use This Interviews](https://usesthis.com) - What do people use to get stuff done?
 
 ## Contributing
