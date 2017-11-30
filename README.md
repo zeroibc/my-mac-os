@@ -26,7 +26,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [MindNode](https://mindnode.com)
-- An application which allowed me to create all of the mind maps for [Learn Anything](https://learn-anything.xyz/)
+- An application which allowed me to create all of the mind maps for [Learn Anything](https://learn-anything.xyz/).
 <img src="https://i.imgur.com/oBCoCq3.png" width="500" alt="img">
 
 - It is an incredible joy to make mind maps in this app and I use it to visualize everything.
