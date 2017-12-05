@@ -5,6 +5,8 @@ It's a wonderful tool that allows you to create very powerful macros that can ra
 
 All the macros / palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros / palettes below. For others, you can simply clone this repo and see what you like. I will be uploading essentially all the macros I use here.
 
+A lot of these macros were made with great help from the [Keboard Maestro forum community](https://forum.keyboardmaestro.com/latest). 
+
 ## Global Macros 
 - Get current url from safari
 	- will get the URL of your current tab and put it into your clipboard
@@ -12,7 +14,7 @@ All the macros / palettes are attached to this GitHub repository sorted into app
 - Clone repo to ~/play
 	- I wrote about how I use this macro [here](https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32)
 	- essentially if you are looking at some repo on GitHub, running the macro will clone it to a folder you specify (I use ~/play)
-- Open and filter websites in safari
+- Open and filter websites in safari (credit to [Christopher Stone](https://github.com/ccstone)).
 	- one of my most used macros that when activated will open a website that is specified inside `urlToFetch` field
 	- and it will match all current tabs with name specified in `urlFilterText` field
 	- this specific macro will open [hckr news](https://hckrnews.com/) and will jump between [news ycombinator open tabs](https://news.ycombinator.com/)
@@ -22,15 +24,15 @@ All the macros / palettes are attached to this GitHub repository sorted into app
 
 <img src="https://i.imgur.com/fAVRcl8.png" width="500" alt="img">
 
-- open and filter websites in chrome
+- open and filter websites in chrome (credit to [Christopher Stone](https://github.com/ccstone)).
 	- same principle as above but for chrome
 	- example macro opens localhost:3000 but you can change it to what you like
 
 ## Safari Macros 
-- open current url in chrome
+- Open current url in chrome
 	- will open your current Safari URL in chrome
 	- I often use it if I need to use dev tools on the site or if the site has flash content
-- safari main actions
+- Safari main actions
 	- one of my most used macros in Safari
 	- essentially the trick is that I can set my own site specific hotkeys by using a switch statement on current safari URL content
 	- this macro for example, when I have a google page with results open, if run, will select the first result instantly
