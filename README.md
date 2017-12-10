@@ -46,7 +46,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 5. [2Do](http://www.2doapp.com/mac)
 - I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise my tasks and things I want to do and achieve.
-<img src="https://i.imgur.com/ZD5zlxG.png" width="150">
+<img src="https://i.imgur.com/0BQF2a1.png" width="150">
 
 - And it has global quick add with a hotkey.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
