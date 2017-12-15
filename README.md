@@ -12,6 +12,7 @@
 - [Alfred Workflows](#alfred-workflows)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
+- [Related](#related)
 
 ## Applications
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/nikitavoloboev/dotfiles).
@@ -378,11 +379,16 @@ If you found this interesting, I also have [similar repository](https://github.c
     <img width="200" heigth="400" src="https://i.imgur.com/b49Evpe.jpg"></a>
 
 ## Similar Setups 
-Here you can find more setups by other people that you can take ideas and inspiration from. Feel free to contribute to this list and add your own setups.
+Here you can find more setups by other people that you can take ideas and inspiration from. 
 - [Works for me](https://works-for-me.github.io/) - Collection of developer toolkits.
 - [Use This Interviews](https://usesthis.com) - What do people use to get stuff done?
 
+## Related
+- [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
+
 ## Contributing
+Contributions are welcome! If you shared a similiar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
+
 I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-mac-os/issues/new).
 
 ## Thank you 💜
