@@ -388,7 +388,7 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
 
 ## Contributing
-Suggestions and pull requests are highly encouraged!
+[Suggestions](https://github.com/nikitavoloboev/my-mac-os/issues) and pull requests are highly encouraged!
 
 If you shared a similiar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
 
