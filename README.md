@@ -13,6 +13,7 @@
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
 - [Related](#related)
+- [Contributing](#contributing)
 
 ## Applications
 I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/nikitavoloboev/dotfiles).
