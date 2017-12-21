@@ -3,7 +3,9 @@ One of my favourite applications that I use to significantly ease my time using 
 
 It's a wonderful tool that allows you to create very powerful macros that can range from simply pasting some text, to moving the mouse pointer to some location, to doing various calculations with the input you provide and lot lot more.
 
-All the macros / palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros / palettes below. For others, you can simply clone this repo and see what you like. I will be uploading essentially all the macros I use here.
+I wrote about how I manage my huge macro library [here](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907).
+
+All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below. For others, you can simply clone this repo and see what you like. I will be uploading essentially all the macros I use here.
 
 A lot of these macros were made with great help from the [Keboard Maestro forum community](https://forum.keyboardmaestro.com/latest). 
 
