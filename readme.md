@@ -367,7 +367,7 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 ## Launchpad
 
-![](media/launchpad.png)
+![](media/pad.png)
 
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
