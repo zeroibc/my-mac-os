@@ -14,8 +14,7 @@ The Sets can be found in [this folder](./sets) and here is their explanation. I 
 6. Phrases - Common phrases I found myself saying.
 7. Sentences - Common sentences I found myself saying.
 8. Markdown - Quick expansions of badges and other things.
-9. Word expand - Longer or trickier to write words I like to autocomplete with Typinator quick search.
-10. VS Code - Currently only holds `alfred build` task template. For code, I use VS Code snippet engine itself.
-11. KM - Quickly type and complete Keyboard Maestro variables.
-12. HTML - Common HTML snippets.
+9. VS Code - Currently only holds `alfred build` task template. For code, I use VS Code snippet engine itself.
+10. KM - Quickly type and complete Keyboard Maestro variables.
+11. HTML - Common HTML snippets.
 
