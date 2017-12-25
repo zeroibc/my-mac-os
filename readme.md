@@ -72,7 +72,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 - I share my entire library of snippets you can import yourself [here](./snippetslab).
 - I use it as my [own personal programmer's notepad](https://wiki.nikitavoloboev.xyz/macOS/apps/SnippetsLab.html) with code and lots and lots of comments.
-<img src="https://i.imgur.com/hK25SX1.png" width="500" alt="img">
+<img src="https://i.imgur.com/qjm8ecs.png" width="500" alt="img">
 
 ### 9. [Day One](http://dayoneapp.com/) 
 - Probably the best journal writing application there is, use it every day to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.5o9j8n48l).
