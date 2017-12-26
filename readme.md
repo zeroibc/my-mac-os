@@ -374,10 +374,10 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/mjtTceJ.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/sZBd1eP.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/b49Evpe.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/8z4VD6n.jpg"></a>
 
 ## Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
