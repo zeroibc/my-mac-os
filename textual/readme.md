@@ -8,7 +8,7 @@ Here is how it looks side by side:
 ![](https://i.imgur.com/2tA8CJR.png)
 
 ## Install
-To install the theme, download the Night Blue folder attached [here](night-blue).
+To install the theme, download the Night Blue folder attached [here](Night%20blue).
 
 Then go to Textual app. Go to preferences and in Styles click on `Browse Styles` here:
 
