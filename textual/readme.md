@@ -1,7 +1,5 @@
 # Night blue theme for Textual IRC
-I use my own custom theme for [Textual app](https://www.codeux.com).
-
-I usually split Textual and Telegram client in full screen side by side. And Telegram has a pretty awesome Night blue theme I use and like. I changed [TotalSublime](https://github.com/danieldbird/total-sublime) theme colours to match the Night Blue look of Telegram.
+I usually split [Textual](https://www.codeux.com) and Telegram client in full screen side by side. And Telegram has a pretty awesome Night blue theme I use and like. I changed [TotalSublime](https://github.com/danieldbird/total-sublime) theme colours to match the Night Blue look of Telegram.
 
 Here is how it looks side by side:
 
