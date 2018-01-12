@@ -1,7 +1,7 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 
-<img src="media/mac.png" width="600" alt="img">
+<img src="https://i.imgur.com/m47NqpQ.jpg" width="600" alt="img">
 
 > [Wallpaper link](https://fotoz.com/wp-content/uploads/2016/10/photo-1414073246499-c5edeb261baa.jpeg)
 
@@ -125,7 +125,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 17. [Timing 2](https://timingapp.com/whats-new)
 - I moved completely to Timing 2 from Toggl for both passive and active tracking.
 - The fact that I can combine active and passive tracking together is quite powerful and allows me to be more aware of where I spend my time.
-<img src="media/timing.png" width="500" alt="img">
+<img src="https://i.imgur.com/SzXbdc3.png" width="500" alt="img">
 
 ### 17. [Airmail](http://airmailapp.com/)
 - By far the most well designed and feature rich mail application that I have used so far, really love all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
@@ -363,12 +363,11 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 ## Desktop Screenshot
 > Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
-![](media/screenfetch.png)
+![](https://i.imgur.com/rAWcaOV.jpg)
 
 ## Launchpad
 
-![](media/pad.png)
-
+![](https://i.imgur.com/DQ8fqqQ.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
