@@ -120,7 +120,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
-- I also use [this workflow](https://github.com/nikitavoloboev/small-workflows#dash-profile-switcher) I made to quickly switch between Dash profiles.
+- I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Dash.alfredworkflow?raw=true) I made to quickly switch between Dash profiles.
 
 ### 17. [Timing 2](https://timingapp.com/whats-new)
 - I moved completely to Timing 2 from Toggl for both passive and active tracking.
