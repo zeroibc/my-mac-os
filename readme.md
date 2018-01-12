@@ -23,8 +23,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="https://i.imgur.com/L2Y0o44.png" width="500" alt="img">
 
 - It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use.
-- I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows).
-	- Feel free to use any that you like.
+- I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows). Feel free to use any that you like.
 - I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
@@ -41,6 +40,9 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - My favourite editor that I use to write code in.
 - Most notably I really like its [vim plugin](https://github.com/VSCodeVim/Vim).
 	- My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
+- I really love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme. Here is how it looks:
+
+<img src="https://i.imgur.com/MNf9rMQ.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/)
 - I moved completely to using the command line for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want.
