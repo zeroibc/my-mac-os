@@ -42,7 +42,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - My favourite editor that I use to write code in.
 - Most notably I really like its [vim plugin](https://github.com/VSCodeVim/Vim).
 	- My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
-- I really love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme. Here is how it looks:
+- I also really love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme. Here is how it looks:
 
 <img src="https://i.imgur.com/MNf9rMQ.png" width="500" alt="img">
 
