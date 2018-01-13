@@ -36,7 +36,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I share all the macros I use with the app [here](km). My most used macro from all of them is a macro to open Safari browser which I've ran [some 117,091 times](https://i.imgur.com/09KfToP.png) since I made it.
+- I share all the macros I use with the app [here](km).
 
 ### 4. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in.
