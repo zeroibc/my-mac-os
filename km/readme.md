@@ -1,11 +1,17 @@
 # Keyboard Maestro Macros I use
+## Contents
+- [Explanation](#explanation)
+- [Macros](#macros)
+	- [Global Macros](#global-macros)
+
+## Explanation
 One of my favourite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and I describe how I use it in more detail in [my wiki](https://wiki.nikitavoloboev.xyz/macOS/apps/km/km.html).
 
 It's a wonderful tool that allows you to create very powerful macros that can range from simply pasting some text, to moving the mouse pointer to some location, to doing various calculations with the input you provide and lot lot more.
 
 I wrote about how I manage my huge macro library [here](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907).
 
-All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below. For others, you can simply clone this repo, import things and see what you like. I will be uploading essentially all the macros I use here.
+All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below. For others, you can simply clone [this repo](https://github.com/nikitavoloboev/my-mac-os), import things and see what you like. I will be uploading essentially all the macros I use here.
 
 All global macros will have no trigger as they are called with Applescript from [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html). Most macros will have a Usage comment in the beginning where I clarify how I personally use the macro. It looks like this:
 
@@ -14,11 +20,6 @@ All global macros will have no trigger as they are called with Applescript from 
 A lot of these macros were made with great help from the [Keyboard Maestro forum community](https://forum.keyboardmaestro.com/latest).
 
 Just to emphasize how much KM has impacted my life. My most used macro from all thse macros I share is macro to open Safari browser which I've ran [some 117,091 times](https://i.imgur.com/09KfToP.png) since I made it.
-
-## Contents
-- [Macros](#macros)
-	- [Global Macros](#global-macros)
-
 
 ## Macros
 Macros are little `KM scripts` that contain a series of actions. The macros can then be executed from a trigger, usually a hotkey.
@@ -38,9 +39,7 @@ Non global macros that are binding to an app will have a hotkey however. One thi
 I have binded my control key to A key with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html). My command key is E key and Command + Shift modifier is Q key. So pressing `E` key, holding it and after pressig `F` will trigger `⌘ + F` hotkey. Therefore some bindings will only make sense in context of my own layout. For example `⌃ + W` is easier to reach for me then `⌘ + D`. Because `a + w` is nicer to press then `e + d` on my keyboard. [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html) is one powerful abstraction that makes managing 1000+ macros easy.
 
 ### Global Macros
-
 Glocal macros can be found [here](macros/global).
-
 
 - Open and filter websites in safari (credit to [Christopher Stone](https://github.com/ccstone))
 	- One of my most used macros that when activated will open a website that is specified inside `urlToFetch` field.
