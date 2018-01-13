@@ -16,9 +16,29 @@ A lot of these macros were made with great help from the [Keyboard Maestro forum
 Just to emphasize how much KM has impacted my life. My most used macro from all thse macros I share is macro to open Safari browser which I've ran [some 117,091 times](https://i.imgur.com/09KfToP.png) since I made it.
 
 ## Contents
-- [Global Macros](#global-macros)
+- [Macros](#macros)
+	- [Global Macros](#global-macros)
 
-## Global Macros
+
+## Macros
+Macros are little `KM scripts` that contain a series of actions. The macros can then be executed from a trigger, usually a hotkey.
+
+In my case all the global macros I share (macros that can run no matter what application is at currently active) have no trigger. This is because I can call these macros from Karabiner using this Applescript code:
+
+```applescript
+tell application "Keyboard Maestro Engine"
+do script "g: Kill All Macros"
+end tell
+```
+
+Where `g: Kill All Macros` is a macro name. Where `g:` is a prefix that stands for `global`.
+
+Non global macros that are binding to an app will have a hotkey however. One thing to note is that the hotkey triggers are chosen with respect to my custom keyboard layout.
+
+I have binded my control key to A key with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html). My command key is E key and Command + Shift modifier is Q key. So pressing `E` key, holding it and after pressig `F` will trigger `⌘ + F` hotkey. Therefore some bindings will only make sense in context of my own layout. For example `⌃ + W` is easier to reach for me then `⌘ + D`. Because `a + w` is nicer to press then `e + d` on my keyboard. [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html) is one powerful abstraction that makes managing 1000+ macros easy.
+
+### Global Macros
+
 Glocal macros can be found [here](macros/global).
 
 
