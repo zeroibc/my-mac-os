@@ -25,8 +25,8 @@ Just to emphasize how much KM has impacted my life. My most used macro from all 
 I also really love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro) workflow that lets me search through my entire KM library of actions to activate.
 
 ## KM Plugins
-I really like using these KM plugins and additions. It is advised you install them as they really make using KM editor more pleasant.
-- [KMFAM - Favourite actions and macros](https://forum.keyboardmaestro.com/t/macro-kmfam-favorite-actions-and-macros/4854) - This plugin lets you save complex and non complex actions and allow you to search over these actions you add quickly.
+It is advised you install these KM plugins as they really make using KM editor more pleasant.
+- [KMFAM - Favourite actions and macros](https://forum.keyboardmaestro.com/t/macro-kmfam-favorite-actions-and-macros/4854) - This plugin lets you save complex and non complex actions and macros. You can then search over these actions and macros to quickly add them.
 
 ## Macros
 Macros are little `KM scripts` that contain a series of actions. The macros can then be executed from a trigger, usually a hotkey.
