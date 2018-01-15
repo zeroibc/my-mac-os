@@ -48,6 +48,13 @@ I have binded my control key to A key with [Karabiner](https://wiki.nikitavolobo
 ### Global Macros
 Glocal macros can be found [here](macros/global).
 
+It contains few macro groups. The macro groups have a prefix like `g: ` that used to give a theme and context to the macros inside the group. All the macros inside the group start with that prefix. The global groups included are:
+
+- `c: Open websites (Chrome)` - Open websites in Chrome browser and switch to the websites if the URL is already open somewhere.
+
+
+
+
 - Open and filter websites in safari (credit to [Christopher Stone](https://github.com/ccstone))
 	- One of my most used macros that when activated will open a website that is specified inside `urlToFetch` field.
 	- And it will match all current tabs with name specified in `urlFilterText` field.
