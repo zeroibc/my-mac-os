@@ -68,7 +68,7 @@ There are many macro groups inside the folder. These macros will only run in the
 ### Programming language macro groups
 Programming language macro groups can be found [here](macros/programming).
 
-This folder only contains one macro group `Go: Insert`. Because currently I mostly program in this language. The macro group contains some macros that insert some code I often tend to type in Go that I decided to automate. In my Karabiner, I have binding my `.` key to be a programming language specfic modifier. When in `Go` Karabiner mode, `. + ..` will run various macros from this group. An example macro may to type `log.println()` when I press `. + g` and move my caret between the ().
+This folder only contains one macro group `Go: Insert`. Because currently I mostly program in this language. The macro group contains some macros that insert some code I often tend to type in Go that I decided to automate. In my Karabiner, I have binded my `.` key to be a programming language specfic modifier. When in `Go` Karabiner mode, `. + ..` will run various macros from this group. An example macro may to type `log.println()` when I press `. + g` and move my caret between the ().
 
 ## Palettes
 I really love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes). A KM palette is a macro group that contains some actions inside. You give the palette a hotkey trigger and when you press the hotkey, a palette will show up, like this one:
