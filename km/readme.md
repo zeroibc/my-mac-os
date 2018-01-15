@@ -3,7 +3,12 @@
 - [Explanation](#explanation)
 - [KM Plugins](#km-plugins)
 - [Macros](#macros)
-	- [Global Macros](#global-macros)
+	- [Global Macro groups](#global-macro-groups)
+	- [Application macro groups](#application-macro-groups)
+	- [Programming language macro groups](#programming-language-macro-groups)
+- [Palettes](#palettes)
+	- [Global palettes](#global-palettes)
+	- [Application specific palettes](#application-specific-palettes)
 
 ## Explanation
 One of my favourite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and I describe how I use it in more detail in [my wiki](https://wiki.nikitavoloboev.xyz/macOS/apps/km/km.html).
@@ -45,47 +50,45 @@ Non global macros that are binded to an app will have a hotkey however. One thin
 
 I have binded my control key to A key with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html). My command key is E key and Command + Shift modifier is Q key. So pressing `E` key, holding it and after pressig `F` will trigger `⌘ + F` hotkey. Therefore some bindings will only make sense in context of my own layout. For example `⌃ + W` is easier to reach for me then `⌘ + D`. Because `a + w` is nicer to press then `e + d` on my keyboard. [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html) is one powerful abstraction that makes managing 1000+ macros easy.
 
-### Global Macros
-Glocal macros can be found [here](macros/global).
+### Global Macro groups
+Glocal macro groups can be found [here](macros/global).
 
-It contains few macro groups. The macro groups have a prefix like `g: ` that used to give a theme and context to the macros inside the group. All the macros inside the group start with that prefix. The global groups included are:
-
+The macro groups have a prefix like `g: ` that is used to give a theme and context to the macros inside the group. All the macros inside the group start with that prefix. The global groups included are:
+- `g: General` - All my global macros that have no category.
+- `open: Applications` - Big list of macros that open applications. The cool thing about them is that they will open applications when triggered but if you are already in the application and run the macro it will bring you to last opened app.
+- `w: Open websites (Safari)` - Open websites in Safari browser and switch to the websites if the URL is already open somewhere.
 - `c: Open websites (Chrome)` - Open websites in Chrome browser and switch to the websites if the URL is already open somewhere.
+- `g: Text manipulation` - Small macros that do text manipulation. Like uppercasing selected text or lowercasing it.
 
+### Application macro groups
+Application specific macro groups can be found [here](macros/app).
 
+There are many macro groups inside the folder. These macros will only run in the application as specified by the name of the macro group.
 
+### Programming language macro groups
+Programming language macro groups can be found [here](macros/programming).
 
-- Open and filter websites in safari (credit to [Christopher Stone](https://github.com/ccstone))
-	- One of my most used macros that when activated will open a website that is specified inside `urlToFetch` field.
-	- And it will match all current tabs with name specified in `urlFilterText` field.
-	- This specific macro will open [hckr news](https://hckrnews.com/) and will jump between [news ycombinator open tabs](https://news.ycombinator.com/).
-	- I use it heavily throughout the day.
-	- The example macro I provide is for Hacker News.
-		- You can change it to the website you like.
+This folder only contains one macro group `Go: Insert`. Because currently I mostly program in this language. The macro group contains some macros that insert some code I often tend to type in Go that I decided to automate. In my Karabiner, I have binding my `.` key to be a programming language specfic modifier. When in `Go` Karabiner mode, `. + ..` will run various macros from this group. An example macro may to type `log.println()` when I press `. + g` and move my caret between the ().
 
-<img src="https://i.imgur.com/fAVRcl8.png" width="500" alt="img">
+## Palettes
+I really love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes). A KM palette is a macro group that contains some actions inside. You give the palette a hotkey trigger and when you press the hotkey, a palette will show up, like this one:
 
-- Open and filter websites in chrome (credit to [Christopher Stone](https://github.com/ccstone)).
-	- Same principle as above but for chrome.
-	- Example macro opens localhost:3000 but you can change it to what you like.
+<img src="https://i.imgur.com/b6KB2zM.png" width="400" alt="img">
 
-## Safari Macros
-- Open current url in chrome
-	- Will open your current Safari URL in chrome.
-	- I often use it if I need to use dev tools on the site or if the site has flash content.
-- Safari main actions
-	- One of my most used macros in Safari.
-	- Essentially the trick is that I can set my own site specific hotkeys by using a switch statement on current safari URL content.
-	- This macro for example, when I have a google page with results open, if run, will select the first result instantly.
-	- If I am on duckduckgo page, this same macro will select the first duckduckgo result.
-	- These are just few examples of what you can do.
-		- Essentially you can create your own little actions for any of the websites you visit if you wish (I use ⌃ + e,r,v,b,n,m for site specific hotkeys).
+The letters to the right will then activate the actions inside the palette. Similar to above macro groups, I have many Global palettes that I activate from Karabiner. I binded my `Space` key to be ⇧ + ⌃ + ⌥ modifier. This way I can open various palettes by holding `Space` and pressing different keys on my keyboard.
 
-## KM Palettes
-I also really love [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes) feature and use that a lot. Here are some of the Palettes I have made that you can download and use.
+### Global palettes
+Glocal palettes can be found [here](palettes/global).
 
-## Macro Sets for apps
-Aside from these specific useful macros I link above as well as the palettes. You can also find entire macro sets for apps that I use [here](/macros/macro-sets).
+All the palette groups start with `t: ` prefix which indicates they are Global palettes. `p: ` prefix would be more appropriate but the key is not placed as nicely as `t` on my keyboard and is harder to reach. The macros inside the palette don't start with a prefix.
 
-## App Specific Palettes
-App Specific palettes can be found and downloaded from [here](/palettes/app).
+One of the palettes included in there is `t: KM groups (Palettes)`. This palette when activated looks like this:
+
+![](https://i.imgur.com/z2TWtio.png)
+
+It lists the global palettes I have made. When I activate any of the options, it quickly jumps to this palette group in the KM Editor so I can quickly edit and change it to my will. You can extend the groups to suit your own palettes by simply changing the `macroGroupName` variable in the code of the macros.
+
+### Application specific palettes
+Application specific palettes can be found [here](palettes/app).
+
+These palettes all start with either `tf: ` or `ta: `. The reason is that I have binding `Space + a` and `Space + f` to activate application specific palettes. I thus name the palettes appropriately to distinguish them from my `Global` palettes.
