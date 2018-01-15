@@ -11,7 +11,7 @@
 	- [Application specific palettes](#application-specific-palettes)
 
 ## Explanation
-One of my favourite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and I describe how I use it in more detail in [my wiki](https://wiki.nikitavoloboev.xyz/macOS/apps/km/km.html).
+One of my favourite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/). Keyboard Maestro is essentially an IDE for automation.
 
 It's a wonderful tool that allows you to create very powerful macros that can range from simply pasting some text, to moving the mouse pointer to some location, to doing various calculations with the input you provide and lot lot more.
 
