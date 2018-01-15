@@ -51,7 +51,7 @@ Non global macros that are binded to an app will have a hotkey however. One thin
 I have binded my control key to A key with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html). My command key is E key and Command + Shift modifier is Q key. So pressing `E` key, holding it and after pressig `F` will trigger `⌘ + F` hotkey. Therefore some bindings will only make sense in context of my own layout. For example `⌃ + W` is easier to reach for me then `⌘ + D`. Because `a + w` is nicer to press then `e + d` on my keyboard. [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html) is one powerful abstraction that makes managing 1000+ macros easy.
 
 ### Global Macro groups
-Glocal macro groups can be found [here](macros/global).
+Global macro groups can be found [here](macros/global).
 
 The macro groups have a prefix like `g: ` that is used to give a theme and context to the macros inside the group. All the macros inside the group start with that prefix. The global groups included are:
 - `g: General` - All my global macros that have no category.
@@ -91,4 +91,4 @@ It lists the global palettes I have made. When I activate any of the options, it
 ### Application specific palettes
 Application specific palettes can be found [here](palettes/app).
 
-These palettes all start with either `tf: ` or `ta: `. The reason is that I have binding `Space + a` and `Space + f` to activate application specific palettes. I thus name the palettes appropriately to distinguish them from my `Global` palettes.
+These palettes all start with either `tf: ` or `ta: `. The reason is that I have binded `Space + a` and `Space + f` to activate application specific palettes. I thus name the palettes appropriately to distinguish them from my `Global` palettes.
