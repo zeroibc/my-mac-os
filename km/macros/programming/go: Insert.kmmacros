@@ -345,7 +345,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>go:Insert</string>
+		<string>go: Insert</string>
 		<key>ToggleMacroUID</key>
 		<string>D8DF6EEE-7414-4EE6-AF15-92FB01565018</string>
 		<key>UID</key>
@@ -694,7 +694,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>go:Insert</string>
+		<string>go: Insert</string>
 		<key>ToggleMacroUID</key>
 		<string>D8DF6EEE-7414-4EE6-AF15-92FB01565018</string>
 		<key>UID</key>
@@ -1043,7 +1043,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>go:Insert</string>
+		<string>go: Insert</string>
 		<key>ToggleMacroUID</key>
 		<string>D8DF6EEE-7414-4EE6-AF15-92FB01565018</string>
 		<key>UID</key>
@@ -1392,7 +1392,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>go:Insert</string>
+		<string>go: Insert</string>
 		<key>ToggleMacroUID</key>
 		<string>D8DF6EEE-7414-4EE6-AF15-92FB01565018</string>
 		<key>UID</key>
@@ -1741,7 +1741,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>go:Insert</string>
+		<string>go: Insert</string>
 		<key>ToggleMacroUID</key>
 		<string>D8DF6EEE-7414-4EE6-AF15-92FB01565018</string>
 		<key>UID</key>

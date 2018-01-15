@@ -414,7 +414,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -906,7 +906,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -1398,7 +1398,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -1890,7 +1890,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -2581,7 +2581,7 @@ end if
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -2998,7 +2998,7 @@ end if
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -3415,7 +3415,7 @@ end if
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -3843,7 +3843,7 @@ end if
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -4245,7 +4245,7 @@ end if
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -5075,7 +5075,7 @@ git clone $(pbpaste)</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -5546,7 +5546,7 @@ osascript -e 'tell application "Keyboard Maestro Engine" to setvariable "MYPATH"
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -6012,7 +6012,7 @@ osascript -e 'tell application "Keyboard Maestro Engine" to setvariable "MYPATH"
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -6440,7 +6440,7 @@ osascript -e 'tell application "Keyboard Maestro Engine" to setvariable "MYPATH"
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -6871,7 +6871,7 @@ git push</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -7354,7 +7354,7 @@ git push</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -7785,7 +7785,7 @@ git push</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -8223,7 +8223,7 @@ git push</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -8675,7 +8675,7 @@ git push</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -9349,7 +9349,7 @@ if let currentBrowser = LSCopyDefaultHandlerForURLScheme(URLScheme) {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -9767,7 +9767,7 @@ if let currentBrowser = LSCopyDefaultHandlerForURLScheme(URLScheme) {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -10225,7 +10225,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -10697,7 +10697,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -11119,7 +11119,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -11541,7 +11541,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -11963,7 +11963,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -12459,7 +12459,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -12893,7 +12893,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -13635,7 +13635,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -14393,7 +14393,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -14811,7 +14811,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -15290,7 +15290,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -16101,7 +16101,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -16553,7 +16553,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -16957,7 +16957,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -17361,7 +17361,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -17829,7 +17829,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -18267,7 +18267,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -18669,7 +18669,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -19093,7 +19093,7 @@ end timeout
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -20015,7 +20015,7 @@ tell application "Keyboard Maestro Engine"	set MacroToEdit to getvariable "Loca
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -20433,7 +20433,7 @@ tell application "Keyboard Maestro Engine"	set MacroToEdit to getvariable "Loca
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -20989,7 +20989,7 @@ tell application "Keyboard Maestro Engine"	set MacroToEdit to getvariable "Loca
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -21417,7 +21417,7 @@ tell application "Keyboard Maestro Engine"	set MacroToEdit to getvariable "Loca
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -21862,7 +21862,7 @@ function run() {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -22293,7 +22293,7 @@ function run() {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -22724,7 +22724,7 @@ function run() {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -23155,7 +23155,7 @@ function run() {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -23597,7 +23597,7 @@ function run() {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -25245,7 +25245,7 @@ function run() {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -25676,7 +25676,7 @@ function run() {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -26124,7 +26124,7 @@ done</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -26535,7 +26535,7 @@ done</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -26969,7 +26969,7 @@ done</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -27416,7 +27416,7 @@ end timeout</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -27855,7 +27855,7 @@ end timeout</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -28273,7 +28273,7 @@ end timeout</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -28746,7 +28746,7 @@ end timeout</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -29166,7 +29166,7 @@ end timeout</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -29659,7 +29659,7 @@ end timeout</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -30540,7 +30540,7 @@ LINE #%LineNo%
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -31055,7 +31055,7 @@ LINE #%LineNo%
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -31533,7 +31533,7 @@ LINE #%LineNo%
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -31965,7 +31965,7 @@ LINE #%LineNo%
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -32473,7 +32473,7 @@ LINE #%LineNo%
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -32916,7 +32916,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -33367,7 +33367,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -33820,7 +33820,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -34307,7 +34307,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -34729,7 +34729,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -35182,7 +35182,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -35663,7 +35663,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -36116,7 +36116,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -36641,7 +36641,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -37082,7 +37082,7 @@ open -g 'bitbar://refreshPlugin?name=todo'</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -37505,7 +37505,7 @@ echo -n "black" | nc -4u -w0 localhost 1739</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -37941,7 +37941,7 @@ echo -n "black" | nc -4u -w0 localhost 1739</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -38377,7 +38377,7 @@ echo -n "black" | nc -4u -w0 localhost 1739</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -38781,7 +38781,7 @@ echo -n "black" | nc -4u -w0 localhost 1739</string>
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -40904,7 +40904,7 @@ Converter
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -41990,7 +41990,7 @@ if date != nil &amp;&amp; date &lt; 9.99E+11 &amp;&amp; date &gt; 9.99E+7 {
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -42490,7 +42490,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -42892,7 +42892,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -43405,7 +43405,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -43918,7 +43918,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -44431,7 +44431,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -44944,7 +44944,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -45457,7 +45457,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -45970,7 +45970,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -46401,7 +46401,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -46985,7 +46985,7 @@ end writeString:toPath:
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -47405,7 +47405,7 @@ end writeString:toPath:
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -48025,7 +48025,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -48448,7 +48448,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -48950,7 +48950,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -49474,7 +49474,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -50028,7 +50028,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -50615,7 +50615,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -51038,7 +51038,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -51500,7 +51500,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -51943,7 +51943,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
@@ -52386,7 +52386,7 @@ print $_;
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>g:General</string>
+		<string>g: General</string>
 		<key>ToggleMacroUID</key>
 		<string>3BDC7BC4-10FB-4D0A-8587-86B2BD5CEC06</string>
 		<key>UID</key>
