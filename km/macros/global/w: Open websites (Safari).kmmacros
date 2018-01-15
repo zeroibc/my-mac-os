@@ -513,7 +513,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -1030,7 +1030,7 @@
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -1593,7 +1593,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -2169,7 +2169,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -2732,7 +2732,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -3295,7 +3295,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -3858,7 +3858,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -4375,7 +4375,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -4938,7 +4938,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -5514,7 +5514,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -6090,7 +6090,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -6653,7 +6653,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -7216,7 +7216,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -7792,7 +7792,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -8355,7 +8355,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -8958,7 +8958,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -9475,7 +9475,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -10110,7 +10110,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -10673,7 +10673,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -11236,7 +11236,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -11871,7 +11871,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -12447,7 +12447,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -12964,7 +12964,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -13540,7 +13540,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -14116,7 +14116,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -14679,7 +14679,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -15243,7 +15243,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -15819,7 +15819,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -16422,7 +16422,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -16985,7 +16985,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -17548,7 +17548,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -18124,7 +18124,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -18759,7 +18759,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -19335,7 +19335,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -19911,7 +19911,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -20546,7 +20546,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -21122,7 +21122,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -21698,7 +21698,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -22215,7 +22215,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -22850,7 +22850,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -23485,7 +23485,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -24119,7 +24119,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -24754,7 +24754,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -25330,7 +25330,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -25906,7 +25906,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -26658,7 +26658,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -27234,7 +27234,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -27869,7 +27869,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -28445,7 +28445,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -29021,7 +29021,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -29584,7 +29584,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -30160,7 +30160,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -30677,7 +30677,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -31194,7 +31194,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -31770,7 +31770,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -32346,7 +32346,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -32922,7 +32922,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -33439,7 +33439,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -34126,7 +34126,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -34702,7 +34702,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -35278,7 +35278,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -35854,7 +35854,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -36417,7 +36417,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -36980,7 +36980,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -37615,7 +37615,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -38191,7 +38191,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -38767,7 +38767,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -39343,7 +39343,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -39978,7 +39978,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -40554,7 +40554,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -41130,7 +41130,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -41706,7 +41706,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -42282,7 +42282,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -42845,7 +42845,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -43408,7 +43408,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -43984,7 +43984,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -44501,7 +44501,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -45077,7 +45077,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -45653,7 +45653,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
@@ -46216,7 +46216,7 @@ end getListItemOffset
 			</dict>
 		</array>
 		<key>Name</key>
-		<string>w: Open websites</string>
+		<string>w: Open websites (Safari)</string>
 		<key>ToggleMacroUID</key>
 		<string>8CC64A22-3A63-407C-8A51-AABE51348C61</string>
 		<key>UID</key>
