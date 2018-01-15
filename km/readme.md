@@ -73,7 +73,7 @@ This folder only contains one macro group `Go: Insert`. Because currently I most
 ## Palettes
 I really love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes). A KM palette is a macro group that contains some actions inside. You give the palette a hotkey trigger and when you press the hotkey, a palette will show up, like this one:
 
-<img src="https://i.imgur.com/b6KB2zM.png" width="400" alt="img">
+![](https://i.imgur.com/b6KB2zM.png)
 
 The letters to the right will then activate the actions inside the palette. Similar to above macro groups, I have many Global palettes that I activate from Karabiner. I binded my `Space` key to be ⇧ + ⌃ + ⌥ modifier. This way I can open various palettes by holding `Space` and pressing different keys on my keyboard.
 
