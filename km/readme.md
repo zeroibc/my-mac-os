@@ -78,7 +78,7 @@ I really love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palett
 The letters to the right will then activate the actions inside the palette. Similar to above macro groups, I have many Global palettes that I activate from Karabiner. I binded my `Space` key to be ⇧ + ⌃ + ⌥ modifier. This way I can open various palettes by holding `Space` and pressing different keys on my keyboard.
 
 ### Global palettes
-Glocal palettes can be found [here](palettes/global).
+Global palettes can be found [here](palettes/global).
 
 All the palette groups start with `t: ` prefix which indicates they are Global palettes. `p: ` prefix would be more appropriate but the key is not placed as nicely as `t` on my keyboard and is harder to reach. The macros inside the palette don't start with a prefix.
 
