@@ -57,7 +57,7 @@ The macro groups have a prefix like `g: ` that is used to give a theme and conte
 - `g: General` - All my global macros that have no category.
 - `open: Applications` - Big list of macros that open applications. The cool thing about them is that they will open applications when triggered but if you are already in the application and run the macro it will bring you to last opened app.
 - `w: Open websites (Safari)` - Open websites in Safari browser and switch to the websites if the URL is already open somewhere. (Credit to [Christopher Stone](https://github.com/ccstone))
-- `c: Open websites (Chrome)` - Open websites in Chrome browser and switch to the websites if the URL is already open somewhere. (Credit to [Christopher Stone](https://github.com/ccstone)
+- `c: Open websites (Chrome)` - Open websites in Chrome browser and switch to the websites if the URL is already open somewhere. (Credit to [Christopher Stone](https://github.com/ccstone))
 - `g: Text manipulation` - Small macros that do text manipulation. Like uppercasing selected text or lowercasing it.
 
 ### Application macro groups
