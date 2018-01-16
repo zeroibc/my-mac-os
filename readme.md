@@ -116,7 +116,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I always wanted to organise the mess that my media files were, moving all of my photographs, gifs that I have saved over the years to one place that is easily searchable and is again just a joy to use was very valuable for me.
 - Probably the best application there exists for storing and organising all of your photographic media content.
 - I write about the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Pixave.html) and I share most of my library on [Imgur](http://nikivii.imgur.com/) and [Instagram](https://www.instagram.com/niikivi). Here is how my library looks like:
-<img src="https://i.imgur.com/m7mSkMp.jpg" width="500" alt="img">
+<img src="https://i.imgur.com/MjGFvSb.jpg" width="500" alt="img">
 
 ### 16. [BetterTouchTool](https://www.boastr.net/)
 - Another amazing application that I use to create [custom trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze).
