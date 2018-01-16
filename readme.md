@@ -20,7 +20,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 1. [Alfred](https://www.alfredapp.com/)
 - This is by far my favourite application that I have. It saved me a lot of time in my life.
-<img src="https://i.imgur.com/OumIZXF.png" width="500" alt="img">
+<img src="https://i.imgur.com/OumIZXF.png" width="600" alt="img">
 
 - It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows) that you can use.
 - I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
