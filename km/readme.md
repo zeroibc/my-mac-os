@@ -25,7 +25,7 @@ All global macros will have no trigger as they are called with Applescript from 
 
 A lot of these macros were made with great help from the [Keyboard Maestro forum community](https://forum.keyboardmaestro.com/latest).
 
-Just to emphasize how much KM has impacted my life. My most used macro from all thse macros I share is macro to open Safari browser which I've ran [some 117,091 times](https://i.imgur.com/09KfToP.png) since I made it.
+Just to emphasize how much KM has impacted my life. My most used macro from all these macros I share is macro to open Safari browser which I've ran [some 117,091 times](https://i.imgur.com/09KfToP.png) since I made it.
 
 I also really love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro) workflow that lets me search through my entire KM library of actions to activate.
 
