@@ -20,10 +20,9 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 1. [Alfred](https://www.alfredapp.com/)
 - This is by far my favourite application that I have. It saved me a lot of time in my life.
-<img src="https://i.imgur.com/L2Y0o44.png" width="500" alt="img">
+<img src="https://i.imgur.com/OumIZXF.png" width="500" alt="img">
 
-- It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://www.alfredapp.com/workflows/) that you can use.
-- I have attached the ones I use the most to [this repo](https://github.com/learn-anything/alfred-workflows). Feel free to use any that you like.
+- It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows) that you can use.
 - I also [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
@@ -38,10 +37,9 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
 - I share all the macros I use with the app [here](km).
 
-### 4. [VS Code](https://github.com/Microsoft/vscode)
-- My favourite editor that I use to write code in.
-- Most notably I really like its [vim plugin](https://github.com/VSCodeVim/Vim).
-	- My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
+### 4. [VS Code](https://github.cGoom/Microsoft/vscode)
+- My favourite editor that I use to write code in. Most notably I really like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
+- My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I also really love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme. Here is how it looks:
 
 <img src="https://i.imgur.com/MNf9rMQ.png" width="500" alt="img">
@@ -62,23 +60,23 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Together with lists, priorities, powerful search and a lot more.
 
 ### 7. [MindNode](https://mindnode.com)
-- An application which allowed me to create all of the mind maps for [Learn Anything](https://learn-anything.xyz/).
+- An application which allowed me to create all of the maps for [Learn Anything](https://learn-anything.xyz/).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
 - It is an incredible joy to make mind maps in this app and I use it to visualize everything.
 	- [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
-- I also try to completely bridge the gap between [my mind maps](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3) and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind).
+- I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind).
 - I wrote more about how I use this app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Mindnode.html).
 
 ### 8. [Dash](https://kapeli.com/dash)
 - Very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
-- I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Dash.alfredworkflow?raw=true) I made to quickly switch between Dash profiles.
+- I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch) I made to quickly switch between Dash profiles.
 
 ### 9. [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - A very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, retrieving the snippets that you need it staggeringly fast.
-<img src="https://i.imgur.com/otqc4pO.png" width="500" alt="img">
+<img src="https://i.imgur.com/Js74VmA.png" width="500" alt="img">
 
 - I share my entire library of snippets you can import yourself [here](./snippetslab).
 - I use it as my [own personal programmer's notepad](https://wiki.nikitavoloboev.xyz/macOS/apps/SnippetsLab.html) with code and lots and lots of comments.
@@ -107,7 +105,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
 - Freedom of structure, great themes and export to markdown / PDF.
-- I use it to manage writing and managing my [personal wiki](https://wiki.nikitavoloboev.xyz) as well as writing [my Medium artciles](https://medium.com/@NikitaVoloboev) that I can then publish in one click from Ulysses.
+- I use it to manage writing and managing my [personal wiki](https://wiki.nikitavoloboev.xyz) as well as writing my [Medium artciles](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) that I can then publish in one click from Ulysses.
 - I write a bit more about how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Ulysses.html).
 
 ### 14. [Typinator](http://www.ergonis.com/products/typinator/)
@@ -117,18 +115,17 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 15. [Pixave](http://www.littlehj.com/)
 - I always wanted to organise the mess that my media files were, moving all of my photographs, gifs that I have saved over the years to one place that is easily searchable and is again just a joy to use was very valuable for me.
 - Probably the best application there exists for storing and organising all of your photographic media content.
-- I write about the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Pixave.html) and here is how my library looks like:
-<img src="https://i.imgur.com/PHNdc3s.jpg" width="500" alt="img">
+- I write about the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Pixave.html) and I share most of my library on [Imgur](http://nikivii.imgur.com/) and [Instagram](https://www.instagram.com/niikivi). Here is how my library looks like:
+<img src="https://i.imgur.com/m7mSkMp.jpg" width="500" alt="img">
 
 ### 16. [BetterTouchTool](https://www.boastr.net/)
-- Another amazing application that allows me to quickly map and remap any hotkeys that I use both globally and app specific.
-- What more it allows me to also customise [my trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to do any actions that I want, this is very powerful.
+- Another amazing application that I use to create [custom trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze).
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
-- [Here](./btt) are all the different gestures I have setup to use with the app.
+- [Here](./btt) are all the different gestures I have setup to use with the app that you can view and download.
 
 ### 17. [PDF Expert](https://pdfexpert.com/)
 - I read a lot of PDFs like books, uni assignments and the like.
-- This app is a huge upgrade over [Preview](http://www.wikiwand.com/en/Preview_(Mac_OS)) app that I used before.
+- This app is a huge upgrade over Preview app that I used before.
 - Multiple tabs, sepia mode, very nice annotation tools, great search, performance.
 
 ### 18. [Airmail](http://airmailapp.com/)
@@ -169,6 +166,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 24. [Textual](https://www.codeux.com/textual/)
 - Recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC.
+- I created my own Night Blue theme based on Telegram that you can view and download [here](textual).
 - It also has an awesome channel search feature that I use a lot.
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
 
@@ -254,7 +252,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Find it to be quite a slow application, given the fact that it is essentially a chrome web application wrapped up with [electron](http://electron.atom.io), it is not much surprise but still it does have some really great features for working and communicating within a team.
 
 #### 49. [Telegram](https://desktop.telegram.org/)
-- Really dislike [whatsapp](https://www.whatsapp.com) and I quite like Telegram.
+- Really dislike Whatsapp and I quite like Telegram.
 - It has a very clean interface, a native client for macOS and stickers, privacy is questionable as data is still being sent through Telegram servers but it is still a great chat application).
 
 #### 50. [Anki](http://ankisrs.net)
