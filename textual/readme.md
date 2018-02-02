@@ -4,8 +4,9 @@ I usually split [Textual](https://www.codeux.com) and [Telegram](https://telegra
 I changed [TotalSublime](https://github.com/danieldbird/total-sublime) theme colours to match the Night Blue look of Telegram.
 
 Here is how it looks side by side:
-
 ![](https://i.imgur.com/2tA8CJR.png)
+
+I am using `Lucida Sans` font.
 
 ## Install
 To install the theme, download the Night Blue folder attached [here](Night%20blue).
