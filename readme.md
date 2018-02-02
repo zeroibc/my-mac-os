@@ -26,7 +26,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
-- One of the applications I cannot live without, allows me to bind any key that I want. I go over how I use the app in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/Karabiner.html).
+- One of the applications I cannot live without, allows me to bind any key that I want. I go over how I use the app in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 - Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need.
 - I map all the custom keybindings I made as a mind map [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#960.8,-2229.5,2). Below is a small glimpse of that map.
 
@@ -66,7 +66,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - It is an incredible joy to make mind maps in this app and I use it to visualize everything.
 	- [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 - I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind).
-- I wrote more about how I use this app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Mindnode.html).
+- I wrote more about how I use this app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/mindnode.html).
 
 ### 8. [Dash](https://kapeli.com/dash)
 - Very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
@@ -79,7 +79,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="https://i.imgur.com/Js74VmA.png" width="500" alt="img">
 
 - I share my entire library of snippets you can import yourself [here](./snippetslab).
-- I use it as my [own personal programmer's notepad](https://wiki.nikitavoloboev.xyz/macOS/apps/SnippetsLab.html) with code and lots and lots of comments.
+- I use it as my [own personal programmer's notepad](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html) with code and lots and lots of comments.
 <img src="https://i.imgur.com/cDmCSyE.png" width="500" alt="img">
 
 ### 10. [1Password](https://1password.com)
@@ -106,16 +106,16 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 - Freedom of structure, great themes and export to markdown / PDF.
 - I use it to manage writing and managing my [personal wiki](https://wiki.nikitavoloboev.xyz) as well as writing my [Medium artciles](https://wiki.nikitavoloboev.xyz/sharing/my-articles.html) that I can then publish in one click from Ulysses.
-- I write a bit more about how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Ulysses.html).
+- I write a bit more about how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/ulysses.html).
 
 ### 14. [Typinator](http://www.ergonis.com/products/typinator/)
 - I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
-- I share the Typinator sets I made with the app [here](./typinator) and describe the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Typinator.html).
+- I share the Typinator sets I made with the app [here](./typinator) and describe the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/typinator.html).
 
 ### 15. [Pixave](http://www.littlehj.com/)
 - I always wanted to organise the mess that my media files were, moving all of my photographs, gifs that I have saved over the years to one place that is easily searchable and is again just a joy to use was very valuable for me.
 - Probably the best application there exists for storing and organising all of your photographic media content.
-- I write about the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Pixave.html) and I share most of my library on [Imgur](http://nikivii.imgur.com/) and [Instagram](https://www.instagram.com/niikivi). Here is how my library looks like:
+- I write about the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/pixave.html) and I share most of my library on [Imgur](http://nikivii.imgur.com/) and [Instagram](https://www.instagram.com/niikivi). Here is how my library looks like:
 <img src="https://i.imgur.com/MjGFvSb.jpg" width="500" alt="img">
 
 ### 16. [BetterTouchTool](https://www.boastr.net/)
@@ -140,7 +140,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Just a straight up best application there is for organising and creating events in your life.
 - Global quick add with a hotkey, natural language input and its great design is what made me switch from an already great Calendar app which comes natively with macOS.
 	- I also added some of my own [text expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to help with natural text input.
-- I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/Fantastical.html).
+- I wrote more on how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical.html).
 
 ### 20. [Contexts](https://contexts.co)
 - Allows me to fuzzy search through all the currenly active windows that I have.
