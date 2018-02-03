@@ -28,7 +28,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
 - One of the applications I cannot live without, allows me to bind any key that I want. I go over how I use the app in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 - Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need.
-- I map all the custom keybindings I made as a [mind map](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#960.8,-2229.5,2). Below is a small glimpse of that map.
+- I map all the custom keybindings I made as a [mind map](https://my.mindnode.com/mR7ds52Ls21umnbD27SfCD4SmwwrvxxGwvSyy7yW#603.1,-2191.4,3). Below is a small glimpse of that map.
 
 <img src="https://i.imgur.com/CyTXfKk.png" width="600" alt="img">
 
