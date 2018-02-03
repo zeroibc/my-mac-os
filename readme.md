@@ -1,9 +1,9 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 
-<img src="https://i.imgur.com/m47NqpQ.jpg" width="600" alt="img">
+<img src="https://i.imgur.com/oeOFeY6.jpg" width="600" alt="img">
 
-> [Wallpaper link](https://fotoz.com/wp-content/uploads/2016/10/photo-1414073246499-c5edeb261baa.jpeg)
+> [Wallpaper link](https://orig00.deviantart.net/4cc8/f/2016/342/d/d/7_p_m__by_aenami-dar0gav.png)
 
 ## Contents
 - [Applications](#applications)
@@ -364,11 +364,11 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 ## Desktop Screenshot
 > Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
-![](https://i.imgur.com/rAWcaOV.jpg)
+![](https://i.imgur.com/1X3soFt.jpg)
 
 ## Launchpad
 
-![](https://i.imgur.com/DQ8fqqQ.jpg)
+![](https://i.imgur.com/8Wd8vyw.png)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
