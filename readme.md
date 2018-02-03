@@ -28,21 +28,21 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
 - One of the applications I cannot live without, allows me to bind any key that I want. I go over how I use the app in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 - Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need.
-- I map all the custom keybindings I made as a mind map [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#960.8,-2229.5,2). Below is a small glimpse of that map.
+- I map all the custom keybindings I made as a [mind map](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#960.8,-2229.5,2). Below is a small glimpse of that map.
 
 <img src="https://i.imgur.com/CyTXfKk.png" width="600" alt="img">
 
 ### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I share all the macros I use with the app [here](km).
+- I [share all the macros I use with the app](km).
 
 ### 4. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in. Most notably I really like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
-- I also really love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme. Here is how it looks:
+- I also really love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with Fira Code font. Here is how it looks:
 
-<img src="https://i.imgur.com/MNf9rMQ.png" width="500" alt="img">
+<img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/)
 - I [moved completely to using the command line](/Users/nikivi/src/github/nikitavoloboev/personal/knowledge/macOS/apps/iterm.md) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want.
@@ -51,7 +51,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
 
 ### 6. [2Do](http://www.2doapp.com/mac)
-- I love [GTD methodology](http://gettingthingsdone.com/fivesteps/), this application is phenomenal with helping me organise my tasks and things I want to do and achieve.
+- I love GTD methodology, this application is phenomenal with [helping me organise my tasks and things I want to do and achieve](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
 <img src="https://i.imgur.com/0BQF2a1.png" width="150">
 
 - And it has global quick add with a hotkey.
@@ -78,7 +78,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - A very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, retrieving the snippets that you need it staggeringly fast.
 <img src="https://i.imgur.com/Js74VmA.png" width="500" alt="img">
 
-- I share my entire library of snippets you can import yourself [here](./snippetslab).
+- I share my entire library of snippets you can import yourself [here](snippetslab).
 - I use it as my [own personal programmer's notepad](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html) with code and lots and lots of comments.
 <img src="https://i.imgur.com/cDmCSyE.png" width="500" alt="img">
 
