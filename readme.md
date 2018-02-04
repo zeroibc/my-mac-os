@@ -45,7 +45,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/)
-- I [moved completely to using the command line](/Users/nikivi/src/github/nikitavoloboev/personal/knowledge/macOS/apps/iterm.md) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want.
+- I [moved completely to using the command line](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want.
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use.
 - I also really love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
