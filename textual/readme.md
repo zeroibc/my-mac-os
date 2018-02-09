@@ -3,7 +3,7 @@ I love IRC and hanging out in various Freenode channels. I also really love [ayu
 
 I wasn't happy with any of the default themes Textual comes with so I made this theme. Here is how it looks:
 
-![](https://i.imgur.com/5SglNCi.png)
+<img src="https://i.imgur.com/5SglNCi.png" width="600" alt="img">
 
 It is essentially modfied [TotalSublime](https://github.com/danieldbird/total-sublime) theme. I only changed the colours to match the look of Ayu theme.
 
