@@ -16,7 +16,7 @@
 - [Contributing](#contributing)
 
 ## Applications
-I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share my dotfiles [here](https://github.com/nikitavoloboev/dotfiles).
+I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles).
 
 ### 1. [Alfred](https://www.alfredapp.com/)
 - This is by far my favourite application that I have. It saved me a lot of time in my life.
@@ -388,11 +388,11 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
 
 ## Contributing
-[Suggestions](https://github.com/nikitavoloboev/my-mac-os/issues) and pull requests are highly encouraged!
+[Suggestions](../../issues/) and pull requests are highly encouraged!
 
 If you shared a similiar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
 
-I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](https://github.com/nikitavoloboev/my-mac-os/issues/new).
+I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](../../issues/new).
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
