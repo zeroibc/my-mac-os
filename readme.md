@@ -166,8 +166,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 24. [Textual](https://www.codeux.com/textual/)
 - Recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC.
-- I created my own Night Blue theme based on Telegram that you can view and download [here](textual).
-- It also has an awesome channel search feature that I use a lot.
+- I created [my own custom Ayu theme](textual) that I really love.
+- The app also has an awesome channel search feature that I use a lot.
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
 
 #### 25. [Focus](https://heyfocus.com)
