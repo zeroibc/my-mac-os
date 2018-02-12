@@ -5,7 +5,6 @@
 
 > [Wallpaper link](https://orig00.deviantart.net/4cc8/f/2016/342/d/d/7_p_m__by_aenami-dar0gav.png)
 
-## Contents
 - [Applications](#applications)
 - [Browser](#browser)
 - [Command Line Apps](#command-line-apps)
