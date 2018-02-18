@@ -1,5 +1,4 @@
 # Keyboard Maestro Macros I use
-## Contents
 - [Explanation](#explanation)
 - [KM Plugins](#km-plugins)
 - [Macros](#macros)
