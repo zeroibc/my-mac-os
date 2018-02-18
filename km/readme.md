@@ -8,6 +8,7 @@
 - [Palettes](#palettes)
 	- [Global palettes](#global-palettes)
 	- [Application specific palettes](#application-specific-palettes)
+- [Downloading macros individually](#downloading-macros-individually)
 
 ## Explanation
 One of my favourite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/). This app is essentially an IDE for automation.
