@@ -18,3 +18,4 @@ The Sets can be found in [this folder](./sets) and here is their explanation. I 
 10. KM - Quickly type and complete Keyboard Maestro variables.
 11. HTML - Common HTML snippets.
 
+![](https://i.imgur.com/CmV80fD.png)
