@@ -27,10 +27,10 @@ A lot of these macros were made with great help from the [Keyboard Maestro forum
 
 Just to emphasize how much KM has impacted my life. My most used macro from all these macros I share is macro to open Safari browser which I've ran [some 117,091 times](https://i.imgur.com/09KfToP.png) since I made it.
 
-I also really love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro) workflow that lets me search through my entire KM library of actions to activate.
+I also love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro) workflow that lets me search through my entire KM library of actions to activate.
 
 ## KM Plugins
-It is advised you install these KM plugins as they really make using KM editor more pleasant.
+It is advised you install these KM plugins as they make using KM editor more pleasant.
 - [KMFAM - Favourite actions and macros](https://forum.keyboardmaestro.com/t/macro-kmfam-favorite-actions-and-macros/4854) - This plugin lets you save complex and non complex actions and macros. You can then search over these actions and macros to quickly add them.
 
 ## Macros
@@ -71,7 +71,7 @@ Programming language macro groups can be found [here](macros/programming).
 This folder only contains one macro group `Go: Insert`. Because currently I mostly program in this language. The macro group contains some macros that insert some code I often tend to type in Go that I decided to automate. In my Karabiner, I have binded my `.` key to be a programming language specfic modifier. When in `Go` Karabiner mode, `. + ..` will run various macros from this group. An example macro may type `log.println()` when I press `. + g` and move my caret between the ().
 
 ## Palettes
-I really love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes). A KM palette is a macro group that contains some actions inside. You give the palette a hotkey trigger and when you press the hotkey, a palette will show up, like this one:
+I love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes). A KM palette is a macro group that contains some actions inside. You give the palette a hotkey trigger and when you press the hotkey, a palette will show up, like this one:
 
 ![](https://i.imgur.com/b6KB2zM.png)
 
