@@ -21,7 +21,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - This is by far my favourite application that I have. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
-- It has a really great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows) that you can use.
+- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows) that you can use.
 - I [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
@@ -34,16 +34,16 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I [share all the macros I use with the app](km).
 
 ### 4. [VS Code](https://github.com/Microsoft/vscode)
-- My favourite editor that I use to write code in. Most notably I really like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
+- My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
-- I also really love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
+- I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/)
 - I [moved completely to using the command line](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want.
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use.
-- I also really love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
+- I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
 
 ### 6. [2Do](http://www.2doapp.com/mac)
@@ -92,8 +92,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="http://i.imgur.com/V82Em5D.png" width="300" alt="img">
 
 - As well as [many other small little tidbits of text](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html) with thoughts, plans and experiences that I have had.
-- It also has really awesome integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all my tweets and Insgragram posts.
-- If you don't journal, I really suggest you to start, it really is a very powerful mind cleanser and acts as a wonderful history record of your life.
+- It also has awesome integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all my tweets and Insgragram posts.
+- If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
 ### 13. [Ulysses](http://www.ulyssesapp.com/)
 - All your writing in one place is the motto and the underlying design of the app.
@@ -125,7 +125,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Multiple tabs, sepia mode, very nice annotation tools, great search, performance.
 
 ### 18. [Airmail](http://airmailapp.com/)
-- By far the most well designed and feature rich mail application that I have used so far, really love all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
+- By far the most well designed and feature rich mail application that I have used so far, all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
 
 ### 19. [Spotify](https://www.spotify.com/us/)
 - Found a [lot of great music](https://wiki.nikitavoloboev.xyz/music/music-plays.html) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
@@ -150,31 +150,31 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="http://i.imgur.com/BPOmjkZ.png" width="400" alt="img">
 
 ### 22. [Bartender](https://www.macbartender.com/)
-- A great utility app that allows you to customise and hide the contents of your menu bar, really does improve the aesthetics of your OS but also is quite beneficial for me as I customised it to have the most important information that I need to show in it.
+- A great utility app that allows you to customise and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customised it to have the most important information that I need to show in it.
 <img src="http://i.imgur.com/2SEANOJ.png" width="500" alt="img">
 
 - I can then activate Bartender and start searching for the menu bar item I need all from the keyboard.
 
 ### 23. [Ship](https://www.realartists.com/index.html)
-- A really awesome native app that lets me manage my GitHub issues.
+- An awesome native app that lets me manage my GitHub issues.
 - Can schedule certain issues as 'Up Next' and complete them one by one.
 <img src="https://i.imgur.com/OhfqPTu.png" width="500" alt="img">
 
 ### 24. [Textual](https://www.codeux.com/textual/)
-- Recently started to grow a big liking of various cool IRC channels that exist out there, this app is a really wonderful client for all things IRC.
-- I created [my own custom Ayu theme](textual) that I really love.
+- Recently started to grow a big liking of various cool IRC channels that exist out there, this app is a wonderful client for all things IRC.
+- I created [my own custom Ayu theme](textual) that I love.
 - The app also has an awesome channel search feature that I use a lot.
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
 
 #### 25. [Focus](https://heyfocus.com)
-- I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121). Really does make a difference and helps me focus on what I need to be working on.
+- I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121). Makes a huge difference and helps me focus on what I need to be working on.
 <img src="http://i.imgur.com/cnVvp3m.png" width="500" alt="img">
 
 #### 26. [Tweetbot](http://tapbots.com/tweetbot/mac/)
 - Twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app.
 
 #### 27. [YNAB](https://www.youneedabudget.com/)
-- Use it to track and overview all of my finances, the most important part of this app is the [ideology](http://classic.youneedabudget.com/method) behind it. The whole app is built around this methodology and I really recommend you take a look at it even if you are not planning to use the app, I find it really freeing and powerful.
+- Use it to track and overview all of my finances, the most important part of this app is the [ideology](http://classic.youneedabudget.com/method) behind it. The whole app is built around this methodology and I recommend you take a look at it even if you are not planning to use the app, I find it very freeing and powerful.
 
 #### 28. [Reeder](http://reederapp.com/mac/)
 - Wasn't a big user of RSS but with me finding a lot of great blogs out there, I needed a place to keep myself updated on the great content that they will be posting.
@@ -223,7 +223,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - A great little utility to find duplicate files in the system. Didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk.
 
 #### 42. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12)
-- A really great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week.
+- A great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week.
 <img src="https://i.imgur.com/8sXe5aK.png" width="300" alt="img">
 
 #### 43. [iStat Menus](https://bjango.com/mac/istatmenus/)
@@ -241,18 +241,18 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - This is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data.
 
 #### 47. [Texpad](https://www.texpadapp.com/osx)
-- Had to write some LaTeX files for some of my university assignments and in search of a great editor for writing LaTeX I found this and have really enjoyed using it for that task.
+- Had to write some LaTeX files for some of my university assignments and in search of a great editor for writing LaTeX I found this and have enjoyed using it for that task.
 - Has phenomenal suggestions, a great UI interface and live previewing the LaTeX code that you write.).
 
 #### 48. [Slack](https://slack.com)
-- Find it to be quite a slow application, given the fact that it is essentially a chrome web application wrapped up with [electron](http://electron.atom.io), it is not much surprise but still it does have some really great features for working and communicating within a team.
+- Find it to be quite a slow application, given the fact that it is essentially a chrome web application wrapped up with [electron](http://electron.atom.io), it is not much surprise but still it does have some great features for working and communicating within a team.
 
 #### 49. [Telegram](https://desktop.telegram.org/)
-- Really dislike Whatsapp and I quite like Telegram.
+- Dislike Whatsapp and I quite like Telegram.
 - It has a very clean interface, a native client for macOS and stickers, privacy is questionable as data is still being sent through Telegram servers but it is still a great chat application).
 
 #### 50. [Anki](http://ankisrs.net)
-- Still not fully utilising the full power of [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) but it was one of my goals this year to really start to use this to my advantage. Essentially all this software does is provide you the means to write your own digital flashcards that you can then test yourself on. It also has a lot of [amazing addons](https://ankiweb.net/shared/addons/) that you can get to add more functionality to the app.
+- Still not fully utilising the full power of [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) but it was one of my goals this year to start to use this to my advantage. Essentially all this software does is provide you the means to write your own digital flashcards that you can then test yourself on. It also has a lot of [amazing addons](https://ankiweb.net/shared/addons/) that you can get to add more functionality to the app.
 
 #### 51. [ImageOptim](https://imageoptim.com/mac)
 - Quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog.
@@ -267,17 +267,17 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Rain, whale noises, coffee shop noises right from my menu bar, when I am tired of listening to music and just want to focus.
 
 #### 55. [Sip](https://sipapp.io/)
-- A really great colour picker that is quite often getting updated.
+- A great colour picker that is quite often getting updated.
 
 #### 56. [Paw](https://paw.cloud)
-- A really great tool for working with API's, only recently started to use it but the features it has are really handy and the design is intuitive and great.
+- A great tool for working with API's, only recently started to use it but the features it has are handy and the design is intuitive and great.
 
 #### 58. [IINA](https://github.com/lhc70000/iina)
 - Open source alternative to VLC built specifically for macOS.
 - It is based on [mpv](https://github.com/mpv-player/mpv) and has a more modern and native look than VLC.
 
 #### 59. [Hammerspoon](http://www.hammerspoon.org)
-- Really powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant.
+- Powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant.
 - Right now I use it show the task I am currenly working on in a little window in the middle of the screen for a brief moment:
 <img src="https://i.imgur.com/UXqwr5a.png" width="300" alt="img">
 
@@ -311,14 +311,14 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - I also use it to show a [list of brew services](https://getbitbar.com/plugins/Dev/Homebrew/brew-services.10m.rb) running on my system.
 
 ## Browser
-My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is really well optimised for macOS plus I have tried both and I really do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari.
+My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is well optimised for macOS plus I have tried both and I do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari.
 
 I keep a list of my favourite Safari extensions and why I love them in a GitHub repository [here](https://github.com/learn-anything/safari-extensions). Feel free to contribute to it if you wish.
 
 I do however use Chrome for web devolopment due to its superior Chrome Dev tools. [Here](https://github.com/learn-anything/chrome-extensions) you can find the chrome extensions I like and use for that.
 
 ## Command Line Apps
-[Homebrew](https://brew.sh) is a really wonderful and user friendly package manager for macOS.
+[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS.
 
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I use from it.
 
@@ -326,7 +326,7 @@ And here are some more command line tools I use and love:
 - [thefuck](https://github.com/nvbn/thefuck) - Corrects your previous console command.
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
 - [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - Various useful GNU utils that don’t come with macOS.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns really fast.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
 - [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
 - [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from youtube and other video sites.
