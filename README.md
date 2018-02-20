@@ -21,8 +21,8 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - This is by far my favourite application that I have. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
-- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows) that you can use.
-- I [wrote an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
+- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-) that you can use.
+- I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
 - One of the applications I cannot live without, allows me to bind any key that I want. I go over how I use the app in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
@@ -31,7 +31,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I [share all the macros I use with the app](km).
+- I share [all the macros I use](km) with the app.
 
 ### 4. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
@@ -41,7 +41,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/)
-- I [moved completely to using the command line](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/sticky-keys.html) and can open it on demand at any time that I want.
+- I [moved completely to using the command line](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) and can open it on demand at any time that I want.
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
