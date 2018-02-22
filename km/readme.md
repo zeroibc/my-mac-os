@@ -34,7 +34,7 @@ It is advised you install these KM plugins as they make using KM editor more ple
 - [KMFAM - Favourite actions and macros](https://forum.keyboardmaestro.com/t/macro-kmfam-favorite-actions-and-macros/4854) - This plugin lets you save complex and non complex actions and macros. You can then search over these actions and macros to quickly add them.
 
 ## Macros
-Macros are little `KM scripts` that contain a series of actions. The macros can then be executed from a trigger, usually a hotkey.
+Macros are little _KM scripts_ that contain a series of actions. The macros can then be executed from a trigger, usually a hotkey.
 
 In my case all the global macros I share (macros that can run no matter what application is currently active) have no trigger. This is because I can call these macros from Karabiner using this Applescript code:
 
