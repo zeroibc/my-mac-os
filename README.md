@@ -31,7 +31,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I share [all the macros I use](km) with the app.
+- I share [all the macros I use](km#keyboard-maestro-macros-i-use) with the app.
 
 ### 4. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
@@ -370,10 +370,10 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/C5XHDDr.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/eQYC7Ie.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-    <img width="200" heigth="400" src="https://i.imgur.com/vSaLuSi.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/9OMRqB4.jpg"></a>
 
 ## Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
