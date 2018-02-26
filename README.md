@@ -365,13 +365,13 @@ I keep a list of my favourite workflows and why I love them in a GitHub reposito
 
 ![](https://i.imgur.com/et6qdaj.jpg)
 
-## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
-If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
+## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
+If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="200" heigth="400" src="https://i.imgur.com/eQYC7Ie.jpg"></a>
 
-<a align="center" href="https://github.com/nikitavoloboev/my-ios">
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
     <img width="200" heigth="400" src="https://i.imgur.com/9OMRqB4.jpg"></a>
 
 ## Similar Setups
