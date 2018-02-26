@@ -1,9 +1,9 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 
-<img src="https://i.imgur.com/oeOFeY6.jpg" width="600" alt="img">
+<img src="https://i.imgur.com/TQUUbAF.jpg" width="600" alt="img">
 
-> [Wallpaper link](https://orig00.deviantart.net/4cc8/f/2016/342/d/d/7_p_m__by_aenami-dar0gav.png)
+> [Wallpaper link](https://i.imgur.com/kJ0QXUf.jpg)
 
 - [Applications](#applications)
 - [Browser](#browser)
@@ -21,17 +21,16 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - This is by far my favourite application that I have. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
-- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-) that you can use.
+- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 - I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
 - One of the applications I cannot live without, allows me to bind any key that I want. I go over how I use the app in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
-- Karabiner is the only reason I cannot upgrade my mac to Sierra as [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) still does not have the features I need.
 
 ### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 - A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I share [all the macros I use](km#keyboard-maestro-macros-i-use) with the app.
+- I share [all the macros I use](km#readme) with the app.
 
 ### 4. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
@@ -42,12 +41,12 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 5. [iTerm](https://www.iterm2.com/)
 - I [moved completely to using the command line](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) and can open it on demand at any time that I want.
-- [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [homebrew](http://brew.sh/index.html) packages I like and use.
+- [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
 
 ### 6. [2Do](http://www.2doapp.com/mac)
-- I love GTD methodology, this application is phenomenal with [helping me organise my tasks and things I want to do and achieve](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
+- I love GTD methodology, this application is phenomenal with helping me [organise my tasks and things I want to do and achieve](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
 <img src="https://i.imgur.com/0BQF2a1.png" width="150">
 
 - And it has global quick add with a hotkey.
@@ -56,7 +55,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - Together with lists, priorities, powerful search and a lot more.
 
 ### 7. [MindNode](https://mindnode.com)
-- An application which allowed me to create all of the maps for [Learn Anything](https://learn-anything.xyz/).
+- An application which allowed me to create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
 - It is an incredible joy to make mind maps in this app and I use it to visualize everything.
@@ -74,7 +73,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - A very powerful code snippet manager that I have intergrated very heaviliy in my workflow, with [recent addition](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) of its own alfred workflow, retrieving the snippets that you need it staggeringly fast.
 <img src="https://i.imgur.com/Js74VmA.png" width="500" alt="img">
 
-- I share my entire library of snippets you can import yourself [here](snippetslab).
+- I share my entire library of snippets you can import yourself [here](snippetslab#readme).
 - I use it as my [own personal programmer's notepad](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html) with code and lots and lots of comments.
 <img src="https://i.imgur.com/cDmCSyE.png" width="500" alt="img">
 
@@ -106,7 +105,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 14. [Typinator](http://www.ergonis.com/products/typinator/)
 - I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
-- I share the Typinator sets I made with the app [here](./typinator) and describe the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/typinator.html).
+- I share the Typinator sets I made with the app [here](typinator#readme) and describe the app in more detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/typinator.html).
 
 ### 15. [Pixave](http://www.littlehj.com/)
 - I always wanted to organise the mess that my media files were, moving all of my photographs, gifs that I have saved over the years to one place that is easily searchable and is again just a joy to use was very valuable for me.
@@ -117,7 +116,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 ### 16. [BetterTouchTool](https://www.boastr.net/)
 - Another amazing application that I use to create [custom trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze).
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
-- [Here](./btt) are all the different gestures I have setup to use with the app that you can view and download.
+- [Here](btt#readme) are all the different gestures I have setup to use with the app that you can view and download.
 
 ### 17. [PDF Expert](https://pdfexpert.com/)
 - I read a lot of PDFs like books, uni assignments and the like.
@@ -128,7 +127,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 - By far the most well designed and feature rich mail application that I have used so far, all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
 
 ### 19. [Spotify](https://www.spotify.com/us/)
-- Found a [lot of great music](https://wiki.nikitavoloboev.xyz/music/music-plays.html) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
+- Found a [lot of great music](https://wiki.nikitavoloboev.xyz/music/music-playlists.html) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
 - Quickly finding artists, songs I want to listen, instantly adding the song playing to my 'likes' playlist or any other playlist I want, seeing what other songs the artist has and more.
 <img src="https://i.imgur.com/UgRLB92.png" width="500" alt="img">
 
@@ -162,7 +161,7 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 
 ### 24. [Textual](https://www.codeux.com/textual/)
 - Recently started to grow a big liking of various cool IRC channels that exist out there, this app is a wonderful client for all things IRC.
-- I created [my own custom Ayu theme](textual) that I love.
+- I created [my own custom Ayu theme](textual#readme) that I love.
 - The app also has an awesome channel search feature that I use a lot.
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
 
@@ -352,19 +351,19 @@ And here are some more command line tools I use and love:
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 
-## [Alfred Workflows](https://github.com/learn-anything/alfred-workflows)
+## [Alfred Workflows](https://github.com/learn-anything/alfred-workflows#readme)
 I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value.
 
-I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows). Feel free to contribute to it if you wish.
+I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows#readme). Feel free to contribute to it if you wish.
 
 ## Desktop Screenshot
 > Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
-![](https://i.imgur.com/1X3soFt.jpg)
+![](https://i.imgur.com/01RJrn2.jpg)
 
 ## Launchpad
 
-![](https://i.imgur.com/8Wd8vyw.png)
+![](https://i.imgur.com/et6qdaj.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS as well as how and why I use them.
