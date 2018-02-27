@@ -15,7 +15,7 @@
 - [Contributing](#contributing)
 
 ## Applications
-I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
 ### 1. [Alfred](https://www.alfredapp.com/)
 - This is by far my favourite application that I have. It saved me a lot of time in my life.
