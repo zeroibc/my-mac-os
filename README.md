@@ -16,11 +16,9 @@
 ## Applications
 I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life, sorted by their importance.
 
-The app's name links to the app's web page and the attached `Notes` links to my detailed notes and use cases for that app. I describe why I like the app below.
-
 I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
-### 1. [Alfred](https://www.alfredapp.com) - Launcher ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html))
+### 1. [Alfred](https://www.alfredapp.com) - Launcher
 - Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
@@ -28,41 +26,41 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 - I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
-### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping tool ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html))
+### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping tool
 - Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
-- I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
+- I have [completely remapped my keyboard](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 
-### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html))
+### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 - Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
 - I share [all the macros I use](km-macros#readme) with the app.
 
-### 4. [VS Code](https://github.com/Microsoft/vscode) - Code editor ([Notes](https://wiki.nikitavoloboev.xyz/text-editors/vs-code.html))
+### 4. [VS Code](https://github.com/Microsoft/vscode) - Code editor
 - My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
-### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator - ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html))
+### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Moved completely to using the command line for all my development needs. Assigned it to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open it with Karabiner in seconds.
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
 
-### 6. [2Do](http://www.2doapp.com/mac) - Flexible task manager - ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html))
+### 6. [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology, this application is phenomenal with helping me organise my tasks and things I want to do and achieve. Here is how my sidebar looks:
 <img src="https://i.imgur.com/0BQF2a1.png" width="150">
 
 - And it has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
-### 7. [Sublime Text](https://www.sublimetext.com) - Text Editor - ([Notes](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text.html))
+### 7. [Sublime Text](https://www.sublimetext.com) - Text Editor
 - Started using this editor in addition to VS Code and neovim for its blazing fast speed of opening files.
 - I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
 - [Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
 
-### 8. [MindNode](https://mindnode.com) - Interactive Mind Mapping tool - ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/mindnode.html))
+### 8. [MindNode](https://mindnode.com) - Interactive Mind Mapping tool
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
@@ -80,7 +78,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 <img src="https://i.imgur.com/wyqtfCM.png" width="500" alt="img">
 
-### 10. [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager - ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html))
+### 10. [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
 - This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
 <img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
@@ -99,14 +97,14 @@ Here is how my library looks like:
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 <img src="https://i.imgur.com/SzXbdc3.png" width="500" alt="img">
 
-### 13. [Day One](http://dayoneapp.com/) - Digital journal - ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/day-one.html))
+### 13. [Day One](http://dayoneapp.com/) - Digital journal
 - Day One is my digital life journal.
-- My entire life's experiences lives encrypted in the journal. Adding photographs I made and the thoughts and events that happened to me.
+- My entire life's experiences lives encrypted in the journal. Adding photographs I made, the thoughts I had and events that happened to me.
 - I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back.html) publicly too.
 - The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://www.instagram.com/nikitavoloboev/).
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
-### 14. [Ulysses](http://www.ulyssesapp.com/) - Writing app - ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/ulysses.html))
+### 14. [Ulysses](http://www.ulyssesapp.com/) - Writing app
 - The app I use to write all my [Medium](https://medium.com/@NikitaVoloboev) articles in. As well as writing notes for different [books I read](https://wiki.nikitavoloboev.xyz/books/books.html).
 - All your writing in one place is the motto and the underlying design of the app. I hook up my [wiki](https://github.com/nikitavoloboev/knowledge) as an external folder and I love how it creates an index of everything that I can search over:
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
@@ -114,7 +112,7 @@ Here is how my library looks like:
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
-### 15. [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions - ([Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/typinator.html))
+### 15. [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
 - I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
 - I share all the Typinator sets I made with the app [here](typinator#readme).
 
