@@ -6,9 +6,8 @@
 > [Wallpaper link](https://i.imgur.com/kJ0QXUf.jpg)
 
 - [Applications](#applications)
-- [Browser](#browser)
+- [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
-- [Alfred Workflows](#alfred-workflows)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
 - [Related](#related)
@@ -17,17 +16,17 @@
 ## Applications
 I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life, sorted by their importance.
 
-The app's name links to the app itself and the attached `My Notes` links to more detailed notes and use cases for that app.
+The app's name links to the app web page and the attached `My Notes` links to my detailed notes and use cases for that app.
 
 I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
 ### 1. [Alfred](https://www.alfredapp.com) - Launcher ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html))
-Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
+- Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
-It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
+- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
-I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
+- I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping tool ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html))
 - Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
@@ -45,35 +44,35 @@ I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows
 
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
-### 5. [iTerm](https://www.iterm2.com/)
-- I [moved completely to using the command line](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html) for all my development needs, this is probably the best terminal emulator out there that exists, have it assigned to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) and can open it on demand at any time that I want.
+### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator - ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html))
+- Moved completely to using the command line for all my development needs. Assigned it to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open it with Karabiner in seconds.
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
 
-### 6. [2Do](http://www.2doapp.com/mac)
-- I love GTD methodology, this application is phenomenal with helping me [organise my tasks and things I want to do and achieve](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html).
+### 6. [2Do](http://www.2doapp.com/mac) - Flexible task manager - ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html))
+- I love GTD methodology, this application is phenomenal with helping me organise my tasks and things I want to do and achieve. Here is how my sidebar looks:
 <img src="https://i.imgur.com/0BQF2a1.png" width="150">
 
-- And it has global quick add with a hotkey.
+- And it has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
-- Together with lists, priorities, powerful search and a lot more.
+### 7. [Sublime Text](https://www.sublimetext.com) - Text Editor - ([My Notes](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text.html))
+- Started using this editor in addition to VS Code and neovim for its blazing fast speed of opening files.
+- I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
+- [Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
 
-### 7. [Sublime Text](https://www.sublimetext.com)
-- Use it to edit Markdown files and do quick edits. Such as editing my [wiki](https://wiki.nikitavoloboev.xyz), my configuration files and checking out various repositories.
-- Love using [Ayu theme]https://github.com/dempfi/ayu) and [Six](https://github.com/guillermooo/Six) plugins.
-
-### 7. [MindNode](https://mindnode.com)
-- An application which allowed me to create all of the maps for [Learn Anything](https://learn-anything.xyz).
+### 8. [MindNode](https://mindnode.com) - Interactive Mind Mapping tool - ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/mindnode.html))
+- An application which allowed me to oriinally create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
-- It is an incredible joy to make mind maps in this app and I use it to visualize everything.
-	- [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
-- I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [this alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind).
-- I wrote more about how I use this app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/mindnode.html).
+- It is an incredible joy to make mind maps in this app and I use it to visualize everything. [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
+- I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+- In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a __thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) I am doing __now__ there. Here is how that looks:
 
-### 8. [Dash](https://kapeli.com/dash)
+![](https://i.imgur.com/uYr28eZ.png)
+
+### 9. [Dash](https://kapeli.com/dash)
 - Very powerful API documentation browser that allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
@@ -319,19 +318,27 @@ I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows
 - Which I then can [display it with HammerSpoon](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua#L57) briefly on my screen to remind myself of what I need to be doing.
 - I also use it to show a [list of brew services](https://getbitbar.com/plugins/Dev/Homebrew/brew-services.10m.rb) running on my system.
 
-## Browser
-My browser of choice is [Safari](http://www.apple.com/safari/). Chrome just kills the battery and Safari is well optimised for macOS plus I have tried both and I do find Safari a lot more 'snappier' to use. One powerful plus that chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do exist on Safari.
+## Browsers
+### [Safari](https://www.apple.com/lae/safari/) - ([My Notes](https://wiki.nikitavoloboev.xyz/web/browsers/safari.html))
+- My favourite browser for many reasons. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised and doesn't kill your battery.
+- One powerful plus that Chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do [exist on Safari](https://github.com/learn-anything/safari-extensions#readme).
 
-I keep a list of my favourite Safari extensions and why I love them in a GitHub repository [here](https://github.com/learn-anything/safari-extensions). Feel free to contribute to it if you wish.
+### [Google Chrome](https://www.google.com/chrome/) - ([My Notes](https://wiki.nikitavoloboev.xyz/web/browsers/google-chrome.html))
+- I only use Chrome for web devolopment due to its superior Chrome Dev tools.
+- I also really love the variety of [Chrome extensions](https://github.com/learn-anything/chrome-extensions#readme) that people have built and shared.
 
-I do however use Chrome for web devolopment due to its superior Chrome Dev tools. [Here](https://github.com/learn-anything/chrome-extensions) you can find the chrome extensions I like and use for that.
+### [Beaker Browser](https://github.com/beakerbrowser/beaker)
+- Experimental Peer to Peer browser. Experimenting with using it more and more as I find the technology and the implications of it fascinating.
+
+### [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+- Use it for web devolopment for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
 
 ## Command Line Apps
-[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS.
+[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS. I am however trying to move and use [nix](https://github.com/NixOS/nix) package manager instead.
 
-[Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I use from it.
+[Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I am currently using. And here is a [curated list](https://github.com/learn-anything/command-line-tools#readme) of amazing CLI tools.
 
-And here are some more command line tools I use and love:
+Below are some command line tools I personally use and love:
 - [thefuck](https://github.com/nvbn/thefuck) - Corrects your previous console command.
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
 - [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - Various useful GNU utils that don’t come with macOS.
@@ -360,11 +367,6 @@ And here are some more command line tools I use and love:
 - [license up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
-
-## [Alfred Workflows](https://github.com/learn-anything/alfred-workflows#readme)
-I find [Alfred](https://www.alfredapp.com) with its ability to create custom workflows for it to bring me the most value.
-
-I keep a list of my favourite workflows and why I love them in a GitHub repository [here](https://github.com/learn-anything/alfred-workflows#readme). Feel free to contribute to it if you wish.
 
 ## Desktop Screenshot
 > Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
