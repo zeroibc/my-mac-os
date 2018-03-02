@@ -15,22 +15,27 @@
 - [Contributing](#contributing)
 
 ## Applications
-I use a lot of applications on my mac. Here is a list of the ones that I love and use the most in my day to day life, sorted by their importance. I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life, sorted by their importance.
 
-### 1. [Alfred](https://www.alfredapp.com/)
-- This is by far my favourite application that I have. It saved me a lot of time in my life.
+The app's name links to the app itself and the attached `My Notes` links to more detailed notes and use cases for that app.
+
+I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+
+### 1. [Alfred](https://www.alfredapp.com) - Launcher ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html))
+- Alfred is a very powerful launcher and you can program it to show you anything you want. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
 - It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
-- I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language.
+- I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
-### 2. [Karabiner](https://pqrs.org/osx/karabiner/)
-- One of the applications I cannot live without, allows me to bind any key that I want. I go over how I use the app in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
+### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping tool ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html))
+- One of the applications I cannot live without, allows me to bind any key that I want.
+- I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 
-### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
+### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Powerful automation tool (My Notes)
 - A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I share [all the macros I use](km#readme) with the app.
+- I share [all the macros I use](km-macros#readme) with the app.
 
 ### 4. [VS Code](https://github.com/Microsoft/vscode)
 - My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
@@ -53,6 +58,10 @@ I use a lot of applications on my mac. Here is a list of the ones that I love an
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
 - Together with lists, priorities, powerful search and a lot more.
+
+### 7. [Sublime Text](https://www.sublimetext.com)
+- Use it to edit Markdown files and do quick edits. Such as editing my [wiki](https://wiki.nikitavoloboev.xyz), my configuration files and checking out various repositories.
+- Love using [Ayu theme]https://github.com/dempfi/ayu) and [Six](https://github.com/guillermooo/Six) plugins.
 
 ### 7. [MindNode](https://mindnode.com)
 - An application which allowed me to create all of the maps for [Learn Anything](https://learn-anything.xyz).
