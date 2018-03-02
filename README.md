@@ -22,22 +22,23 @@ The app's name links to the app itself and the attached `My Notes` links to more
 I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
 ### 1. [Alfred](https://www.alfredapp.com) - Launcher ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/alfred/alfred.html))
-- Alfred is a very powerful launcher and you can program it to show you anything you want. It saved me a lot of time in my life.
+Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
-- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
-- I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
+It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
+
+I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
 ### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping tool ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html))
-- One of the applications I cannot live without, allows me to bind any key that I want.
+- Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
 - I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 
-### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Powerful automation tool (My Notes)
-- A staggeringly powerful mac automation tool that I am only beginning to scratch the surface of.
+### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html))
+- Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
 - Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
 - I share [all the macros I use](km-macros#readme) with the app.
 
-### 4. [VS Code](https://github.com/Microsoft/vscode)
+### 4. [VS Code](https://github.com/Microsoft/vscode) - Code editor ([My notes](https://wiki.nikitavoloboev.xyz/text-editors/vs-code.html))
 - My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
