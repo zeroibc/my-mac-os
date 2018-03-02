@@ -83,7 +83,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 ### 10. [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager - ([My Notes](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html))
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
 - This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
-![](https://i.imgur.com/gzoH1Dh.png)
+<img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
 
 Here is how my library looks like:
 ![](https://i.imgur.com/cDmCSyE.png)
@@ -143,7 +143,7 @@ Here is how my library looks like:
 - Quickly finding artists, songs I want to listen, instantly adding the song playing to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) playlist or any other playlist I want, seeing what other songs the artist has and more.
 <img src="https://i.imgur.com/UgRLB92.png" width="500" alt="img">
 
-### 21. [Fantastical](https://flexibits.com/fantastical)
+### 21. [Fantastical](https://flexibits.com/fantastical) - Calendar
 - I use the app to manage events in my life.
 - I take great use of Fantastical's natural language input and I use [many Typinator expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to ease this process.
 - I always view my events from `Week` view. And show 5 days only with all 24h shown for all days. This lets me have a perspective over what I have to do know. What deadlines I have to complete soon. And gives my the freedom to adjust my schedule in light of upcoming deadlines and events.
@@ -336,7 +336,7 @@ Here is how my library looks like:
 - Use it for web devolopment for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
 
 ## Command Line Apps
-[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS. I am however trying to move and use [nix package manager](https://github.com/NixOS/nix) instead.
+[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS. I am however trying to move and use [nix](https://github.com/NixOS/nix) package manager instead.
 
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I am currently using. There's also a curated list of [amazing CLI tools](https://github.com/learn-anything/command-line-tools#readme).
 
