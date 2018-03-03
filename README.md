@@ -320,7 +320,7 @@ Here is how my library looks:
 
 ### 63. [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
 - Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
-<img src="https://i.imgur.com/RATGaNJ.png" width="500" alt="img">
+<img src="https://i.imgur.com/RATGaNJ.png" width="400" alt="img">
 
 ### 64. [Hazel](https://www.noodlesoft.com) - Automated File Organization
 - Use it to fully automate my filing process and automatically commit changes in my [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) repo.
