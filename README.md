@@ -74,7 +74,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
-- It is an incredible joy to make mind maps in this app and I use it to visualize everything. [Notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
+- It is an incredible joy to make mind maps in this app and I use it to visualize everything. [My Notes, projects, plans and thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 - I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 - In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a __thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) I am doing __now__ there. Here is how that looks:
 
@@ -134,18 +134,20 @@ Here is how my library looks:
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
 ### 17. [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
-- I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
-- I share all the Typinator sets I made with the app [here](typinator#readme).
+- I use the app to [fully automate writing repetitive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
+- I share all the Typinator sets I made with the app [here](typinator).
 
 ### 18. [Pixave](http://www.littlehj.com/) - Image/GIF/Video organizer
-- I use Pixave as my own personal image library. I sort images in groups and I have the powerful search I can use to find any image I wish.
+- I use Pixave as my own personal image library. I sort images in groups and I have the powerful search I can use to find any image I need.
 - Here is how my library looks like:
 ![](https://i.imgur.com/MjGFvSb.jpg)
 
 - The red tag means that the image was uploaded to my [Instagram page](https://www.instagram.com/niikivi) for sharing.
 
 ### 17. [BetterTouchTool](https://www.boastr.net/) - Mac input customzier
-- I use this app for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific application.
+- I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific application.
+<img src="https://i.imgur.com/BXdQ1LZ.png" width="500" alt="img">
+
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
 - I share [all the different gestures I have setup to use with the app](btt#readme) that you can view and download.
 
