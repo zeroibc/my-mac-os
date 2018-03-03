@@ -192,7 +192,7 @@ Here is how my library looks:
 <img src="https://i.imgur.com/YSfRGUf.png" width="500" alt="img">
 
 ### 25. [Focus](https://heyfocus.com) - Block distracting websites
-- I have front pages of [hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more tim sinking websites on the black list.
+- I have front pages of [hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
 <img src="https://i.imgur.com/OwIlq6v.png" width="500" alt="img">
 
 - I then have a schedule where I can only use these websites for 30 minutes every 2 hours.
