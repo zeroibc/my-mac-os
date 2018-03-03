@@ -26,9 +26,12 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 - I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
-### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping tool
+### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Low level Keyboard remapping tool
 - Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
-- I have [completely remapped my keyboard](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
+- I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
+- For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it it becomes ⌘ + ⌃ modifier key. So `caps lock + F` becomes ⌘ + ⌃ + F. And so on.
+- I however take this idea further and define these kind of hyper keys but for __every single key on my keyboard__.
+- My Karabiner config can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) and is described [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 
 ### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 - Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
@@ -43,7 +46,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator
-- Moved completely to using the command line for all my development needs. Assigned it to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open it with Karabiner in seconds.
+- Moved completely to using the command line for all my development needs. Assigned [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with Karabiner to open the app from Keyboard Maestro in seconds.
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
@@ -60,7 +63,14 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
 - [Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
 
-### 8. [MindNode](https://mindnode.com) - Interactive Mind Mapping tool
+### 8. [Trello](https://trello.com) - Project management tool
+- I use the app a lot to track various ongoing things I have in my life.
+- I share many boards I have [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html).
+- I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
+- Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
+![](https://i.imgur.com/YHmPwsx.jpg)
+
+### 9. [MindNode](https://mindnode.com) - Interactive Mind Mapping tool
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
@@ -70,7 +80,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 ![](https://i.imgur.com/uYr28eZ.png)
 
-### 9. [Dash](https://kapeli.com/dash) - API Documentation Browser
+### 10. [Dash](https://kapeli.com/dash) - API Documentation Browser
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
