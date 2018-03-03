@@ -26,7 +26,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 - I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
-### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Low level Keyboard remapping tool
+### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
 - Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
 - I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 - For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it it becomes ⌘ + ⌃ modifier key. So `caps lock + F` becomes ⌘ + ⌃ + F. And so on.
@@ -46,31 +46,31 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator
-- Moved completely to using the command line for all my development needs. Assigned [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with Karabiner to open the app from Keyboard Maestro in seconds.
+- Moved completely to using the command line for all my development needs. Go over my workflow of how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
 
 ### 6. [2Do](http://www.2doapp.com/mac) - Flexible task manager
-- I love GTD methodology, this application is phenomenal with helping me organise my tasks and things I want to do and achieve. Here is how my sidebar looks:
+- I love GTD methodology, this application is phenomenal with helping me [organise my tasks and things](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) I want to do and achieve. Here is how my sidebar looks:
 <img src="https://i.imgur.com/0BQF2a1.png" width="150">
 
 - And it has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
 ### 7. [Sublime Text](https://www.sublimetext.com) - Text Editor
-- Started using this editor in addition to VS Code and neovim for its blazing fast speed of opening files.
+- Use this editor in addition to VS Code and Neovim for its blazing fast speed of opening files.
 - I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
 - [Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
 
-### 8. [Trello](https://trello.com) - Project management tool
+### 8. [Trello](https://trello.com) - Project management
 - I use the app a lot to track various ongoing things I have in my life.
 - I share many boards I have [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html).
 - I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
 - Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
 ![](https://i.imgur.com/YHmPwsx.jpg)
 
-### 9. [MindNode](https://mindnode.com) - Interactive Mind Mapping tool
+### 9. [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
@@ -89,13 +89,15 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 <img src="https://i.imgur.com/wyqtfCM.png" width="500" alt="img">
 
 ### 10. [Textual](https://www.codeux.com/textual/) - IRC Client
-- Recently started to grow a big liking of various cool IRC channels that exist out there, this app is a wonderful client for all things IRC.
-- I created [my own custom Ayu theme](textual#readme) that I love.
+- I love IRC and this is the best macOS client for it.
+- I created my own custom [Ayu theme](textual#readme) that I love.
+<img src="https://i.imgur.com/5SglNCi.png" width="500" alt="img">
+
 - The app also has an awesome channel search feature that I use a lot.
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
 
 ### 11. [Telegram](https://desktop.telegram.org/) - Messenger
-- It has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is really amazing and fast.
+- The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is really amazing and fast.
 
 ### 12. [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
@@ -189,7 +191,7 @@ Here is how my library looks like:
 
 ### 25. [Focus](https://heyfocus.com) - Block distracting websites
 - I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121). Makes a huge difference and helps me focus on what I need to be working on.
-<img src="http://i.imgur.com/cnVvp3m.png" width="500" alt="img">
+<img src="https://i.imgur.com/TXrquc1.png" width="500" alt="img">
 
 ### 26. [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 - Twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app.
@@ -244,7 +246,7 @@ Here is how my library looks like:
 
 ### 42. [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Centre Calendar
 - A great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week.
-<img src="https://i.imgur.com/8sXe5aK.png" width="300" alt="img">
+<img src="https://i.imgur.com/VbDVrWM.png" width="300" alt="img">
 
 ### 43. [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitioring from menu bar
 - Great system monitoring tools of which I use CPU and storage tracking, I find it very valuable to know if my CPU is being abused by some application and if so by which.
