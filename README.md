@@ -144,7 +144,7 @@ Here is how my library looks:
 
 - The red tag means that the image was uploaded to my [Instagram page](https://www.instagram.com/niikivi) for sharing.
 
-### 17. [BetterTouchTool](https://www.boastr.net/) - Mac input customzier
+### 17. [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 - I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific application.
 <img src="https://i.imgur.com/BXdQ1LZ.png" width="500" alt="img">
 
@@ -156,7 +156,7 @@ Here is how my library looks:
 - Multiple tabs, sepia mode, very nice annotation tools, great search, performance.
 
 ### 19. [Airmail](http://airmailapp.com/) - Email client
-- By far the most well designed and feature rich mail application that I have used so far, all of its simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
+- By far the most well designed and feature rich mail application that I have used so far. Has simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
 - I approach all of my email tasks in GTD style. Keeping my email inbox close to 0 at all times.
 
 ### 20. [Spotify](https://www.spotify.com/us/) - Music streaming
