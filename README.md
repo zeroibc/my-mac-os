@@ -104,7 +104,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
 <img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
 
-Here is how my library looks like:
+Here is how my library looks:
 ![](https://i.imgur.com/cDmCSyE.png)
 
 - I share my entire library of snippets you can import yourself [here](snippetslab#readme).
@@ -382,7 +382,7 @@ Below are some command line tools I personally use and love:
 
 ## Launchpad
 
-![](https://i.imgur.com/et6qdaj.jpg)
+![](https://i.imgur.com/jr0JS8h.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
