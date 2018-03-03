@@ -46,7 +46,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 <img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator
-- Moved completely to using the command line for all my development needs. Go over my workflow of how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
+- Moved completely to using the command line for all my development needs. I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
