@@ -63,7 +63,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
 - [Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
 
-### 8. [Trello](https://trello.com) - Project management
+### 8. [Trello](https://trello.com) - Project management tool
 - I use the app a lot to track various ongoing things I have in my life.
 - I share many boards I have [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html).
 - I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
