@@ -116,7 +116,7 @@ Here is how my library looks like:
 ### 14. [Timing](https://timingapp.com/whats-new) - Automatic time tracker
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
-<img src="https://i.imgur.com/SzXbdc3.png" width="500" alt="img">
+<img src="https://i.imgur.com/U6wxKLn.png" width="500" alt="img">
 
 ### 15. [Day One](http://dayoneapp.com/) - Digital journal
 - Day One is my digital life journal.
@@ -180,7 +180,7 @@ Here is how my library looks like:
 
 ### 22. [Bartender](https://www.macbartender.com/) - Menu bar organizer
 - A great utility app that allows you to customise and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customised it to have the most important information that I need to show in it.
-<img src="http://i.imgur.com/2SEANOJ.png" width="500" alt="img">
+<img src="https://i.imgur.com/E0ODZBv.png" width="500" alt="img">
 
 - I can then activate Bartender and start searching for the menu bar item I need all from the keyboard.
 
@@ -191,7 +191,7 @@ Here is how my library looks like:
 
 ### 25. [Focus](https://heyfocus.com) - Block distracting websites
 - I have hckrnews, reddit, twitter on the black list and have a schedule where I can only use these websites two times in my day, 30 minutes in the morning and 30 minutes in the evening, this acts as my own version of [information diet](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121). Makes a huge difference and helps me focus on what I need to be working on.
-<img src="https://i.imgur.com/TXrquc1.png" width="500" alt="img">
+<img src="https://i.imgur.com/MMSn0zl.png" width="500" alt="img">
 
 ### 26. [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 - Twitter and tweetbot are blocked for me for the majority of the day due to them being a big cause of distraction but the times I do use Twitter, it would be done through this wonderful client that features a timeline without advertisements and one that is synced with the iOS app.
@@ -229,7 +229,7 @@ Here is how my library looks like:
 
 ### 36. [Popclip](https://pilotmoon.com/popclip/) - iOS like mouse text selection popopver
 - Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on DuckDuckGo, Youtube, Dictionary, Reddit, Images or it can translate text selected, copy it or say it aloud, here is how it looks for me:
-<img src="https://i.imgur.com/jmNmrmx.png" width="400" alt="img">
+<img src="https://i.imgur.com/VLFRDAC.png" width="400" alt="img">
 
 ### 37. [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) - Show time until next event in menu bar
 - It has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts.
@@ -294,7 +294,7 @@ Here is how my library looks like:
 ### 59. [Hammerspoon](http://www.hammerspoon.org) - Automation tool
 - Powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant.
 - Right now I use it show the task I am currenly working on in a little window in the middle of the screen for a brief moment:
-<img src="https://i.imgur.com/UXqwr5a.png" width="300" alt="img">
+<img src="https://i.imgur.com/E7RsarV.png" width="300" alt="img">
 
 - My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua).
 
