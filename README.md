@@ -65,7 +65,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 ### 8. [Trello](https://trello.com) - Project management tool
 - I use the app a lot to track various ongoing things I have in my life.
-- I share many boards I have [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
+- I share many boards I made [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
 ![](https://i.imgur.com/YHmPwsx.jpg)
 
 - I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
@@ -392,10 +392,13 @@ Below are some command line tools I personally use and love:
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/eQYC7Ie.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/mrWDYXC.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/9OMRqB4.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/ghV6y0v.jpg"></a>
+
+<a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
+    <img width="200" heigth="400" src="https://i.imgur.com/7XRVnAe.jpg"></a>
 
 ## Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
