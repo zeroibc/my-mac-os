@@ -5,6 +5,7 @@
 
 > [Wallpaper link](https://i.imgur.com/kJ0QXUf.jpg)
 
+##### Contents
 - [Applications](#applications)
 - [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
