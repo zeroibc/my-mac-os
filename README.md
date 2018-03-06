@@ -71,7 +71,11 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 - I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
 
-### 9. [MindNode](https://mindnode.com) - Interactive Mind Mapping
+### 9. [1Password](https://1password.com) - Password manager
+- Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
+- No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible.
+
+### 10. [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
@@ -81,7 +85,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 ![](https://i.imgur.com/uYr28eZ.png)
 
-### 10. [Dash](https://kapeli.com/dash) - API Documentation Browser
+### 11. [Dash](https://kapeli.com/dash) - API Documentation Browser
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
@@ -89,7 +93,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 <img src="https://i.imgur.com/wyqtfCM.png" width="500" alt="img">
 
-### 10. [Textual](https://www.codeux.com/textual/) - IRC Client
+### 12. [Textual](https://www.codeux.com/textual/) - IRC Client
 - I love IRC and this is the best macOS client for it.
 - I created my own custom [Ayu theme](textual#readme) that I love.
 <img src="https://i.imgur.com/5SglNCi.png" width="500" alt="img">
@@ -97,10 +101,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - The app also has an awesome channel search feature that I use a lot.
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
 
-### 11. [Telegram](https://desktop.telegram.org/) - Messenger
+### 13. [Telegram](https://desktop.telegram.org/) - Messenger
 - The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is really amazing and fast.
 
-### 12. [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
+### 14. [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
 - This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
 <img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
@@ -110,23 +114,19 @@ Here is how my library looks:
 
 - I share my entire library of snippets you can import yourself [here](snippetslab#readme).
 
-### 13. [1Password](https://1password.com) - Password manager
-- Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
-- No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible.
-
-### 14. [Timing](https://timingapp.com/whats-new) - Automatic time tracker
+### 15. [Timing](https://timingapp.com/whats-new) - Automatic time tracker
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 <img src="https://i.imgur.com/U6wxKLn.png" width="500" alt="img">
 
-### 15. [Day One](http://dayoneapp.com/) - Digital journal
+### 16. [Day One](http://dayoneapp.com/) - Digital journal
 - Day One is my digital life journal.
 - My entire life's experiences lives encrypted in the journal. Adding photographs I made, the thoughts I had and events that happened to me.
 - I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back.html) publicly too.
 - The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://www.instagram.com/nikitavoloboev/).
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
-### 16. [Ulysses](http://www.ulyssesapp.com/) - Writing app
+### 17. [Ulysses](http://www.ulyssesapp.com/) - Writing app
 - The app I use to write all my [Medium](https://medium.com/@NikitaVoloboev) articles in. As well as writing notes for different [books I read](https://wiki.nikitavoloboev.xyz/books/books.html).
 - All your writing in one place is the motto and the underlying design of the app. I hook up my [wiki](https://github.com/nikitavoloboev/knowledge) as an external folder and I love how it creates an index of everything that I can search over:
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
@@ -134,33 +134,33 @@ Here is how my library looks:
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
-### 17. [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
+### 18. [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
 - I use the app to [fully automate writing repetitive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
 - I share all the Typinator sets I made with the app [here](typinator).
 
-### 18. [Pixave](http://www.littlehj.com/) - Image/GIF/Video organizer
+### 19. [Pixave](http://www.littlehj.com/) - Image/GIF/Video organizer
 - I use Pixave as my own personal image library. I sort images in groups and I have the powerful search I can use to find any image I need.
 - Here is how my library looks like:
 ![](https://i.imgur.com/MjGFvSb.jpg)
 
 - The red tag means that the image was uploaded to my [Instagram page](https://www.instagram.com/niikivi) for sharing.
 
-### 17. [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
+### 20. [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 - I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific application.
 <img src="https://i.imgur.com/BXdQ1LZ.png" width="500" alt="img">
 
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
 - I share [all the different gestures I have setup to use with the app](btt#readme) that you can view and download.
 
-### 18. [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
+### 21. [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
 - I read a lot of PDFs like books, uni assignments and the like. This app is a huge upgrade over Preview app that I used before.
 - Multiple tabs, sepia mode, very nice annotation tools, great search, performance.
 
-### 19. [Airmail](http://airmailapp.com/) - Email client
+### 22. [Airmail](http://airmailapp.com/) - Email client
 - By far the most well designed and feature rich mail application that I have used so far. Has simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
 - I approach all of my email tasks in GTD style. Keeping my email inbox close to 0 at all times.
 
-### 20. [Spotify](https://www.spotify.com/us/) - Music streaming
+### 23. [Spotify](https://www.spotify.com/us/) - Music streaming
 - Found a [lot of great music](https://open.spotify.com/user/nikitavoloboev) with this application and the phenomenal [Alfred Workflow](http://alfred-spotify-mini-player.com/) makes using the application an absolute joy.
 - Quickly finding artists, songs I want to listen, instantly adding the song playing to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) playlist or any other playlist I want, seeing what other songs the artist has and more.
 <img src="https://i.imgur.com/UgRLB92.png" width="500" alt="img">
@@ -407,7 +407,7 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Use This Interviews](https://usesthis.com) - What do people use to get stuff done?
 
 ## Related
-- [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
+- [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
 
 ## Contributing
 If you shared a similiar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
