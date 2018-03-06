@@ -54,7 +54,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 ### 6. [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology, this application is phenomenal with helping me [organise my tasks and things](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) I want to do and achieve. Here is how my sidebar looks:
-<img src="https://i.imgur.com/0BQF2a1.png" width="150">
+<img src="https://i.imgur.com/0yUToEK.png" width="150">
 
 - And it has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
@@ -339,7 +339,7 @@ Here is how my library looks:
 - I only use Chrome for web devolopment due to its superior Chrome Dev tools.
 - I also really love the variety of [Chrome extensions](https://github.com/learn-anything/chrome-extensions#readme) that people have built and shared.
 
-### [Beaker Browser](https://github.com/beakerbrowser/beaker)
+### [Beaker Browser](https://beakerbrowser.com)
 - Experimental Peer to Peer browser. Experimenting with using it more and more as I find the technology and the implications of it fascinating.
 
 ### [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
