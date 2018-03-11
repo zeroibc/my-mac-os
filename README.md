@@ -80,7 +80,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
 - It is an incredible joy to make mind maps in this app and I use it to visualize everything. [My Notes, projects, plans and thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
-- I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+- I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/sharing/my-mind.html) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 - In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a __thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) I am doing __now__ there. Here is how that looks:
 
 ![](https://i.imgur.com/uYr28eZ.png)
@@ -138,7 +138,7 @@ Here is how my library looks:
 - I use the app to [fully automate writing repetitive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
 - I share all the Typinator sets I made with the app [here](typinator).
 
-### 19. [Pixave](http://www.littlehj.com/) - Image/GIF/Video organizer
+### 19. [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
 - I use Pixave as my own personal image library. I sort images in groups and I have the powerful search I can use to find any image I need.
 - Here is how my library looks like:
 ![](https://i.imgur.com/MjGFvSb.jpg)
