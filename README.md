@@ -393,13 +393,13 @@ Below are some command line tools I personally use and love:
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/mrWDYXC.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/tdRKBBh.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/ghV6y0v.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/04HIo7S.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="200" heigth="400" src="https://i.imgur.com/7XRVnAe.jpg"></a>
+    <img width="200" heigth="400" src="https://i.imgur.com/b7HA1ee.jpg"></a>
 
 ## Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
