@@ -9,6 +9,7 @@
 - [Applications](#applications)
 - [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
+- [System Preference Panes](#system-preference-panes)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
 - [Related](#related)
@@ -379,6 +380,12 @@ Below are some command line tools I personally use and love:
 - [license up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
+
+## System Preference Panes
+- [LaunchRocket](https://github.com/jimbojsb/launchrocket) - Manage services with `launchd`.
+- [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
+- [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
+- [TimeMachineScheduler](http://www.klieme.com/TimeMachineScheduler.html) - Set the backup interval of Time Machine from 1 to 12 hours.
 
 ## Desktop Screenshot
 > Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
