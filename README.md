@@ -9,7 +9,7 @@
 - [Applications](#applications)
 - [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
-- [System Preference Panes](#system-preference-panes)
+- [Preference Panes](#preference-panes)
 - [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
 - [Related](#related)
@@ -379,7 +379,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 
-## System Preference Panes
+## Preference Panes
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - Manage services with `launchd`.
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
