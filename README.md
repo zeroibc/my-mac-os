@@ -354,7 +354,6 @@ I am currently trying to move and use [nix](https://github.com/NixOS/nix) packag
 There is a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
-- [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - Various useful GNU utils that don’t come with macOS.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
 - [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
 - [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
