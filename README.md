@@ -347,12 +347,12 @@ Here is how my library looks:
 - Use it for web devolopment for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
 
 ## Command Line Apps
-[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS. I am however trying to move and use [nix](https://github.com/NixOS/nix) package manager instead.
+[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS. [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I am currently using from it.
 
-[Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I am currently using. There's also a curated list of [amazing CLI tools](https://github.com/learn-anything/command-line-tools#readme).
+I am currently trying to move and use [nix](https://github.com/NixOS/nix) package manager fully instead for the many problems it solves with package management.
 
-Below are some command line tools I personally use and love:
-- [thefuck](https://github.com/nvbn/thefuck) - Corrects your previous console command.
+There is a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
+
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
 - [coreutils](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/) - Various useful GNU utils that don’t come with macOS.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
@@ -370,14 +370,12 @@ Below are some command line tools I personally use and love:
 - [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat.html) but for images.
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 - [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
-- [coala](https://github.com/coala/coala) - Linting and fixing of code.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [now](https://github.com/zeit/now-cli) - Realtime global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
-- [iStats](https://github.com/Chris911/iStats) - System stats from the command-line.
 - [alfred](https://github.com/jason0x43/go-alfred#installation) - Symlinks your go project to alfred directory and builds your workflow.
-- [license up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
+- [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 
