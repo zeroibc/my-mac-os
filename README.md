@@ -1,9 +1,9 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 
-<img src="https://i.imgur.com/TQUUbAF.jpg" width="600" alt="img">
+<img src="https://i.imgur.com/9mFZWds.jpg" width="600" alt="img">
 
-> [Wallpaper link](https://i.imgur.com/kJ0QXUf.jpg)
+> [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
 ##### Contents
 - [Applications](#applications)
@@ -385,9 +385,8 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [TimeMachineScheduler](http://www.klieme.com/TimeMachineScheduler.html) - Set the backup interval of Time Machine from 1 to 12 hours.
 
 ## Desktop Screenshot
+![](https://i.imgur.com/BrTpMwE.jpg)
 > Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
-
-![](https://i.imgur.com/01RJrn2.jpg)
 
 ## Launchpad
 
