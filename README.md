@@ -45,7 +45,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-<img src="https://i.imgur.com/q44Or5z.png" width="500" alt="img">
+<img src="https://i.imgur.com/IDesq0E.png" width="500" alt="img">
 
 ### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Moved completely to using the command line for all my development needs. I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
