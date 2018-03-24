@@ -324,6 +324,9 @@ Here is how my library looks:
 - Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
 <img src="https://i.imgur.com/RATGaNJ.png" width="400" alt="img">
 
+### 64. [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
+- Use the app to fully plan any meal or recipe I want to make throughout the day as well as collect recipes and manage my shoppping list.
+
 ### 64. [Hazel](https://www.noodlesoft.com) - Automated File Organization
 - Use it to fully automate my filing process and automatically commit changes in my [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) repo.
 - I use prefixes for everything, bookmarks, notes, Ulysses entries and even files.
@@ -389,8 +392,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 > Using [Screenfetch](https://github.com/KittyKatt/screenFetch)
 
 ## Launchpad
-
-![](https://i.imgur.com/jr0JS8h.jpg)
+![](https://i.imgur.com/SFARtv1.jpg)
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
