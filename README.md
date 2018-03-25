@@ -396,7 +396,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [TimeMachineScheduler](http://www.klieme.com/TimeMachineScheduler.html) - Set the backup interval of Time Machine from 1 to 12 hours.
 
 ## Desktop Screenshot
-![](https://i.imgur.com/DqMMpjd.jpg)
+![](https://i.imgur.com/zAKij1K.jpg)
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
 ## Launchpad
