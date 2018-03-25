@@ -400,7 +400,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
 ## Alfred launcher
-![](https://imgur.com/Cd2Sbgd)
+![](https://i.imgur.com/Cd2Sbgd.jpg)
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything)
 
 ## Launchpad
