@@ -346,6 +346,7 @@ Here is how my library looks:
 ### [Safari](https://www.apple.com/lae/safari/)
 - My favourite browser for many reasons. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised and doesn't kill your battery.
 - One powerful plus that Chrome does have over safari is the amount of chrome extensions that you can get. Fortunately the ones most needed for me do [exist on Safari](https://github.com/learn-anything/safari-extensions#readme).
+- My absolute favourite extension on Safari is [sVim](https://github.com/flipxfx/sVim) which gives me full keyboard control over my browser. [Here](https://gist.github.com/nikitavoloboev/c26e6a05e4e426e0542e55b7513b581c) is my config for it.
 
 ### [Google Chrome](https://www.google.com/chrome/)
 - I only use Chrome for web devolopment due to its superior Chrome Dev tools.
