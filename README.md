@@ -49,12 +49,14 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 ### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Moved completely to using the command line for all my development needs. Assigned [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with Karabiner to open the app from Keyboard Maestro in seconds.
-- I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html). I also made my own [Ayu theme](iterm#readme) for it that looks like this:
+- I made my own [Ayu theme](iterm#readme) for it that looks like this:
 ![](https://i.imgur.com/KZYHoa9.png)
 
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
+
+- I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
 ### 6. [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology, this application is phenomenal with helping me [organise my tasks and things](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) I want to do and achieve. Here is how my sidebar looks:
