@@ -197,7 +197,7 @@ Here is how my library looks:
 
 ### 22. [Bartender](https://www.macbartender.com/) - Menu bar organizer
 - A great utility app that allows you to customise and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customised it to have the most important information that I need to show in it.
-<img src="https://i.imgur.com/E0ODZBv.png" width="500" alt="img">
+<img src="https://i.imgur.com/qKTsLbw.png" width="500" alt="img">
 
 - I can also activate Bartender and start searching for the menu bar item I need all from the keyboard.
 
