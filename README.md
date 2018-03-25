@@ -134,7 +134,7 @@ Here is how my library looks:
 - Day One is my digital life journal.
 - My entire life's experiences lives encrypted in the journal. Adding photographs I made, the thoughts I had and events that happened to me.
 - I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back.html) publicly too.
-- The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://www.instagram.com/nikitavoloboev/).
+- The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://instagram.com/nikitavoloboev).
 - If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
 ### 18. [Ulysses](http://www.ulyssesapp.com/) - Writing app
@@ -157,7 +157,7 @@ Here is how my library looks:
 - Here is how my library looks like:
 ![](https://i.imgur.com/MjGFvSb.jpg)
 
-- The red tag means that the image was uploaded to my [Instagram page](https://www.instagram.com/niikivi) for sharing.
+- The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways) for sharing.
 
 ### 21. [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 - I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific application.
