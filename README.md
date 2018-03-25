@@ -399,6 +399,10 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 ![](https://i.imgur.com/zAKij1K.jpg)
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
+## Alfred launcher
+![](https://imgur.com/Cd2Sbgd)
+> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything)
+
 ## Launchpad
 ![](https://i.imgur.com/vDXumPi.jpg)
 
