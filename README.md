@@ -141,6 +141,9 @@ Here is how my library looks:
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
+- I use [New Wave 80s](https://styles.ulyssesapp.com/bundle/New+Wave+80s/5407d108ce6703c6350c1977) theme in dark more when I write. Here is how it looks:
+![](https://i.imgur.com/k0Gp9fH.png)
+
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
 ### 19. [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
