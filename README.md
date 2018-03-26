@@ -406,7 +406,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 
 ## Launchpad
 ![](https://i.imgur.com/vDXumPi.jpg)
-> Using [this](https://www.imore.com/add-space-your-mac-dock) to add spaces between apps in Dock.
+> Using [this](https://www.macrumors.com/how-to/group-app-icons-macos-dock) to add spaces between apps in Dock.
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
