@@ -264,7 +264,7 @@ Here is how my library looks:
 ### 41. [Transmission](https://www.transmissionbt.com/) - BitTorrent client
 - A torrent client that I use, very minimal in its UI but is very powerful and has all the features that I need without the bloat that [uTorrent](http://www.utorrent.com/intl/en/) and other clients have.
 
-### 42. [Sip](https://sipapp.io/) Collect, organize & share colors
+### 42. [Sip](https://sipapp.io/) - Collect, organize & share colors
 - A great color picker that is quite often getting updated.
 
 ### 43. [IINA](https://github.com/lhc70000/iina) - Video player
