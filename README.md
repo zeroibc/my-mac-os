@@ -1,7 +1,7 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
 
-![](https://i.imgur.com/9mFZWds.jpg)
+![](desktop.png)
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
