@@ -33,7 +33,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 - For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it, it becomes ⌘ + ⌃ modifier key. So `caps lock + F` becomes ⌘ + ⌃ + F. And so on.
 - I take this idea further and define these kind of hyper keys for __every single key on my keyboard__.
-- My Karabiner config can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) and is described [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
+- My Karabiner config is described [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 
 ### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 - Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
