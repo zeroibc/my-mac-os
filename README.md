@@ -70,7 +70,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 <img src="https://i.imgur.com/IDesq0E.png" width="500" alt="img">
 
-### [iTerm](https://www.iterm2.com/) - Terminal Emulator
+#### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 - Assigned [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with Karabiner to open the app from Keyboard Maestro in seconds.
 - I made my own [Ayu theme](iterm#readme) for it. Which goes really well with [Ayu Mirage theme for Vim](https://github.com/ayu-theme/ayu-vim).
