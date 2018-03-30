@@ -184,7 +184,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 #### [TotalSpaces2](https://totalspaces.binaryage.com/) - Grid space manager
 - Allows me to completely remove the animation of switching between spaces/full screen apps.
-- I now run most applications in full screen and switch between them with [Karabiner](https://github.com/tekezo/Karabiner-Elements).s
+- I now run most applications in full screen and switch between them with [Karabiner](https://github.com/tekezo/Karabiner-Elements).
+
+### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
+- Use the app to fully plan any meal or recipe I want to make throughout the day as well as collect recipes and manage my shoppping list.
 
 ### Code
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
@@ -359,9 +362,6 @@ Here is how my library looks:
 
 #### [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Puts Overcast in menu bar
 - Allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar.
-
-### 64. [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
-- Use the app to fully plan any meal or recipe I want to make throughout the day as well as collect recipes and manage my shoppping list.
 
 ### Browsers
 #### [Safari](https://www.apple.com/lae/safari/)
