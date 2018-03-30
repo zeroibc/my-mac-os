@@ -100,7 +100,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
 - It is an incredible joy to make mind maps in this app and I use it to visualize everything. [My Notes, projects, plans and thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
-- I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/sharing/my-mind.html) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 - In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a __thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) I am doing __now__ there. Here is how that looks:
 
 ![](https://i.imgur.com/uYr28eZ.png)
