@@ -309,41 +309,38 @@ Here is how my library looks:
 ### 55. [Anki](http://ankisrs.net) - Intelligent flash cards
 - Still not fully utilising the full power of [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) but it was one of my goals this year to start to use this to my advantage. Essentially all this software does is provide you the means to write your own digital flashcards that you can then test yourself on. It also has a lot of [amazing addons](https://ankiweb.net/shared/addons/) that you can get to add more functionality to the app.
 
-### 56. [Texpad](https://www.texpadapp.com/osx) - LaTeX editor
-- Great LaTeX editor that has builin preview and great autosuggestions together with great UI interface.
-
-### 57. [ImageOptim](https://imageoptim.com/mac) - Compress images without losing quality & remove metadata
+### 56. [ImageOptim](https://imageoptim.com/mac) - Compress images without losing quality & remove metadata
 - Quickly remove all the unneeded metadata from the image as well as compress images without losing any visual quality and saving a lot of bandwidth when uploading these images on your website or blog.
 
-### 58. [Dragand](http://dragand.watch) - Download subtitles
+### 57. [Dragand](http://dragand.watch) - Download subtitles
 - Quickly get subtitles that I want by dragging the file with the movie/series I want to watch to the app.
 
-### 59. [GIF Brewery](http://gifbrewery.com) - Create GIFs
+### 58. [GIF Brewery](http://gifbrewery.com) - Create GIFs
 - Allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be.
 
-### 60. [Kap](https://github.com/wulkano/kap) - Screen recorder
+### 59. [Kap](https://github.com/wulkano/kap) - Screen recorder
 - An open source screen recorder I use to record GIFs.
 - Has keyboard support so I can quickly start and end recording of the GIF in one hotkey.
 
-### 61. [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Puts Overcast in menu bar
+### 60. [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Puts Overcast in menu bar
 - Allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar.
 
-### 62. [TotalSpaces2](https://totalspaces.binaryage.com/) - Grid space manager
+### 61. [TotalSpaces2](https://totalspaces.binaryage.com/) - Grid space manager
 - Allows me to completely remove the animation of switching between spaces/full screen apps.
 - I now run most applications in full screen and switch between them with [Karabiner](https://github.com/tekezo/Karabiner-Elements).
 
-### 63. [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
+### 62. [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
 - Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
 <img src="https://i.imgur.com/RATGaNJ.png" width="400" alt="img">
 
-### 64. [Hazel](https://www.noodlesoft.com) - Automated File Organization
+### 63. [Hazel](https://www.noodlesoft.com) - Automated File Organization
 - Use it to fully automate my filing process and automatically commit changes in my [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) repo.
 - I use prefixes for everything, bookmarks, notes, Ulysses entries and even files.
 	- This allows me to write some great rules for my Downloads folder that will file the files where I want them to be.
 	- Here is one example of such rule:
 <img src="http://i.imgur.com/7oiSYV3.png" width="500" alt="img">
 
-### 65. [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
+### 64. [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 - Use the app to fully plan any meal or recipe I want to make throughout the day as well as collect recipes and manage my shoppping list.
 
 ## Browsers
