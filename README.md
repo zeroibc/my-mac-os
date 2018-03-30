@@ -7,8 +7,9 @@
 
 ##### Contents
 - [Applications](#applications)
-- [Productivity](#productivity)
+	- [Productivity](#productivity)
 	- [Code](#code)
+	- [Social](#social)
 - [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
 - [Preference Panes](#preference-panes)
