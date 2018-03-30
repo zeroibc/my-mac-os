@@ -7,6 +7,8 @@
 
 ##### Contents
 - [Applications](#applications)
+- [Productivity](#productivity)
+	- [Code](#code)
 - [Browsers](#browsers)
 - [Command Line Apps](#command-line-apps)
 - [Preference Panes](#preference-panes)
@@ -16,11 +18,12 @@
 - [Contributing](#contributing)
 
 ## Applications
-I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life, sorted by their importance.
+I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life, sorted by category and their importance.
 
 I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
-### 1. [Alfred](https://www.alfredapp.com) - Launcher
+### Productivity
+#### [Alfred](https://www.alfredapp.com) - Launcher
 - Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
@@ -28,26 +31,45 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 - I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
-### 2. [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
+#### [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard remapping
 - Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
 - I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 - For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it, it becomes ⌘ + ⌃ modifier key. So `caps lock + F` becomes ⌘ + ⌃ + F. And so on.
 - I take this idea further and define these kind of hyper keys for __every single key on my keyboard__.
 - I describe how I use Karabiner in detail [here](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 
-### 3. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
+#### [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 - Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
 - It has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
 - I share [all the macros I use](km-macros#readme) with the app.
 
-### 4. [VS Code](https://github.com/Microsoft/vscode) - Code editor
+#### [2Do](http://www.2doapp.com/mac) - Flexible task manager
+- I love GTD methodology, this application is phenomenal with helping me [organise my tasks and things](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) I want to do and achieve. Here is how my sidebar looks:
+<img src="https://i.imgur.com/z8GLl48.png" width="150">
+
+- And it has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
+<img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
+
+#### [Trello](https://trello.com) - Project management tool
+- I use the app a lot to track various ongoing things I have in my life.
+- I share many boards I made [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
+![](https://i.imgur.com/YHmPwsx.jpg)
+
+- I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
+
+#### [1Password](https://1password.com) - Password manager
+- Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
+- No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible.
+
+### Code
+#### [VS Code](https://github.com/Microsoft/vscode) - Code editor
 - My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json). And [here](https://gist.github.com/nikitavoloboev/6a477ff089612434d28258901d9d9e04) is a list of extensions I use.
 - I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
 <img src="https://i.imgur.com/IDesq0E.png" width="500" alt="img">
 
-### 5. [iTerm](https://www.iterm2.com/) - Terminal Emulator
+### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 - Assigned [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with Karabiner to open the app from Keyboard Maestro in seconds.
 - I made my own [Ayu theme](iterm#readme) for it. Which goes really well with [Ayu Mirage theme for Vim](https://github.com/ayu-theme/ayu-vim).
@@ -59,41 +81,45 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
-### 6. [2Do](http://www.2doapp.com/mac) - Flexible task manager
-- I love GTD methodology, this application is phenomenal with helping me [organise my tasks and things](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html) I want to do and achieve. Here is how my sidebar looks:
-<img src="https://i.imgur.com/z8GLl48.png" width="150">
-
-- And it has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
-<img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
-
-### 7. [Sublime Text](https://www.sublimetext.com) - Text Editor
+#### [Sublime Text](https://www.sublimetext.com) - Text Editor
 - Use this editor in addition to VS Code and Neovim for its blazing fast speed of opening files.
 - I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
 - [Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
 
-### 8. [Ship](https://www.realartists.com/index.html) - Issue tracking and code review for GitHub
+#### [Ship](https://www.realartists.com/index.html) - Issue tracking and code review for GitHub
 - An awesome native app that lets me manage my GitHub issues.
 - Can schedule certain issues as 'Up Next' and complete them one by one.
 <img src="https://i.imgur.com/YSfRGUf.png" width="500" alt="img">
 
-### 9. [Trello](https://trello.com) - Project management tool
-- I use the app a lot to track various ongoing things I have in my life.
-- I share many boards I made [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
-![](https://i.imgur.com/YHmPwsx.jpg)
-
-- I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
-
-### 10. [1Password](https://1password.com) - Password manager
-- Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
-- No longer need to remember passwords and I now have a unique password for every website that I am signed up on whilist activating two factor authentication wherever possible.
-
-### 11. [Dash](https://kapeli.com/dash) - API Documentation Browser
+#### [Dash](https://kapeli.com/dash) - API Documentation Browser
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
 - I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch#readme) I made to quickly switch between Dash profiles.
 
 <img src="https://i.imgur.com/wyqtfCM.png" width="500" alt="img">
+
+#### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
+- I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
+- This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
+<img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
+
+Here is how my library looks:
+![](https://i.imgur.com/cDmCSyE.png)
+
+- I share my entire library of snippets you can import yourself [here](snippetslab#readme).
+
+#### Social
+#### [Textual](https://www.codeux.com/textual/) - IRC Client
+- I love IRC and this is the best macOS client for it.
+- I created my own custom [Ayu theme](textual#readme) that I love.
+<img src="https://i.imgur.com/5SglNCi.png" width="500" alt="img">
+
+- The app also has an awesome channel search feature that I use a lot.
+<img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
+
+#### [Telegram](https://desktop.telegram.org/) - Messenger
+- The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is really amazing and fast.
 
 ### 12. [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
@@ -103,27 +129,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a __thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) I am doing __now__ there. Here is how that looks:
 
 ![](https://i.imgur.com/uYr28eZ.png)
-
-### 13. [Textual](https://www.codeux.com/textual/) - IRC Client
-- I love IRC and this is the best macOS client for it.
-- I created my own custom [Ayu theme](textual#readme) that I love.
-<img src="https://i.imgur.com/5SglNCi.png" width="500" alt="img">
-
-- The app also has an awesome channel search feature that I use a lot.
-<img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
-
-### 14. [Telegram](https://desktop.telegram.org/) - Messenger
-- The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is really amazing and fast.
-
-### 15. [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
-- I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
-- This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
-<img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
-
-Here is how my library looks:
-![](https://i.imgur.com/cDmCSyE.png)
-
-- I share my entire library of snippets you can import yourself [here](snippetslab#readme).
 
 ### 16. [Timing](https://timingapp.com/whats-new) - Automatic time tracker
 - I use Timing app to fully automate tracking my time on my computer.
