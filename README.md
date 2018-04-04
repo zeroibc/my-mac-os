@@ -326,8 +326,8 @@ Here is how my library looks:
 - Has keyboard support so I can quickly start and end recording of the GIF in one hotkey.
 
 ### Finance
-#### [YNAB](https://www.youneedabudget.com/) - Budget manager
-- Use it to track and overview all of my finances, the most important part of this app is the [ideology](http://classic.youneedabudget.com/method) behind it. The whole app is built around this methodology and I recommend you take a look at it even if you are not planning to use the app, I find it very freeing and powerful.
+#### [Actual](https://www.producthunt.com/upcoming/actual) - Budget manager
+- Use it to track, budget and overview all of my finances. I use [YNAB ideology](http://classic.youneedabudget.com/method) for managing my money with the goal of being proactive with budgeting and spending. Knowing how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
 ### Utilities
 #### [Hazel](https://www.noodlesoft.com) - Automated File Organization
