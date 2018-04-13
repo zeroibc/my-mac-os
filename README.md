@@ -448,6 +448,8 @@ Here you can find more setups by other people that you can take ideas and inspir
 
 ## Related
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
+- [List of macOS apps](https://github.com/learn-anything/macos-apps#readme)
+- [Open Sorce macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## Contributing
 If you shared a similiar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
