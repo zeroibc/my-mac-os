@@ -448,7 +448,7 @@ Here you can find more setups by other people that you can take ideas and inspir
 
 ## Related
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac#readme)
-- [macOS apps](https://github.com/learn-anything/macos-apps#readme) - Interesting macOS apps.
+- [Interesting macOS apps](https://github.com/learn-anything/macos-apps#readme)
 - [Open Sorce macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## Contributing
