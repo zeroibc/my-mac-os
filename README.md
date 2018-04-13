@@ -200,7 +200,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 - Assigned [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with Karabiner to open the app from Keyboard Maestro in seconds.
-- I made my own [Ayu theme](iterm#readme) for it. Which goes really well with [Ayu Mirage theme for Vim](https://github.com/ayu-theme/ayu-vim).
+- I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu Mirage theme for Vim](https://github.com/ayu-theme/ayu-vim).
 ![](https://i.imgur.com/3cRnCm3.png)
 
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
@@ -254,7 +254,7 @@ Here is how my library looks:
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
 
 #### [Telegram](https://desktop.telegram.org/) - Messenger
-- The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is really amazing and fast.
+- The app has a very clean interface, a native client for macOS and stickers. Chats are not encrypted by default and don't use [approved cryptography](https://security.stackexchange.com/questions/49782/is-telegram-secure) but the client is amazing and fast.
 
 #### [AirMail](http://airmailapp.com/) - Email client
 - By far the most well designed and feature rich mail application that I have used so far. Has simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
@@ -371,7 +371,7 @@ Here is how my library looks:
 
 #### [Google Chrome](https://www.google.com/chrome/)
 - I only use Chrome for web devolopment due to its superior Chrome Dev tools.
-- I also really love the variety of [Chrome extensions](https://github.com/learn-anything/chrome-extensions#readme) that people have built and shared.
+- I also love the variety of [Chrome extensions](https://github.com/learn-anything/chrome-extensions#readme) that people have built and shared.
 
 #### [Beaker Browser](https://beakerbrowser.com)
 - Experimental Peer to Peer browser. Experimenting with using it more and more as I find the technology and the implications of it fascinating.
