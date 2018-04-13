@@ -1,5 +1,5 @@
 # Ayu theme for Textual
-I love IRC and hanging out in various Freenode channels. I also really love [ayu theme](https://github.com/dempfi/ayu).
+I love IRC and hanging out in various Freenode channels. I also love [ayu theme](https://github.com/dempfi/ayu).
 
 I wasn't happy with any of the default themes Textual comes with so I made this theme. Here is how it looks:
 
