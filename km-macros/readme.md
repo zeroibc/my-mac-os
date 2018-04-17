@@ -1,6 +1,7 @@
 # Keyboard Maestro Macros I use
 ##### Contents
 - [Explanation](#explanation)
+- [Install](#install)
 - [KM Plugins](#km-plugins)
 - [Macros](#macros)
 	- [Global Macro groups](#global-macro-groups)
@@ -18,7 +19,7 @@ It's a wonderful tool that allows you to create very powerful macros that can ra
 
 I wrote about how I manage my huge macro library [here](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907).
 
-All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below. For others, you can simply clone [this repo](https://github.com/nikitavoloboev/my-mac-os), import things and see what you like. I will be uploading essentially all the macros I use here.
+All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below.
 
 All global macros will have no trigger as they are called with Applescript from [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html). Some macros will have a Usage comment in the beginning where I clarify how I personally use the macro. It looks like this:
 
@@ -29,6 +30,13 @@ A lot of these macros were made with great help from the [Keyboard Maestro forum
 Just to emphasize how much KM has impacted my life. My most used macro from all these macros I share is macro to open Safari browser which I've ran [some 117,091 times](https://i.imgur.com/09KfToP.png) since I made it.
 
 I also love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro) workflow that lets me search through my entire KM library of actions to activate.
+
+## Install
+To install any of the macros, clone [this repository](https://github.com/nikitavoloboev/my-mac-os) by running:
+
+`git clone https://github.com/nikitavoloboev/my-mac-os`
+
+Then open the cloned repo in Finder. And inside `km-macros` dir, you can double click on any of the macros that you want to install to KM.
 
 ## KM Plugins
 It is advised you install these KM plugins as they make using KM editor more pleasant.
