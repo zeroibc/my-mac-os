@@ -186,14 +186,14 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 - Allows me to completely remove the animation of switching between spaces/full screen apps.
 - I now run most applications in full screen and switch between them with [Karabiner](https://github.com/tekezo/Karabiner-Elements).
 
-### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
+#### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
 - Use the app to fully plan any meal or recipe I want to make throughout the day as well as collect recipes and manage my shoppping list.
 
 ### Code
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
-- My favourite editor that I use to write code in. Most notably I like its [Vim](https://github.com/VSCodeVim/Vim) and [Go](https://github.com/Microsoft/vscode-go) plugins.
-- My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json). And [here](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) is a list of extensions I use.
-- I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
+- My favourite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) for it.
+- My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
+- I love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
 <img src="https://i.imgur.com/IDesq0E.png" width="500" alt="img">
 
@@ -212,7 +212,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I mad
 #### [Sublime Text](https://www.sublimetext.com) - Text Editor
 - Use this editor in addition to VS Code and Neovim for its blazing fast speed of opening files.
 - I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
-- [Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
+- I use [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text/sublime-text-plugins.html) together with [Ayu theme](https://github.com/dempfi/ayu).
 
 #### [Ship](https://www.realartists.com/index.html) - Issue tracking and code review for GitHub
 - An awesome native app that lets me manage my GitHub issues.
