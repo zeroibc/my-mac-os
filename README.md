@@ -393,10 +393,11 @@ I am currently trying to move and use [nix](https://github.com/NixOS/nix) packag
 
 There is a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
-- [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
-- [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from youtube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
@@ -413,10 +414,10 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [now](https://github.com/zeit/now-cli) - Realtime global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
-- [alfred](https://github.com/jason0x43/go-alfred#installation) - Symlinks your go project to alfred directory and builds your workflow.
+- [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
+- [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
+- [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) - Manage Go-based Alfred workflows.
 - [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
-- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
-- [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 
 ## Preference Panes
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - Manage services with `launchd`.
