@@ -393,13 +393,18 @@ I am currently trying to move and use [nix](https://github.com/NixOS/nix) packag
 
 There is a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
-- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+- [jq](https://github.com/stedolan/jq) - JSON processor.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
+- [git](https://github.com/git/git) - Version control.
+- [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from youtube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
+- [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
+- [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
 - [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
 - [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
@@ -417,6 +422,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
 - [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
 - [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) - Manage Go-based Alfred workflows.
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
 
 ## Preference Panes
