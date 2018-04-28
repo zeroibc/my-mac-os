@@ -28,7 +28,7 @@
 ## Applications
 I use a lot of applications on my mac. Below is a list of the ones that I love and use the most in my day to day life, sorted by category and their importance.
 
-I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) and I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together with my [iOS setup](https://github.com/nikitavoloboev/my-ios#readme). And I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
 ### Productivity
 #### [Alfred](https://www.alfredapp.com) - Launcher
