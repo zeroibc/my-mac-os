@@ -440,7 +440,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [D'Angelo](https://www.alfredforum.com/topic/10724-dangelo/) theme.
 
 ## Launchpad
-![](https://i.imgur.com/vDXumPi.jpg)
+![](https://i.imgur.com/kToOEJU.jpg)
 > Using [this](https://www.macrumors.com/how-to/group-app-icons-macos-dock) to add spaces between apps in Dock.
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
