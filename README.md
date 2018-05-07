@@ -408,6 +408,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
 - [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
+- [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
 - [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
 - [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
