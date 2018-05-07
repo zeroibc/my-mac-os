@@ -394,13 +394,15 @@ I am currently trying to move and use [nix](https://github.com/NixOS/nix) packag
 There is a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
+- [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
+- [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
+- [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [jq](https://github.com/stedolan/jq) - JSON processor.
-- [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 - [git](https://github.com/git/git) - Version control.
 - [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from youtube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
