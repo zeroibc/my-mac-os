@@ -423,6 +423,10 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [now](https://github.com/zeit/now-cli) - Realtime global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+- [hub](https://github.com/github/hub) - GitHub wrapper.
+- [entr](http://www.entrproject.org/) - Run arbitrary commands when files change.
+- [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
+- [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer.
 - [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
