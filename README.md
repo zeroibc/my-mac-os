@@ -246,9 +246,9 @@ Here is how my library looks:
 - Use the tool to quickly make HTTP requests and test out API endpoints.
 
 #### [Neovim](https://neovim.io) - Text Editor
-- I use vim editor often when connecting to remote sessions and when I need a console editor. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it, most notably I really like [Goyo](https://github.com/junegunn/goyo.vim) plugin for focused writing. Here is how it looks:
+- I use vim editor often when connecting to remote sessions and when I need a console editor. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it. Here is how it looks:
 
-<img src="https://i.imgur.com/mXp8vUx.png" width="500" alt="img">
+<img src="https://i.imgur.com/yGO1mEw.png" width="500" alt="img">
 
 ### Social
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
