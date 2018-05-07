@@ -194,19 +194,19 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
 - My favourite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) for it.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
-- I love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font and an always on [Zen mode](https://code.visualstudio.com/updates/v1_8#_focus-on-your-code). Here is how it looks:
+- I love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-<img src="https://i.imgur.com/Ij8xnOy.png" width="500" alt="img">
+<img src="https://i.imgur.com/GdZePdh.png" width="500" alt="img">
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
-- Assigned [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) with Karabiner to open the app from Keyboard Maestro in seconds.
-- I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu Mirage theme for Vim](https://github.com/ayu-theme/ayu-vim).
-![](https://i.imgur.com/3cRnCm3.png)
+- Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
+- I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
+![](https://i.imgur.com/yGO1mEw.png)
 
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
-<img src="http://i.imgur.com/RNLb5wj.png" width="500" alt="img">
+<img src="https://i.imgur.com/tMuolen.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
