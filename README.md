@@ -422,6 +422,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [now](https://github.com/zeit/now-cli) - Realtime global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
 - [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) - Manage Go-based Alfred workflows.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
