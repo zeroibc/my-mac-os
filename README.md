@@ -196,7 +196,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I use [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-<img src="https://i.imgur.com/uXXy7Gz.png" width="600" alt="img">
+![](https://i.imgur.com/uXXy7Gz.png)
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
