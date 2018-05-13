@@ -194,15 +194,15 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
 - My favourite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) for it.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
-- I use [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
+- I use [Ayu](https://github.com/teabyii/vscode-ayu) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-![](https://i.imgur.com/uXXy7Gz.png)
+![](https://i.imgur.com/Il3sxNd.png)
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
 - I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
-![](https://i.imgur.com/yGO1mEw.png)
+![](https://i.imgur.com/m6CK29L.png)
 
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
@@ -288,9 +288,9 @@ Here is how my library looks:
 <img src="http://i.imgur.com/Aa17RCQ.png" width="500" alt="img">
 
 - It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
-- I use [Outback](https://styles.ulyssesapp.com/bundle/Outback/535eb7c401255de72d57da6c) theme when I write. Here is how it looks:
+- I use [Ayu](https://styles.ulyssesapp.com/bundle/Ayu/5ae3545d5075368b0270daa9) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/7BmrvSe.png)
+![](https://i.imgur.com/6e3C1Ic.png)
 
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
