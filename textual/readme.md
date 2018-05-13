@@ -8,7 +8,7 @@ I wasn't happy with any of the default themes Textual comes with so I made this 
 I am using `Lucida Sans Regular` font.
 
 ## Install
-To install the theme, download the Night Blue folder attached [here](night%20blue).
+To install the theme, download the Night Blue folder attached [here](Night%20Blue).
 
 Then go to Textual app. Go to preferences and in Styles click on `Browse Styles` here:
 
