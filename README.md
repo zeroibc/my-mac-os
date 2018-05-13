@@ -253,7 +253,7 @@ Here is how my library looks:
 ### Social
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
 - I love IRC and this is the best macOS client for it.
-- I created my own [Night Blue theme](textual#readme) that I love.
+- I created my own [Night Blue theme](textual#readme) for it that I love.
 
 ![](https://i.imgur.com/YgNVUMH.png)
 
