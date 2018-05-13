@@ -253,8 +253,9 @@ Here is how my library looks:
 ### Social
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
 - I love IRC and this is the best macOS client for it.
-- I created my own custom [Ayu theme](textual#readme) that I love.
-<img src="https://i.imgur.com/5SglNCi.png" width="500" alt="img">
+- I created my own [Night Blue theme](textual#readme) that I love.
+
+![](https://i.imgur.com/YgNVUMH.png)
 
 - The app also has an awesome channel search feature that I use a lot.
 <img src="http://i.imgur.com/jwVCcMb.png" width="500" alt="img">
