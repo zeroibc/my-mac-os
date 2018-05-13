@@ -231,7 +231,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
 - This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
-<img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
+<img src="https://i.imgur.com/LBQVFPo.png" width="500" alt="img">
 
 Here is how my library looks:
 ![](https://i.imgur.com/cDmCSyE.png)
@@ -248,7 +248,7 @@ Here is how my library looks:
 #### [Neovim](https://neovim.io) - Text Editor
 - I use vim editor often when connecting to remote sessions and when I need a console editor. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it. Here is how it looks:
 
-![](https://i.imgur.com/yGO1mEw.png)
+![](https://i.imgur.com/m6CK29L.png)
 
 ### Social
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
