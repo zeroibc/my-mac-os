@@ -53,7 +53,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology. This app is phenomenal with helping me [organise my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
-<img src="https://i.imgur.com/z8GLl48.png" width="150">
+<img src="https://i.imgur.com/URuzerx.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
