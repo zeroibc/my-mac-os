@@ -1,19 +1,17 @@
-# Ayu theme for Textual
-I love IRC and hanging out in various Freenode channels. I also love [ayu theme](https://github.com/dempfi/ayu).
+# Night Blue theme for [Textual](https://www.codeux.com/textual/)
+I love IRC and hanging out in various Freenode channels.
 
 I wasn't happy with any of the default themes Textual comes with so I made this theme. Here is how it looks:
 
-<img src="https://i.imgur.com/5SglNCi.png" width="600" alt="img">
+![](https://i.imgur.com/YgNVUMH.png)
 
-It is essentially modfied [TotalSublime](https://github.com/danieldbird/total-sublime) theme. I only changed the colours to match the look of Ayu theme.
-
-I am using `Monotype Sorts` font.
+I am using `Lucida Sans Regular` font.
 
 ## Install
-To install the theme, download the Ayu folder attached [here](Ayu).
+To install the theme, download the Night Blue folder attached here.
 
 Then go to Textual app. Go to preferences and in Styles click on `Browse Styles` here:
 
-![](https://i.imgur.com/cg1Ont3.png)
+![](https://i.imgur.com/MEfiYuk.png)
 
 Put the downloaded folder inside the folder. You can read [this](https://help.codeux.com/textual/Styles.kb) for more information.
