@@ -21,9 +21,7 @@ I wrote about how I manage my huge macro library [here](https://forum.keyboardma
 
 All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below.
 
-All global macros will have no trigger as they are called with Applescript from [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html). Some macros will have a Usage comment in the beginning where I clarify how I personally use the macro. It looks like this:
-
-<img src="https://i.imgur.com/5U1wnqz.png" width="500" alt="img">
+All global macros will have no trigger as they are called with Applescript from [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 
 A lot of these macros were made with great help from the [Keyboard Maestro forum community](https://forum.keyboardmaestro.com/latest).
 
