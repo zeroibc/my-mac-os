@@ -246,7 +246,8 @@ Here is how my library looks:
 - Use the tool to quickly make HTTP requests and test out API endpoints.
 
 #### [Neovim](https://neovim.io) - Text Editor
-- I use vim editor often when connecting to remote sessions and when I need a console editor. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it. Here is how it looks:
+- I am still [learning vim](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) but the this journey has been very rewarding. Modal editing is amazing. I use vim editor often when connecting to remote sessions and when I need a console editor
+- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfile/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it. Here is how it looks:
 
 ![](https://i.imgur.com/m6CK29L.png)
 
