@@ -391,9 +391,7 @@ Here is how my library looks:
 - Use it for web devolopment for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
 
 ## Command Line Apps
-[Homebrew](https://brew.sh) is a wonderful and user friendly package manager for macOS. [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I am currently using from it.
-
-I am currently trying to move and use [nix](https://github.com/NixOS/nix) package manager fully instead for the many problems it solves with package management.
+I use [nix](https://github.com/NixOS/nix) package manager to install all the packages on my system.
 
 There is a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
