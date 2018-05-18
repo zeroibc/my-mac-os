@@ -61,7 +61,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [Trello](https://trello.com) - Project management tool
 - I use the app a lot to track various projects I have in my life.
 - I share many boards I made [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
-![](https://i.imgur.com/YHmPwsx.jpg)
+![](https://i.imgur.com/cZzCfJ3.jpg)
 
 - I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
 
