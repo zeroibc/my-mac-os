@@ -204,6 +204,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 ![](https://i.imgur.com/m6CK29L.png)
 
+- [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I installed with [Nix](https://github.com/NixOS/nix).
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="https://i.imgur.com/tMuolen.png" width="500" alt="img">
 
@@ -390,7 +391,7 @@ Here is how my library looks:
 - Use it for web devolopment for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
 
 ## Command Line Apps
-I use [nix](https://github.com/NixOS/nix) package manager to install all the packages on my system.
+I use [Nix](https://github.com/NixOS/nix) package manager to install all the packages on my system.
 
 There is a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
