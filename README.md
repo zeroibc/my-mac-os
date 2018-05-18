@@ -447,7 +447,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 
 ## Alfred launcher
 ![](https://i.imgur.com/FpAKitO.jpg)
-> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [D'Angelo](https://www.alfredapp.com/extras/theme/ek4gPVzkX6/) theme.
+> Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Ayu](https://www.alfredapp.com/extras/theme/6aSDGHwmmC/) theme.
 
 ## Launchpad
 ![](https://i.imgur.com/dYCsVeg.jpg)
