@@ -204,7 +204,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 ![](https://i.imgur.com/m6CK29L.png)
 
-- [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
 <img src="https://i.imgur.com/tMuolen.png" width="500" alt="img">
 
