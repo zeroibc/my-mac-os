@@ -72,7 +72,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [Timing](https://timingapp.com/whats-new) - Automatic time tracker
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
-<img src="https://i.imgur.com/U6wxKLn.png" width="500" alt="img">
+<img src="https://i.imgur.com/Pnygc3Q.png" width="600" alt="img">
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
