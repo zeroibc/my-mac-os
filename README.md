@@ -407,6 +407,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from youtube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
+- [direnv](https://direnv.net/) - Environment switcher for the shell.
 - [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
 - [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
 - [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.
