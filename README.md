@@ -165,7 +165,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 <img src="https://i.imgur.com/UTqei1d.png" width="300" alt="img">
 
 #### [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Control incoming/outgoing network traffic
-- An amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
+- Amazing networking tool that gives you a clear picture of what connections are incoming to your computer and what are outgoing.
 - Takes a bit of time to set it up correctly and is quite an insightful experience first turning it on and having it notify every couple of seconds that some app is trying to send data to some server and whether you want to allow that.
 - This is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data.
 
@@ -205,8 +205,8 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 ![](https://i.imgur.com/m6CK29L.png)
 
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I installed with [Nix](https://nixos.org/nix/).
-- I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between iTerm tabs.
-<img src="https://i.imgur.com/tMuolen.png" width="500" alt="img">
+- I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
+![](https://i.imgur.com/ajkJAED.png)
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
