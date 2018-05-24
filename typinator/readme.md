@@ -1,7 +1,7 @@
 # My Typinator Sets
 I wrote about how I use [Typinator](https://wiki.nikitavoloboev.xyz/macOS/apps/typinator.html) and [Keyboard Maestro](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/keyboard-maestro.html) together to automate writing in an article you can read [here](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
 
-Here you can find the different Sets that I use from Typinator to speed up my writing.
+Here you can find the different Sets that I use in Typinator to speed up my writing.
 
 ![](https://i.imgur.com/2r0iXKt.png)
 
