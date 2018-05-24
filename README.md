@@ -1,7 +1,7 @@
 # My wonderful world of macOS [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
 > List of applications and tools that make my macOS experience even more amazing
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/screen.png)
+![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/mac.png)
 
 > [Wallpaper link](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
 
@@ -443,7 +443,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [TimeMachineScheduler](http://www.klieme.com/TimeMachineScheduler.html) - Set the backup interval of Time Machine from 1 to 12 hours.
 
 ## Desktop Screenshot
-![](https://i.imgur.com/zAKij1K.jpg)
+![](https://i.imgur.com/uHqhJW3.jpg)
 > Using [Neofetch](https://github.com/dylanaraps/neofetch)
 
 ## Alfred launcher
@@ -451,7 +451,7 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 > Searching [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything). Using [Ayu](https://www.alfredapp.com/extras/theme/6aSDGHwmmC/) theme.
 
 ## Launchpad
-![](https://i.imgur.com/dYCsVeg.jpg)
+![](https://i.imgur.com/glXw4jB.jpg)
 > Using [this](https://www.macrumors.com/how-to/group-app-icons-macos-dock) to add spaces between apps in Dock.
 
 ## [My wonderful world of iOS 📱](https://github.com/nikitavoloboev/my-ios#readme)
