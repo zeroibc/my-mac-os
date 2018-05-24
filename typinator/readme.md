@@ -3,8 +3,6 @@ I wrote about how I use [Typinator](https://wiki.nikitavoloboev.xyz/macOS/apps/t
 
 Here you can find the different Sets that I use in Typinator to speed up my writing.
 
-![](https://i.imgur.com/2r0iXKt.png)
-
 The Sets can be found in [this folder](./sets) and here is their explanation. I activate nearly all the snippets from Typinator quick search and thus most snippets won't have any kind of trigger.
 
 1. Words - Single word expansions of words with more than 5-6 characters.
@@ -19,6 +17,9 @@ The Sets can be found in [this folder](./sets) and here is their explanation. I 
 10. HTML - HTML snippets.
 11. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical.html).
 12. VS Code - Currently only holds `alfred build` task template. For code snippets, I use VS Code snippet engine itself.
+
+![](https://i.imgur.com/2r0iXKt.png)
+> My Typinator Sets
 
 I use the same trick as in [KM](../km-macros#readme) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
 
