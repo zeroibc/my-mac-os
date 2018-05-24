@@ -206,7 +206,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 - [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the packages I installed with [Nix](https://nixos.org/nix/).
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
-![](https://i.imgur.com/ajkJAED.png)
+<img src="https://i.imgur.com/ajkJAED.png" width="500" alt="img">
 
 - I go over how I use the app [here](https://wiki.nikitavoloboev.xyz/macOS/apps/iterm.html).
 
