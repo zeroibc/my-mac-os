@@ -18,7 +18,7 @@ The Sets can be found in [this folder](./sets) and here is their explanation. I 
 11. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical.html).
 12. VS Code - Currently only holds `alfred build` task template. For code snippets, I use VS Code snippet engine itself.
 
-![](https://i.imgur.com/2r0iXKt.png)
+![](https://i.imgur.com/9NHD4Sd.png)
 > My Typinator Sets
 
 I use the same trick as in [KM](../km-macros#readme) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
