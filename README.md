@@ -81,7 +81,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - It is an incredible joy to make mind maps in this app and I use it to [visualize everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44) and brainstorm ideas for my projects.
 - I have a __Thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) I am doing __now__ there. Here is how that looks:
 
-![](https://i.imgur.com/3SZobob.png)
+![](https://i.imgur.com/uU2lMrH.png)
 
 #### [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
 - I use the app to [fully automate writing repetitive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
