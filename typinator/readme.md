@@ -22,4 +22,4 @@ The Sets can be found in [this folder](./sets) and here is their explanation. I 
 
 I use the same trick as in [KM](../km-macros#readme) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
 
-![](https://i.imgur.com/6maVt3Z.png)
+![](https://i.imgur.com/RSem3O3.png)
