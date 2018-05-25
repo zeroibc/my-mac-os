@@ -78,7 +78,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
-- It is an incredible joy to make mind maps in this app and I use it to [visualize everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44) and brainstorm ideas for my projects.
 - I have a __Thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](https://wiki.nikitavoloboev.xyz/research/solving-problems.html) I am doing __now__ there. Here is how that looks:
 
 ![](https://i.imgur.com/uU2lMrH.png)
