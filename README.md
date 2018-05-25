@@ -437,7 +437,6 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
 
 ## Preference Panes
-- [LaunchRocket](https://github.com/jimbojsb/launchrocket) - Manage services with `launchd`.
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
 - [RCDefaultApp](http://www.rubicode.com/Software/RCDefaultApp/) - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 - [TimeMachineScheduler](http://www.klieme.com/TimeMachineScheduler.html) - Set the backup interval of Time Machine from 1 to 12 hours.
