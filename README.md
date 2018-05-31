@@ -455,13 +455,13 @@ There is a list of [interesting CLI tools](https://github.com/learn-anything/com
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios#readme) going over what applications I use on iOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/lqZPG7s.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/sD3Gsgq.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/e0gEkdn.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/NJyvMtI.jpg"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/vUFWJvc.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/p4akGww.jpg"></a>
 
 ## Similar Setups
 Here you can find more setups by other people that you can take ideas and inspiration from.
