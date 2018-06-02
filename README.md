@@ -88,7 +88,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 #### [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
 - I use Pixave as my own personal image library. I sort images in groups and I have the powerful search I can use to find any image I need.
-- Here is how my library looks like:
+- Here is how my library looks:
 ![](https://i.imgur.com/MjGFvSb.jpg)
 
 - The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways) for sharing.
@@ -156,7 +156,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
 - The app I use to keep up with my RSS feeds. I use RSS to follow my favourite blogs, stay up to date on new podcast episodes and even track some software releases.
 - I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs.html) between phone and mac.
-- Here is how Reeder looks like for me:
+- Here is how Reeder looks for me:
 <img src="https://i.imgur.com/WCGFLl8.png" width="500" alt="img">
 
 #### [Dropzone](https://aptonic.com) - Drag and drop actions
