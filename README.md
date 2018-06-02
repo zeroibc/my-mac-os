@@ -72,7 +72,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [Timing](https://timingapp.com/whats-new) - Automatic time tracker
 - I use Timing app to fully automate tracking my time on my computer.
 - The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
-<img src="https://i.imgur.com/Pnygc3Q.png" width="600" alt="img">
+<img src="https://i.imgur.com/lgQuK47.png" width="600" alt="img">
 
 #### [MindNode](https://mindnode.com) - Interactive Mind Mapping
 - An application which allowed me to originally create all of the maps for [Learn Anything](https://learn-anything.xyz).
@@ -201,6 +201,9 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
 - I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
+
+<img src="https://i.imgur.com/MFmvp4F.png" width="400" alt="img">
+
 ![](https://i.imgur.com/MFmvp4F.png)
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
