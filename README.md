@@ -328,9 +328,6 @@ Here is how my library looks:
 - Open source alternative to VLC built specifically for macOS.
 - It is based on [mpv](https://github.com/mpv-player/mpv) and has a more modern and native look than VLC.
 
-#### [Dragand](http://dragand.watch) - Download subtitles
-- Quickly get subtitles that I want by dragging the file with the movie/series I want to watch to the app.
-
 #### [GIF Brewery](http://gifbrewery.com) - Create GIFs
 - Allows me to create some great GIFs from video clips as well as converting the entire video clip into a GIF if need be.
 
