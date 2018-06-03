@@ -130,7 +130,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I have front pages of [Hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
 <img src="https://i.imgur.com/OwIlq6v.png" width="500" alt="img">
 
-- I then have a schedule where I can only use these websites for 30 minutes every 2 hours. It also [turns on Do Not Disturb mode](https://github.com/sindresorhus/do-not-disturb-cli) whilst I am in Focus mode.
+- I then have a schedule where I can only use these websites for 30 minutes every 2 hours. It also turns on Do Not Disturb mode whilst I am in Focus mode.
 <img src="https://i.imgur.com/OsAazBy.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
@@ -203,8 +203,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
 <img src="https://i.imgur.com/MFmvp4F.png" width="400" alt="img">
-
-![](https://i.imgur.com/MFmvp4F.png)
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 <img src="https://i.imgur.com/UUDBHcq.png" width="500" alt="img">
