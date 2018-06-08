@@ -202,7 +202,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
 - I made my own [Monokai theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
-<img src="https://i.imgur.com/WQNfyfO.png" width="400" alt="img">
+<img src="https://i.imgur.com/WQNfyfO.png" width="500" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 <img src="https://i.imgur.com/UUDBHcq.png" width="500" alt="img">
@@ -249,7 +249,7 @@ Here is how my library looks:
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
 - My config for it can be seen [here](https://github.com/nikitavoloboev/dotfile/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it. Here is how it looks:
 
-![](https://i.imgur.com/m6CK29L.png)
+<img src="https://i.imgur.com/WQNfyfO.png" width="500" alt="img">
 
 ### Social
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
