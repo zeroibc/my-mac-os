@@ -235,7 +235,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 Here is how my library looks:
 ![](https://i.imgur.com/LBQVFPo.png)
 
-- I share my entire library of snippets you can import yourself [here](snippetslab#readme) as well as share everything as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html).
+- I share my entire library of snippets you can import yourself [here](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html) as well as share everything as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html).
 
 #### [Tower](https://www.git-tower.com) - Git client
 - Use the app to help me version control any project I am working on. Love the ability to search through commits, check out branches with ease and searching through all the Git repositories I have on my mac with quick search.
@@ -247,9 +247,7 @@ Here is how my library looks:
 #### [Neovim](https://neovim.io) - Text Editor
 - The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
-- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfile/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it. Here is how it looks:
-
-<img src="https://i.imgur.com/WQNfyfO.png" width="500" alt="img">
+- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfile/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it.
 
 ### Social
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
