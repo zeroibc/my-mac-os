@@ -193,16 +193,16 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
 - My favourite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) for it.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
-- I use [Ayu](https://github.com/teabyii/vscode-ayu) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
+- I use [Monokai Octagon](https://www.monokai.pro/vscode/) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-![](https://i.imgur.com/Il3sxNd.png)
+![](https://i.imgur.com/hss9CH8.png)
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
-- Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
+- Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 - Assigned w + j with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open the app from Keyboard Maestro in seconds.
-- I made my own [Ayu theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
+- I made my own [Monokai theme](iterm#readme) for it. Which goes well with [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
-<img src="https://i.imgur.com/MFmvp4F.png" width="400" alt="img">
+<img src="https://i.imgur.com/WQNfyfO.png" width="400" alt="img">
 
 - I also love using [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions.
 <img src="https://i.imgur.com/UUDBHcq.png" width="500" alt="img">
