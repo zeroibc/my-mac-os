@@ -1,783 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<array>
-	<dict>
-		<key>Activate</key>
-		<string>OnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
-		<key>CreationDate</key>
-		<real>524584992.18696302</real>
-		<key>KeyCode</key>
-		<integer>34</integer>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>AllWindows</key>
-						<true/>
-						<key>AlreadyActivatedActionType</key>
-						<string>Normal</string>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.stairways.keyboardmaestro.editor</string>
-							<key>Name</key>
-							<string>Keyboard Maestro</string>
-							<key>NewFile</key>
-							<string>/Applications/Keyboard Maestro.app</string>
-						</dict>
-						<key>MacroActionType</key>
-						<string>ActivateApplication</string>
-						<key>ReopenWindows</key>
-						<false/>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Select a macro group</string>
-						<key>DisplayKind</key>
-						<string>Window</string>
-						<key>IncludeStdErr</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ExecuteAppleScript</string>
-						<key>NotifyOnFailure</key>
-						<false/>
-						<key>Path</key>
-						<string></string>
-						<key>StopOnFailure</key>
-						<false/>
-						<key>Text</key>
-						<string>try	set macroGroupName to "proj: Open projects"		tell application "Keyboard Maestro"				if macro group macroGroupName exists then			select macro group macroGroupName		else			error "Cannot select macro group " &amp; macroGroupName &amp; " — it is missing!"		end if			end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend trytry		tell application "System Events"		tell application process "Keyboard Maestro"			tell window "Keyboard Maestro Editor"				tell scroll area 2 of splitter group 1 of group 1					set focused to true				end tell			end tell		end tell	end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend try------------------------------------------------------------------------------</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TrimResults</key>
-						<true/>
-						<key>TrimResultsNew</key>
-						<true/>
-						<key>UseText</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>531052080.55366898</real>
-				<key>ModificationDate</key>
-				<real>537659238.03444505</real>
-				<key>Name</key>
-				<string>c: Open websites (Chrome)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>8</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>C9FA64FF-8C2D-4879-B67C-DBF0AA95C234</string>
-			</dict>
-		</array>
-		<key>Modifiers</key>
-		<integer>6656</integer>
-		<key>Name</key>
-		<string>t: KM groups (General)</string>
-		<key>PaletteUnderMouse</key>
-		<false/>
-		<key>Theme</key>
-		<dict>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>21</integer>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseIcon</key>
-			<false/>
-			<key>UseTrigger</key>
-			<true/>
-		</dict>
-		<key>ToggleMacroUID</key>
-		<string>8235964C-F40A-4814-A909-4D2C702D0FDB</string>
-		<key>UID</key>
-		<string>4C8B2D82-3C74-4893-A3A8-B594C60C816B</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>OnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
-		<key>CreationDate</key>
-		<real>524584992.18696302</real>
-		<key>KeyCode</key>
-		<integer>34</integer>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>AllWindows</key>
-						<true/>
-						<key>AlreadyActivatedActionType</key>
-						<string>Normal</string>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.stairways.keyboardmaestro.editor</string>
-							<key>Name</key>
-							<string>Keyboard Maestro</string>
-							<key>NewFile</key>
-							<string>/Applications/Keyboard Maestro.app</string>
-						</dict>
-						<key>MacroActionType</key>
-						<string>ActivateApplication</string>
-						<key>ReopenWindows</key>
-						<false/>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Select a macro group</string>
-						<key>DisplayKind</key>
-						<string>Window</string>
-						<key>IncludeStdErr</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ExecuteAppleScript</string>
-						<key>NotifyOnFailure</key>
-						<false/>
-						<key>Path</key>
-						<string></string>
-						<key>StopOnFailure</key>
-						<false/>
-						<key>Text</key>
-						<string>try	set macroGroupName to "t: Trackad"		tell application "Keyboard Maestro"				if macro group macroGroupName exists then			select macro group macroGroupName		else			error "Cannot select macro group " &amp; macroGroupName &amp; " — it is missing!"		end if			end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend trytry		tell application "System Events"		tell application process "Keyboard Maestro"			tell window "Keyboard Maestro Editor"				tell scroll area 2 of splitter group 1 of group 1					set focused to true				end tell			end tell		end tell	end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend try------------------------------------------------------------------------------</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TrimResults</key>
-						<true/>
-						<key>TrimResultsNew</key>
-						<true/>
-						<key>UseText</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>535417132.02149701</real>
-				<key>ModificationDate</key>
-				<real>537667574.16065705</real>
-				<key>Name</key>
-				<string>t: Trackad</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>2</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>B543F44D-93EC-4BC2-9EAB-877F6960861B</string>
-			</dict>
-		</array>
-		<key>Modifiers</key>
-		<integer>6656</integer>
-		<key>Name</key>
-		<string>t: KM groups (General)</string>
-		<key>PaletteUnderMouse</key>
-		<false/>
-		<key>Theme</key>
-		<dict>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>21</integer>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseIcon</key>
-			<false/>
-			<key>UseTrigger</key>
-			<true/>
-		</dict>
-		<key>ToggleMacroUID</key>
-		<string>8235964C-F40A-4814-A909-4D2C702D0FDB</string>
-		<key>UID</key>
-		<string>4C8B2D82-3C74-4893-A3A8-B594C60C816B</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>OnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
-		<key>CreationDate</key>
-		<real>524584992.18696302</real>
-		<key>KeyCode</key>
-		<integer>34</integer>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>AllWindows</key>
-						<true/>
-						<key>AlreadyActivatedActionType</key>
-						<string>Normal</string>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.stairways.keyboardmaestro.editor</string>
-							<key>Name</key>
-							<string>Keyboard Maestro</string>
-							<key>NewFile</key>
-							<string>/Applications/Keyboard Maestro.app</string>
-						</dict>
-						<key>MacroActionType</key>
-						<string>ActivateApplication</string>
-						<key>ReopenWindows</key>
-						<false/>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Select a macro group</string>
-						<key>DisplayKind</key>
-						<string>Window</string>
-						<key>IncludeStdErr</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ExecuteAppleScript</string>
-						<key>NotifyOnFailure</key>
-						<false/>
-						<key>Path</key>
-						<string></string>
-						<key>StopOnFailure</key>
-						<false/>
-						<key>Text</key>
-						<string>try	set macroGroupName to "g: General"		tell application "Keyboard Maestro"				if macro group macroGroupName exists then			select macro group macroGroupName		else			error "Cannot select macro group " &amp; macroGroupName &amp; " — it is missing!"		end if			end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend trytry		tell application "System Events"		tell application process "Keyboard Maestro"			tell window "Keyboard Maestro Editor"				tell scroll area 2 of splitter group 1 of group 1					set focused to true				end tell			end tell		end tell	end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend try------------------------------------------------------------------------------</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TrimResults</key>
-						<true/>
-						<key>TrimResultsNew</key>
-						<true/>
-						<key>UseText</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>524450394.23832601</real>
-				<key>ModificationDate</key>
-				<real>537659216.67374599</real>
-				<key>Name</key>
-				<string>g: General</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>5</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>EA9F3EBF-5CB3-4E81-A034-B6E23B36FEAD</string>
-			</dict>
-		</array>
-		<key>Modifiers</key>
-		<integer>6656</integer>
-		<key>Name</key>
-		<string>t: KM groups (General)</string>
-		<key>PaletteUnderMouse</key>
-		<false/>
-		<key>Theme</key>
-		<dict>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>21</integer>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseIcon</key>
-			<false/>
-			<key>UseTrigger</key>
-			<true/>
-		</dict>
-		<key>ToggleMacroUID</key>
-		<string>8235964C-F40A-4814-A909-4D2C702D0FDB</string>
-		<key>UID</key>
-		<string>4C8B2D82-3C74-4893-A3A8-B594C60C816B</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>OnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
-		<key>CreationDate</key>
-		<real>524584992.18696302</real>
-		<key>KeyCode</key>
-		<integer>34</integer>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>AllWindows</key>
-						<true/>
-						<key>AlreadyActivatedActionType</key>
-						<string>Normal</string>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.stairways.keyboardmaestro.editor</string>
-							<key>Name</key>
-							<string>Keyboard Maestro</string>
-							<key>NewFile</key>
-							<string>/Applications/Keyboard Maestro.app</string>
-						</dict>
-						<key>MacroActionType</key>
-						<string>ActivateApplication</string>
-						<key>ReopenWindows</key>
-						<false/>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Select a macro group</string>
-						<key>DisplayKind</key>
-						<string>Window</string>
-						<key>IncludeStdErr</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ExecuteAppleScript</string>
-						<key>NotifyOnFailure</key>
-						<false/>
-						<key>Path</key>
-						<string></string>
-						<key>StopOnFailure</key>
-						<false/>
-						<key>Text</key>
-						<string>try	set macroGroupName to "t: KM groups (General)"		tell application "Keyboard Maestro"				if macro group macroGroupName exists then			select macro group macroGroupName		else			error "Cannot select macro group " &amp; macroGroupName &amp; " — it is missing!"		end if			end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend trytry		tell application "System Events"		tell application process "Keyboard Maestro"			tell window "Keyboard Maestro Editor"				tell scroll area 2 of splitter group 1 of group 1					set focused to true				end tell			end tell		end tell	end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend try------------------------------------------------------------------------------</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TrimResults</key>
-						<true/>
-						<key>TrimResultsNew</key>
-						<true/>
-						<key>UseText</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>535417132.02149701</real>
-				<key>ModificationDate</key>
-				<real>537659255.01450801</real>
-				<key>Name</key>
-				<string>t: KM Groups (General)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>45</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>9B99D271-AC02-4CFC-8543-8A3F29C6AC67</string>
-			</dict>
-		</array>
-		<key>Modifiers</key>
-		<integer>6656</integer>
-		<key>Name</key>
-		<string>t: KM groups (General)</string>
-		<key>PaletteUnderMouse</key>
-		<false/>
-		<key>Theme</key>
-		<dict>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>21</integer>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseIcon</key>
-			<false/>
-			<key>UseTrigger</key>
-			<true/>
-		</dict>
-		<key>ToggleMacroUID</key>
-		<string>8235964C-F40A-4814-A909-4D2C702D0FDB</string>
-		<key>UID</key>
-		<string>4C8B2D82-3C74-4893-A3A8-B594C60C816B</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>OnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
-		<key>CreationDate</key>
-		<real>524584992.18696302</real>
-		<key>KeyCode</key>
-		<integer>34</integer>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>AllWindows</key>
-						<true/>
-						<key>AlreadyActivatedActionType</key>
-						<string>Normal</string>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.stairways.keyboardmaestro.editor</string>
-							<key>Name</key>
-							<string>Keyboard Maestro</string>
-							<key>NewFile</key>
-							<string>/Applications/Keyboard Maestro.app</string>
-						</dict>
-						<key>MacroActionType</key>
-						<string>ActivateApplication</string>
-						<key>ReopenWindows</key>
-						<false/>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Select a macro group</string>
-						<key>DisplayKind</key>
-						<string>Window</string>
-						<key>IncludeStdErr</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ExecuteAppleScript</string>
-						<key>NotifyOnFailure</key>
-						<false/>
-						<key>Path</key>
-						<string></string>
-						<key>StopOnFailure</key>
-						<false/>
-						<key>Text</key>
-						<string>try	set macroGroupName to "open: applications"		tell application "Keyboard Maestro"				if macro group macroGroupName exists then			select macro group macroGroupName		else			error "Cannot select macro group " &amp; macroGroupName &amp; " — it is missing!"		end if			end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend trytry		tell application "System Events"		tell application process "Keyboard Maestro"			tell window "Keyboard Maestro Editor"				tell scroll area 2 of splitter group 1 of group 1					set focused to true				end tell			end tell		end tell	end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend try------------------------------------------------------------------------------</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TrimResults</key>
-						<true/>
-						<key>TrimResultsNew</key>
-						<true/>
-						<key>UseText</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>531052080.55366898</real>
-				<key>ModificationDate</key>
-				<real>537659218.895998</real>
-				<key>Name</key>
-				<string>open: Applications</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>31</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>D4A99D0D-F7E7-4874-82A5-8AF31C45F8A7</string>
-			</dict>
-		</array>
-		<key>Modifiers</key>
-		<integer>6656</integer>
-		<key>Name</key>
-		<string>t: KM groups (General)</string>
-		<key>PaletteUnderMouse</key>
-		<false/>
-		<key>Theme</key>
-		<dict>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>21</integer>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseIcon</key>
-			<false/>
-			<key>UseTrigger</key>
-			<true/>
-		</dict>
-		<key>ToggleMacroUID</key>
-		<string>8235964C-F40A-4814-A909-4D2C702D0FDB</string>
-		<key>UID</key>
-		<string>4C8B2D82-3C74-4893-A3A8-B594C60C816B</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>OnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
-		<key>CreationDate</key>
-		<real>524584992.18696302</real>
-		<key>KeyCode</key>
-		<integer>34</integer>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>AllWindows</key>
-						<true/>
-						<key>AlreadyActivatedActionType</key>
-						<string>Normal</string>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.stairways.keyboardmaestro.editor</string>
-							<key>Name</key>
-							<string>Keyboard Maestro</string>
-							<key>NewFile</key>
-							<string>/Applications/Keyboard Maestro.app</string>
-						</dict>
-						<key>MacroActionType</key>
-						<string>ActivateApplication</string>
-						<key>ReopenWindows</key>
-						<false/>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Select a macro group</string>
-						<key>DisplayKind</key>
-						<string>Window</string>
-						<key>IncludeStdErr</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ExecuteAppleScript</string>
-						<key>NotifyOnFailure</key>
-						<false/>
-						<key>Path</key>
-						<string></string>
-						<key>StopOnFailure</key>
-						<false/>
-						<key>Text</key>
-						<string>try	set macroGroupName to "proj: Open projects"		tell application "Keyboard Maestro"				if macro group macroGroupName exists then			select macro group macroGroupName		else			error "Cannot select macro group " &amp; macroGroupName &amp; " — it is missing!"		end if			end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend trytry		tell application "System Events"		tell application process "Keyboard Maestro"			tell window "Keyboard Maestro Editor"				tell scroll area 2 of splitter group 1 of group 1					set focused to true				end tell			end tell		end tell	end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend try------------------------------------------------------------------------------</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TrimResults</key>
-						<true/>
-						<key>TrimResultsNew</key>
-						<true/>
-						<key>UseText</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>531052080.55366898</real>
-				<key>ModificationDate</key>
-				<real>537659241.36465895</real>
-				<key>Name</key>
-				<string>proj: Projects</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>35</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>7F7A2139-07BE-472F-A7A0-3B7006C733DD</string>
-			</dict>
-		</array>
-		<key>Modifiers</key>
-		<integer>6656</integer>
-		<key>Name</key>
-		<string>t: KM groups (General)</string>
-		<key>PaletteUnderMouse</key>
-		<false/>
-		<key>Theme</key>
-		<dict>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>21</integer>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseIcon</key>
-			<false/>
-			<key>UseTrigger</key>
-			<true/>
-		</dict>
-		<key>ToggleMacroUID</key>
-		<string>8235964C-F40A-4814-A909-4D2C702D0FDB</string>
-		<key>UID</key>
-		<string>4C8B2D82-3C74-4893-A3A8-B594C60C816B</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>OnceWithPalette</string>
-		<key>AddToMacroPalette</key>
-		<false/>
-		<key>AddToStatusMenu</key>
-		<false/>
-		<key>CreationDate</key>
-		<real>524584992.18696302</real>
-		<key>KeyCode</key>
-		<integer>34</integer>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>AllWindows</key>
-						<true/>
-						<key>AlreadyActivatedActionType</key>
-						<string>Normal</string>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.stairways.keyboardmaestro.editor</string>
-							<key>Name</key>
-							<string>Keyboard Maestro</string>
-							<key>NewFile</key>
-							<string>/Applications/Keyboard Maestro.app</string>
-						</dict>
-						<key>MacroActionType</key>
-						<string>ActivateApplication</string>
-						<key>ReopenWindows</key>
-						<false/>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Select a macro group</string>
-						<key>DisplayKind</key>
-						<string>Window</string>
-						<key>IncludeStdErr</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ExecuteAppleScript</string>
-						<key>NotifyOnFailure</key>
-						<false/>
-						<key>Path</key>
-						<string></string>
-						<key>StopOnFailure</key>
-						<false/>
-						<key>Text</key>
-						<string>try	set macroGroupName to "t: KM groups (Palettes)"		tell application "Keyboard Maestro"				if macro group macroGroupName exists then			select macro group macroGroupName		else			error "Cannot select macro group " &amp; macroGroupName &amp; " — it is missing!"		end if			end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend trytry		tell application "System Events"		tell application process "Keyboard Maestro"			tell window "Keyboard Maestro Editor"				tell scroll area 2 of splitter group 1 of group 1					set focused to true				end tell			end tell		end tell	end tell	on error e number n	set e to e &amp; return &amp; return &amp; "Num: " &amp; n	if n ≠ -128 then		try			tell application (path to frontmost application as text) to set ddButton to button returned of ¬				(display dialog e with title "ERROR!" buttons {"Copy Error Message", "Cancel", "OK"} ¬					default button "OK" giving up after 30)			if ddButton = "Copy Error Message" then set the clipboard to e		end try	end ifend try------------------------------------------------------------------------------</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
-						<key>TrimResults</key>
-						<true/>
-						<key>TrimResultsNew</key>
-						<true/>
-						<key>UseText</key>
-						<true/>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>535417132.02149701</real>
-				<key>ModificationDate</key>
-				<real>537659233.924564</real>
-				<key>Name</key>
-				<string>t: KM Groups (Palettes)</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>17</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>0</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>4BCAD33A-0709-445D-B261-595B4B26C436</string>
-			</dict>
-		</array>
-		<key>Modifiers</key>
-		<integer>6656</integer>
-		<key>Name</key>
-		<string>t: KM groups (General)</string>
-		<key>PaletteUnderMouse</key>
-		<false/>
-		<key>Theme</key>
-		<dict>
-			<key>Opacity</key>
-			<integer>100</integer>
-			<key>Size</key>
-			<integer>21</integer>
-			<key>UseDefaultInstead</key>
-			<false/>
-			<key>UseIcon</key>
-			<false/>
-			<key>UseTrigger</key>
-			<true/>
-		</dict>
-		<key>ToggleMacroUID</key>
-		<string>8235964C-F40A-4814-A909-4D2C702D0FDB</string>
-		<key>UID</key>
-		<string>4C8B2D82-3C74-4893-A3A8-B594C60C816B</string>
-	</dict>
-</array>
-</plist>

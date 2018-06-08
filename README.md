@@ -49,7 +49,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation tool
 - Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
 - It has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
-- I share [all the macros I use](km-macros#readme) with the app.
+- I share [all the macros I use](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros.html) with the app.
 
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
 - I love GTD methodology. This app is phenomenal with helping me [organise my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
