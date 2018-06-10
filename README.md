@@ -342,9 +342,6 @@ Here is how my library looks:
 - Here is one example of such rule:
 <img src="http://i.imgur.com/7oiSYV3.png" width="500" alt="img">
 
-#### [Flux](https://justgetflux.com) - Removes blue light
-- A simple utility that makes the screen have nice and warm non blue light emitting colour in the evening. On macOS Sierra, you can use the [built-in feature](https://support.apple.com/en-us/HT207513) instead.
-
 #### [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) - Show time until next event in menu bar
 - It has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts.
 
