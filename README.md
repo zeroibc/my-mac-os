@@ -32,10 +32,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 ### Productivity
 #### [Alfred](https://www.alfredapp.com) - Launcher
-- Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
+- Alfred is a very powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
 <img src="https://i.imgur.com/5Cs4oly.png" width="600" alt="img">
 
-- It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
+- It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 
 - I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
@@ -87,14 +87,14 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I share all the Typinator sets I made with the app [here](typinator).
 
 #### [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
-- I use Pixave as my own personal image library. I sort images in groups and I have the powerful search I can use to find any image I need.
+- I use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
 - Here is how my library looks like:
 ![](https://i.imgur.com/MjGFvSb.jpg)
 
-- The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways) for sharing.
+- The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways).
 
 #### [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
-- I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific application.
+- I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific applications.
 <img src="https://i.imgur.com/BXdQ1LZ.png" width="500" alt="img">
 
 - I love scrolling through my tabs in Safari with three finger swipes left and right as well as opening and closing tabs with swiping up and down respectively.
@@ -144,14 +144,14 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 <img src="https://i.imgur.com/VLFRDAC.png" width="400" alt="img">
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
-- I never listen to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, whale noises or sailing yacht.
+- I never listen to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
 - Powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant.
 - Right now I use it show the task I am currenly working on in a little window in the middle of the screen for a brief moment:
 <img src="https://i.imgur.com/E7RsarV.png" width="300" alt="img">
 
-- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua).
+- My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
 
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
 - The app I use to keep up with my RSS feeds. I use RSS to follow my favourite blogs, stay up to date on new podcast episodes and even track some software releases.
@@ -172,10 +172,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - Enhance play/pause as well as previous/next playback keys to not only work in iTunes and Spotify but work for Soundcloud, Youtube and many other services.
 
 #### [Transmission](https://www.transmissionbt.com/) - BitTorrent client
-- A torrent client that I use, very minimal in its UI but is very powerful and has all the features that I need without the bloat that [uTorrent](http://www.utorrent.com/intl/en/) and other clients have.
+- A torrent client that I use. Very minimal in its UI but very powerful and has all the features that I need.
 
 #### [Transmit](https://www.panic.com/transmit/) - Transfer files
-- I often use this app to quickly send files from my local file system to the cloud (either S3 or Dropbox) and get a shareable link I can send to people.
+- I often use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
 - I use [this alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
 <img src="http://i.imgur.com/RkkcdvA.png" width="400" alt="img">
 
@@ -187,7 +187,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I now run most applications in full screen and switch between them with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
-- Use the app to fully plan any meal or recipe I want to make throughout the day as well as [collect recipes](https://wiki.nikitavoloboev.xyz/health/nutrition/cooking/recipes.html) and manage my shoppping list.
+- Use the app to fully plan any meal or recipe I want to make throughout the day as well as [collect recipes](https://github.com/nikitavoloboev/recipes#readme) and manage my shoppping list.
 
 ### Code
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
@@ -235,7 +235,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 Here is how my library looks:
 ![](https://i.imgur.com/LBQVFPo.png)
 
-- I share my entire library of snippets you can import yourself [from here](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html). I share all my snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html).
+- I share my entire library of snippets as [GitHub Gists](https://wiki.nikitavoloboev.xyz/sharing/my-gists.html). And I share my local library too that you can download [here](https://wiki.nikitavoloboev.xyz/macOS/apps/snippetslab.html).
 
 #### [Tower](https://www.git-tower.com) - Git client
 - Use the app to help me version control any project I am working on. Love the ability to search through commits, check out branches with ease and searching through all the Git repositories I have on my mac with quick search.
@@ -268,7 +268,7 @@ Here is how my library looks:
 
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 - I use the app to stay up to date and communicate on Twitter.
-- Tweetbot is also blocked for me during my `Focus` time. I can only post tweets but I can't visit the app to see my feeds.
+- Tweetbot is also blocked for me during my [Focus time](https://wiki.nikitavoloboev.xyz/focusing/focusing.html). I can only post tweets but I can't visit the app to see my feeds.
 - Twitter is my primary way to stay up to date on things and is my favourite social network after GitHub. I curate and publically share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
 - I have Tweetbot open in full screen with four columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[ML](https://twitter.com/nikitavoloboev/lists/ml)/[Other](https://twitter.com/nikitavoloboev/lists/other1)). Here is how that looks for me:
 
@@ -367,7 +367,7 @@ Here is how my library looks:
 
 ### Browsers
 #### [Safari](https://www.apple.com/lae/safari/)
-- My favourite browser for many reasons. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised and doesn't kill your battery.
+- My favourite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised and doesn't kill your battery.
 - One powerful plus that Chrome does have over safari is the amount of Chrome extensions that you can get. Fortunately the ones most needed for me do [exist on Safari](https://github.com/learn-anything/safari-extensions#readme).
 - My absolute favourite extension on Safari is [sVim](https://github.com/flipxfx/sVim) which gives me full keyboard control over my browser. [Here](https://gist.github.com/nikitavoloboev/c26e6a05e4e426e0542e55b7513b581c) is my config for it.
 
@@ -376,7 +376,7 @@ Here is how my library looks:
 - I also love the variety of [Chrome extensions](https://github.com/learn-anything/chrome-extensions#readme) that people have built and shared.
 
 #### [Beaker Browser](https://beakerbrowser.com)
-- Experimental Peer to Peer browser. Experimenting with using it more and more as I find the technology and the implications of it fascinating.
+- Experimental Peer to Peer browser. Experimenting with using it more and more as I find the [technology and the implications of it fascinating](https://www.youtube.com/watch?v=-ep0ZIe6i10).
 
 #### [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - Use it for web devolopment for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
