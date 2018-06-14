@@ -423,6 +423,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
+- [loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) - Manage Go-based Alfred workflows.
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
