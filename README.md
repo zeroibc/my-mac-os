@@ -413,6 +413,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 - [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+- [modd](https://github.com/cortesi/modd) - Flexible tool for responding to filesystem changes.
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 - [now](https://github.com/zeit/now-cli) - Realtime global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
