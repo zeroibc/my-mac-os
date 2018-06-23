@@ -7,3 +7,5 @@ You can install the theme from [here](https://cdn.rawgit.com/nikitavoloboev/my-m
 It goes well with [Pure Zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
 ![](https://i.imgur.com/WQNfyfO.png)
+
+My preferences for iTerm can be found [here](https://github.com/nikitavoloboev/dotfiles/tree/master/iterm).
