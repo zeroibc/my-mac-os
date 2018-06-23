@@ -52,7 +52,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I share [all the macros I use](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros.html) with the app.
 
 #### [2Do](http://www.2doapp.com/mac) - Flexible task manager
-- I love GTD methodology. This app is phenomenal with helping me [organise my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
+- I love GTD methodology. This app is phenomenal with helping me [organize my tasks](https://wiki.nikitavoloboev.xyz/macOS/apps/2do.html). Here is how my sidebar looks:
 <img src="https://i.imgur.com/URuzerx.png" width="150">
 
 - It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
@@ -60,7 +60,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 #### [Trello](https://trello.com) - Project management tool
 - I use the app a lot to track various projects I have in my life.
-- I share many boards I made [publically](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
+- I share many boards I made [publicly](https://wiki.nikitavoloboev.xyz/sharing/my-trello.html). Here is an example of a public board for tracking various [things I want to learn](https://trello.com/b/cu32qF3q).
 ![](https://i.imgur.com/cZzCfJ3.jpg)
 
 - I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
@@ -110,7 +110,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I always view my events from `Week` view. And show 5 days only with all 24h shown for all days. This lets me have a perspective over what I have to do now. What deadlines I have to complete soon. And gives me the freedom to adjust my schedule in light of upcoming deadlines and events.
 
 #### [Contexts](https://contexts.co) - Window switcher
-- Allows me to fuzzy search through all the currenly active windows that I have.
+- Allows me to fuzzy search through all the currently active windows that I have.
 <img src="https://i.imgur.com/q6nfG2P.png" width="500" alt="img">
 
 - Makes jumping to the right window I need effortless. I often may have many VS Code instances with different projects running and this lets me switch to the project I need in seconds.
@@ -121,7 +121,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 <img src="https://i.imgur.com/Brw1wLV.png" width="500" alt="img">
 
 #### [Bartender](https://www.macbartender.com/) - Menu bar organizer
-- A great utility app that allows you to customise and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customised it to have the most important information that I need to show in it.
+- A great utility app that allows you to customize and hide the contents of your menu bar and improve the aesthetics of your OS. It is also is quite beneficial for me as I customized it to have the most important information that I need to show in it.
 <img src="https://i.imgur.com/vcwCL1s.png" width="500" alt="img">
 
 - I can also activate Bartender and start searching for the menu bar item I need all from the keyboard.
@@ -154,7 +154,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
 
 #### [Reeder](http://reederapp.com/mac/) - RSS Reeder
-- The app I use to keep up with my RSS feeds. I use RSS to follow my favourite blogs, stay up to date on new podcast episodes and even track some software releases.
+- The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blogs, stay up to date on new podcast episodes and even track some software releases.
 - I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](https://wiki.nikitavoloboev.xyz/research/blogs.html) between phone and mac.
 - Here is how Reeder looks like for me:
 <img src="https://i.imgur.com/WCGFLl8.png" width="500" alt="img">
@@ -169,14 +169,14 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - This is essential if you want to take control of what information gets sent out from your computer and what connections have right to connect to your data.
 
 #### [BeardedSpice](https://github.com/beardedspice/beardedspice) - Extend Mac Media Keys
-- Enhance play/pause as well as previous/next playback keys to not only work in iTunes and Spotify but work for Soundcloud, Youtube and many other services.
+- Enhance play/pause as well as previous/next playback keys to not only work in iTunes and Spotify but work for SoundCloud, YouTube and many other services.
 
 #### [Transmission](https://www.transmissionbt.com/) - BitTorrent client
 - A torrent client that I use. Very minimal in its UI but very powerful and has all the features that I need.
 
 #### [Transmit](https://www.panic.com/transmit/) - Transfer files
 - I often use this app to quickly send files from my local file system to the cloud and get a shareable link I can send to people.
-- I use [this alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
+- I use [this Alfred workflow](https://github.com/bigluck/alfred2-transmit) to quickly open the cloud storage I need.
 <img src="http://i.imgur.com/RkkcdvA.png" width="400" alt="img">
 
 #### [Anki](http://ankisrs.net) - Intelligent flash cards
@@ -187,11 +187,11 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I now run most applications in full screen and switch between them with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
 
 #### [Paprika Recipe Manager](https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)
-- Use the app to fully plan any meal or recipe I want to make throughout the day as well as [collect recipes](https://github.com/nikitavoloboev/recipes#readme) and manage my shoppping list.
+- Use the app to fully plan any meal or recipe I want to make throughout the day as well as [collect recipes](https://github.com/nikitavoloboev/recipes#readme) and manage my shopping list.
 
 ### Code
 #### [VS Code](https://github.com/Microsoft/vscode) - Code editor
-- My favourite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) for it.
+- My favorite editor that I use to write code in. I use [many extensions](https://wiki.nikitavoloboev.xyz/text-editors/vs-code/vs-code-extensions.html) for it.
 - My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 - I use [Monokai Octagon](https://www.monokai.pro/vscode/) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
@@ -220,7 +220,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 <img src="https://i.imgur.com/YSfRGUf.png" width="500" alt="img">
 
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
-- Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred Worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
+- Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
 
 - I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/dash-profile-switch#readme) I made to quickly switch between Dash profiles.
@@ -229,7 +229,7 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 #### [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippet manager
 - I use the app to manage my own personal library of snippets. I prefix all snippets I make. For example vim snippets are prefixed with `vim:`. Git related snippets with `git:` and so on.
-- This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the App's author provides to search for these snippets insanely fast.
+- This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the app's author provides to search for these snippets insanely fast.
 <img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
 
 Here is how my library looks:
@@ -295,14 +295,14 @@ Here is how my library looks:
 - I describe my thoughts and approach to writing [here](https://wiki.nikitavoloboev.xyz/writing/writing.html).
 
 #### [Marked](http://marked2app.com) - Preview rendered markdown files
-- If I ever need to preview a readme or any other markdown file that I wrote or just want to read, this app is the best application for that I found. It also features live updating and quite a lot of customisable features.
+- If I ever need to preview a readme or any other markdown file that I wrote or just want to read, this app is the best application for that I found. It also features live updating and quite a lot of customizable features.
 
 ### Design
 #### [Sketch](https://www.sketchapp.com/) - Design tool
 - Use the app to quickly prototype new designs. I also enjoy using [Figma](https://www.figma.com) a lot.
 
 #### [Sip](https://sipapp.io/) - Collect, organize & share colors
-- A great color picker I use to collect my favourite colors and color schemes.
+- A great color picker I use to collect my favorite colors and color schemes.
 
 <img src="https://i.imgur.com/YZe3vix.png" width="400" alt="img">
 
@@ -345,13 +345,13 @@ Here is how my library looks:
 #### [Next Meeting](https://itunes.apple.com/us/app/next-meeting-menu-bar-app/id1017470484?mt=12) - Show time until next event in menu bar
 - It has been quite a big addition to my workflow as I know can quickly know how much time is left until my next class or some other event starts.
 
-#### [DaisyDisk](https://daisydiskapp.com) - Visualise taken disk space
+#### [DaisyDisk](https://daisydiskapp.com) - Visualize taken disk space
 - A great tool to quickly get a visual glance over what is taking up your disk space and where.
 
 #### [Gemini](http://macpaw.com/gemini) - Search & remove duplicate files
 - A great little utility to find duplicate files in the system. Didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk.
 
-#### [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Centre Calendar
+#### [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
 - A great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week.
 <img src="https://i.imgur.com/wZA0JFo.png" width="300" alt="img">
 
@@ -367,19 +367,19 @@ Here is how my library looks:
 
 ### Browsers
 #### [Safari](https://www.apple.com/lae/safari/)
-- My favourite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised and doesn't kill your battery.
+- My favourite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimized and doesn't kill your battery.
 - One powerful plus that Chrome does have over safari is the amount of Chrome extensions that you can get. Fortunately the ones most needed for me do [exist on Safari](https://github.com/learn-anything/safari-extensions#readme).
-- My absolute favourite extension on Safari is [sVim](https://github.com/flipxfx/sVim) which gives me full keyboard control over my browser. [Here](https://gist.github.com/nikitavoloboev/c26e6a05e4e426e0542e55b7513b581c) is my config for it.
+- My absolute favorite extension on Safari is [sVim](https://github.com/flipxfx/sVim) which gives me full keyboard control over my browser. [Here](https://gist.github.com/nikitavoloboev/c26e6a05e4e426e0542e55b7513b581c) is my config for it.
 
 #### [Google Chrome](https://www.google.com/chrome/)
-- I only use Chrome for web devolopment due to its superior Chrome Dev tools.
+- I only use Chrome for web development due to its superior Chrome Dev tools.
 - I also love the variety of [Chrome extensions](https://github.com/learn-anything/chrome-extensions#readme) that people have built and shared.
 
 #### [Beaker Browser](https://beakerbrowser.com)
 - Experimental Peer to Peer browser. Experimenting with using it more and more as I find the [technology and the implications of it fascinating](https://www.youtube.com/watch?v=-ep0ZIe6i10).
 
 #### [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-- Use it for web devolopment for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
+- Use it for web development for its superior Dev Tools in debugging CSS Grid. Prefer Chrome dev tools still.
 
 ## Command Line Apps
 I use [Nix](https://nixos.org/nix/) package manager to install all the [packages I use on my system](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034).
@@ -391,12 +391,12 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
 - [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
-- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
 - [jq](https://github.com/stedolan/jq) - JSON processor.
 - [git](https://github.com/git/git) - Version control.
 - [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
-- [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colours.
-- [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from youtube and other video sites.
+- [ccat](https://github.com/jingweno/ccat) - [cat](http://www.linfo.org/cat.html) command with colors.
+- [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [direnv](https://direnv.net/) - Environment switcher for the shell.
 - [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
@@ -413,9 +413,9 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 - [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
-- [modd](https://github.com/cortesi/modd) - Flexible tool for responding to filesystem changes.
+- [modd](https://github.com/cortesi/modd) - Flexible tool for responding to file system changes.
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-- [now](https://github.com/zeit/now-cli) - Realtime global deployments served over HTTP/2.
+- [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [hub](https://github.com/github/hub) - GitHub wrapper.
 - [entr](http://www.entrproject.org/) - Run arbitrary commands when files change.
@@ -469,9 +469,9 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## Contributing
-If you shared a similiar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
+If you shared a similar personal setup to this, be it for Windows, Linux or anything else, you can add it in [Similar Setups](#similar-setups) section.
 
-I love finding new awesome tools and apps. If you have a favourite tool or app that you think I missed, please [say it](../../issues/new).
+I love finding new awesome tools and apps. If you have a favorite tool or app that you think I missed, please [say it](../../issues/new).
 
 ## Thank you 💜
 You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
