@@ -429,6 +429,8 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+- [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
+- [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
 
 ## Preference Panes
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
