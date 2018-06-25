@@ -86,13 +86,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I use the app to [fully automate writing repetitive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
 - I share all the Typinator sets I made with the app [here](typinator).
 
-#### [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
-- I use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
-- Here is how my library looks like:
-![](https://i.imgur.com/MjGFvSb.jpg)
-
-- The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways).
-
 #### [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 - I use this app a lot for mapping [various trackpad gestures](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) to hotkeys and actions both globally and per specific applications.
 <img src="https://i.imgur.com/BXdQ1LZ.png" width="500" alt="img">
@@ -313,6 +306,13 @@ Here is how my library looks:
 <img src="https://i.imgur.com/UgRLB92.png" width="500" alt="img">
 
 ### Images
+#### [Pixave](http://www.littlehj.com/mac) - Image/GIF/Video organizer
+- I use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
+- Here is how my library looks like:
+![](https://i.imgur.com/MjGFvSb.jpg)
+
+- The red tag means that the image was uploaded to my [Instagram page](https://instagram.com/prettiways).
+
 #### [Pixelmator](http://www.pixelmator.com/mac/) - Image editor
 - Mostly use the app to do quick, small edits on images like adding transparent background to an image.
 
