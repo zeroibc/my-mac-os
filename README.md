@@ -132,16 +132,16 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 #### [Annotate](https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12) - Create and annotate screenshots
 - Best annotation tool I found to exist. After you make a screenshot, it allows for quick edits. Adding arrows, some text, blurring parts of the image as well as ability to quickly save the image or drag it to Dropzone to upload to Imgur to share the link quickly with anyone I want.
 
-#### [Popclip](https://pilotmoon.com/popclip/) - iOS like mouse text selection popopver
-- Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on Google, DuckDuckGo, Youtube, Dictionary, Reddit, Google Images or it can translate text selected, copy it or even make a SnippetsLab snippet from it. Here is how it looks for me:
+#### [Popclip](https://pilotmoon.com/popclip/) - iOS like mouse text selection popover
+- Another great utility I cannot live without, brings up a quick menu whenever some text is selected on which I can do a number of quick actions, like searching on Google, DuckDuckGo, YouTube, Dictionary, Reddit, Google Images or it can translate text selected, copy it or even make a SnippetsLab snippet from it. Here is how it looks for me:
 <img src="https://i.imgur.com/VLFRDAC.png" width="400" alt="img">
 
 #### [Noizio](http://noiz.io/) - Ambient sounds
 - I never listen to music when I want to focus on something as it is distracting. Instead I listen to sounds of rain, train or fire.
 
 #### [Hammerspoon](http://www.hammerspoon.org) - Automation tool
-- Powerul automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant.
-- Right now I use it show the task I am currenly working on in a little window in the middle of the screen for a brief moment:
+- Powerful automation engine, wanted to use it for window management at first but found BetterTouchTool to be more performant.
+- Right now I use it show the task I am currently working on in a little window in the middle of the screen for a brief moment:
 <img src="https://i.imgur.com/E7RsarV.png" width="300" alt="img">
 
 - My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/).
@@ -257,12 +257,12 @@ Here is how my library looks:
 
 #### [Airmail](http://airmailapp.com/) - Email client
 - By far the most well designed and feature rich mail application that I have used so far. Has simple design, support for multiple accounts and a multitude of nice shortcuts that you can use.
-- I approach all of my email tasks [in GTD style](https://wiki.nikitavoloboev.xyz/macOS/apps/airmail.html). Keeping my email inbox close to 0 at all times.
+- I approach all of my email tasks [in GTD style](https://wiki.nikitavoloboev.xyz/macOS/apps/airmail.html). Keeping my email Inbox close to 0 at all times.
 
 #### [Tweetbot](http://tapbots.com/tweetbot/mac/) - Twitter client
 - I use the app to stay up to date and communicate on Twitter.
 - Tweetbot is also blocked for me during my [Focus time](https://wiki.nikitavoloboev.xyz/focusing/focusing.html). I can only post tweets but I can't visit the app to see my feeds.
-- Twitter is my primary way to stay up to date on things and is my favourite social network after GitHub. I curate and publically share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
+- Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
 - I have Tweetbot open in full screen with four columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[ML](https://twitter.com/nikitavoloboev/lists/ml)/[Other](https://twitter.com/nikitavoloboev/lists/other1)). Here is how that looks for me:
 
 <img src="https://i.imgur.com/cy67ddm.png" width="500" alt="img">
@@ -351,23 +351,19 @@ Here is how my library looks:
 #### [Gemini](http://macpaw.com/gemini) - Search & remove duplicate files
 - A great little utility to find duplicate files in the system. Didn't get much use of it so far but it may be quite useful on occasions where I do want to clean up my system from useless files and junk.
 
-#### [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
-- A great visual representation of my month in form of a notification center widget that allows me to see any day I want at a glance as well as what day of month it is and how many events I have in this week.
-<img src="https://i.imgur.com/wZA0JFo.png" width="300" alt="img">
-
 #### [Default Folder X](http://stclairsoft.com/DefaultFolderX/) - Extend & improve open/save dialogues
 - Neat little utility I mostly use to quickly go to various folders from file save windows from hotkeys.
 <img src="https://i.imgur.com/RATGaNJ.png" width="400" alt="img">
 
-#### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitioring from menu bar
-- Great system monitoring tools of which I use CPU and storage tracking, I find it very valuable to know if my CPU is being abused by some application and if so by which. I then use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes.
+#### [iStat Menus](https://bjango.com/mac/istatmenus/) - Mac system monitoring from menu bar
+- Great system monitoring tools of which I use to quickly see my CPU/network/memory usage as well as quickly see my calendar and weather. I find it very valuable to know if my CPU is being abused by some application and if so by which. I then use [ProcessControl](https://github.com/vitorgalvao/alfred-workflows/tree/master/ProcessControl#readme) workflow to quickly kill off misbehaving processes.
 
 #### [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Puts Overcast in menu bar
 - Allows you to listen and control playback of podcasts from [Overcast](https://overcast.fm) right from your menu bar.
 
 ### Browsers
 #### [Safari](https://www.apple.com/lae/safari/)
-- My favourite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimized and doesn't kill your battery.
+- My favorite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimized and doesn't kill your battery.
 - One powerful plus that Chrome does have over safari is the amount of Chrome extensions that you can get. Fortunately the ones most needed for me do [exist on Safari](https://github.com/learn-anything/safari-extensions#readme).
 - My absolute favorite extension on Safari is [sVim](https://github.com/flipxfx/sVim) which gives me full keyboard control over my browser. [Here](https://gist.github.com/nikitavoloboev/c26e6a05e4e426e0542e55b7513b581c) is my config for it.
 
