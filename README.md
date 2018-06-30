@@ -401,6 +401,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
 - [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
 - [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
+- [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
 - [curl](https://github.com/curl/curl) - Transfer data, supports various protocols.
 - [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
