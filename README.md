@@ -121,10 +121,10 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 
 #### [Focus](https://heyfocus.com) - Block distracting websites
 - I have front pages of [Hckrnews](http://hckrnews.com), [Reddit](https://www.reddit.com), [Twitter](https://twitter.com) and many more time sinking websites on the black list.
-<img src="https://i.imgur.com/OwIlq6v.png" width="500" alt="img">
+<img src="https://i.imgur.com/B9Tsaxf.png" width="500" alt="img">
 
-- I then have a schedule where I can only use these websites for 30 minutes every 2 hours. It also turns on Do Not Disturb mode whilst I am in Focus mode.
-<img src="https://i.imgur.com/OsAazBy.png" width="500" alt="img">
+- I then have a schedule where I can only use these websites for 20 minutes every 2 hours. It also turns on Do Not Disturb mode whilst I am in Focus mode.
+<img src="https://i.imgur.com/rZkauBr.png" width="500" alt="img">
 
 - If I go to any of my blocked websites during my `Focus` time, I am greeted with this message.
 <img src="https://i.imgur.com/MMSn0zl.png" width="500" alt="img">
@@ -265,7 +265,7 @@ Here is how my library looks:
 - Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
 - I have Tweetbot open in full screen with four columns (Mentions/[Top](https://twitter.com/nikitavoloboev/lists/top)/[ML](https://twitter.com/nikitavoloboev/lists/ml)/[Other](https://twitter.com/nikitavoloboev/lists/other1)). Here is how that looks for me:
 
-<img src="https://i.imgur.com/cy67ddm.png" width="500" alt="img">
+<img src="https://i.imgur.com/cy67ddm.png" width="600" alt="img">
 
 ### Writing
 #### [Day One](http://dayoneapp.com/) - Digital journal
