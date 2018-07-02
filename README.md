@@ -207,11 +207,6 @@ I also share [my dotfiles](https://github.com/nikitavoloboev/dotfiles) together 
 - I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
 - I use [many plugins](https://wiki.nikitavoloboev.xyz/text-editors/sublime-text/sublime-text-plugins.html) together with [Ayu theme](https://github.com/dempfi/ayu).
 
-#### [Ship](https://www.realartists.com/index.html) - Issue tracking and code review for GitHub
-- An awesome native app that lets me manage my GitHub issues.
-- Can schedule certain issues as 'Up Next' and complete them one by one.
-<img src="https://i.imgur.com/YSfRGUf.png" width="500" alt="img">
-
 #### [Dash](https://kapeli.com/dash) - API Documentation Browser
 - Allows you to download any docset that you might want to use, search for any method, class or anything that you need very quickly, comes with the amazing [Alfred worfklow](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) to simplify the process of searching for the right things.
 <img src="http://i.imgur.com/tBEkKtL.png" width="500" alt="img">
