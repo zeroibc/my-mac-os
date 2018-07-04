@@ -237,6 +237,9 @@ Here is how my library looks:
 - I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use [vim editor](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim.html) often when connecting to remote sessions and when I need a console editor.
 - My config for it can be seen [here](https://github.com/nikitavoloboev/dotfile/blob/master/nvim/init.vim). I use a [few plugins](https://wiki.nikitavoloboev.xyz/text-editors/vim/vim-plugins.html) for it.
 
+#### [Bee](https://www.neat.io/bee/) - GitHub Issue Tracker
+- Use the app to stay on top of all issues across my GitHub repos. All issues I want to work on soon are put into __Next__ queue and I work through each one, one by one.
+
 ### Social
 #### [Textual](https://www.codeux.com/textual/) - IRC Client
 - I love IRC and this is the best macOS client for it.
