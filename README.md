@@ -428,6 +428,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
 - [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
 - [npx](https://github.com/zkat/npx) - Execute npm package binaries.
+- [devd](https://github.com/cortesi/devd) - Local webserver for developers.
 
 ## Preference Panes
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
