@@ -429,6 +429,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
 - [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [devd](https://github.com/cortesi/devd) - Local webserver for developers.
+- [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
 
 ## Preference Panes
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
