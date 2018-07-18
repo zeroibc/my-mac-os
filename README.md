@@ -430,6 +430,7 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [devd](https://github.com/cortesi/devd) - Local webserver for developers.
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
+- [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature.
 
 ## Preference Panes
 - [GPG Suite](https://gpgtools.org/) - Encrypt, decrypt, sign and verify files or messages.
